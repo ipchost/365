@@ -3122,3 +3122,6 @@ http://cdn1.starcinemax.fun:2095/0393/index.m3u8?token=137946825
 http://cdn2.starcinemax.fun:2095/3049/index.m3u8?token=137946825
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" tvg-name="cms криминальная россия" group-title="Кинозалы CMS",CMS криминальная россия
 http://cdn2.starcinemax.fun:2095/0906/index.m3u8?token=137946825
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/ipchost/365/4846b02a43eb55750c3bdf33ec38550082694e16/5d206a46-d63e-4ec6-8a66-2a578ffd.jpg?raw=true" group-title="Первый отдел", Первый отдел 1 серия 1 сезон
+https://dlcache4.vibio.tv/f82a5408ee311f24f5652541f625ce02/2984/2984294/output.lq.mp4
