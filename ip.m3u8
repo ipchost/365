@@ -3470,3 +3470,6 @@ https://s1.xkino.net/s2/mp4/92cdcbd01d6354cf57c5f54e70ae1f9a/Fantasticheskie_tva
 https://s2.xkino.net/s2/mp4/92cdcbd01d6354cf57c5f54e70ae1f9a/Fantasticheskie_tvari_2.hd.mp4
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/тайны%20дамблдора.jpg?raw=true" group-title="Гарри Поттер", Фантастические твари: Тайны Дамблдора (2022)
 https://s3.xkino.net/s2/mp4/92cdcbd01d6354cf57c5f54e70ae1f9a/Fantasticheskie_tvari_Tayny_Dambldora.hd.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/Мастер.jpg?raw=true" group-title="Джейсон Стейтем",  Мастер (2025)
+https://s3.xkino.net/s1/mp4/92cdcbd01d6354cf57c5f54e70ae1f9a/Master_2025.1080.mp4
