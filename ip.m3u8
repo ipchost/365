@@ -3456,3 +3456,9 @@ https://s3.xkino.net/s2/mp4/92cdcbd01d6354cf57c5f54e70ae1f9a/Garri_Potter_i_uzni
 https://s1.xkino.net/s2/mp4/92cdcbd01d6354cf57c5f54e70ae1f9a/Garri_Potter_i_kubok_ognya.hd.mp4
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/орден%20феникса.jpg?raw=true" group-title="Гарри Поттер", Гарри Поттер и Орден Феникса (2007)
 https://s1.xkino.net/s2/mp4/92cdcbd01d6354cf57c5f54e70ae1f9a/Garri_Potter_i_orden_Feniksa.hd.mp4
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/Принц%20полукровка.jpg?raw=true" group-title="Гарри Поттер", Гарри Поттер и Принц Полукровка (2009)
+https://s1.xkino.net/s2/mp4/92cdcbd01d6354cf57c5f54e70ae1f9a/Garri_Potter_i_princ_polukrovka.hd.mp4
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/Дары%20смерти%20часть%201.jpg?raw=true" group-title="Гарри Поттер", Гарри Поттер и Дары Смерти Часть 1 (2010)
+https://s2.xkino.net/s2/mp4/92cdcbd01d6354cf57c5f54e70ae1f9a/Garri_Potter_i_ds_1.hd.mp4
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/дары%20смерти%20часть%202.jpg?raw=true" group-title="Гарри Поттер", Гарри Поттер и Дары Смерти Часть 2 (2011)
+https://s2.xkino.net/s2/mp4/92cdcbd01d6354cf57c5f54e70ae1f9a/Garri_Potter_i_ds_2.hd.mp4
