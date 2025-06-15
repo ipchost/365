@@ -3,7 +3,7 @@
 https://github.com/ipchost/365/raw/820e6bea35358ff70e12530db9bdd018106f5803/Archy%20IPTV%20DONAT%201.mp4
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/лого.jpg?raw=true" group-title="𝐏𝐑𝐎 𝐈𝐏𝐓𝐕", Тест
-https://github.com/ipchost/test/raw/refs/heads/main/iframes%20kamin%20365.m3u
+http://cdn2.starcinemax.fun:2095/0917/index.m3u8?token=137946825
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/лого.jpg?raw=true" group-title="𝐏𝐑𝐎 𝐈𝐏𝐓𝐕", Тест
 https://github.com/ipchost/test/raw/refs/heads/main/iframes%20kamin%20365.m3u
