@@ -8,7 +8,7 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/лого.jpg?raw=true" group-title="𝐏𝐑𝐎 𝐈𝐏𝐓𝐕", Тест 1
 https://github.com/ipchost/test/raw/refs/heads/main/variant%20(222).m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/лого.jpg" group-title="𝐏𝐑𝐎 𝐈𝐏𝐓𝐕", Камин
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/лого.jpg?raw=true" group-title="𝐏𝐑𝐎 𝐈𝐏𝐓𝐕", Камин
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
