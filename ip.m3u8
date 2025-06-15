@@ -8,6 +8,10 @@ https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/лого.jpg?raw=true" group-title="𝐏𝐑𝐎 𝐈𝐏𝐓𝐕", Тест 1
 https://github.com/ipchost/test/raw/refs/heads/main/variant%20(222).m3u8
 
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/лого.jpg" group-title="𝐏𝐑𝐎 𝐈𝐏𝐓𝐕", Камин
+#EXTVLCOPT:http-user-agent=SmartTV
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
+
 #EXTINF:-1 tvg-id="1" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20+0%20(%D0%9D%D0%B5%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC%D1%8B%D1%81%D1%81%D0%BA).png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8001/video-${start}-${duration}.m3u8?token=vEioa3LhczSWgaEF" timeshift="14", Первый канал
 http://cdn.admuspeh.my/8001/video.m3u8?token=vEioa3LhczSWgaEF
 #EXTINF:-1 tvg-id="138" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8150/video-${start}-${duration}.m3u8?token=vEioa3LhczSWgaEF" timeshift="7", Первый канал HD
