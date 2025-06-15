@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://epg.admuspeh.my"
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/лого.jpg?raw=true" group-title="ПОДДЕРЖКА ПРОЕКТА", Донат
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/лого.jpg?raw=true" group-title="ПОДДЕРЖКА ПРОЕКТА", Камин QR-код
 #EXTVLCOPT:http-user-agent=SmartTV
 https://github.com/ipchost/365/raw/820e6bea35358ff70e12530db9bdd018106f5803/Archy%20IPTV%20DONAT%201.mp4
 
