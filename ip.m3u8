@@ -3,6 +3,9 @@
 #EXTVLCOPT:http-user-agent=SmartTV
 https://github.com/ipchost/365/raw/820e6bea35358ff70e12530db9bdd018106f5803/Archy%20IPTV%20DONAT%201.mp4
 
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/лого.jpg?raw=true" group-title="𝐏𝐑𝐎 𝐈𝐏𝐓𝐕", TEST
+https://github.com/ipchost/DONAT-/blob/main/66DONAT-1.m3u8
+
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/Поддержка%20проекта.jpg?raw=true" group-title="❗ ПОДДЕРЖКА ПРОЕКТА ❗", ПОДДЕРЖКА ПРОЕКТА 
 https://github.com/ipchost/365/raw/refs/heads/main/На%20развитие%20проекта%20(3).mp4
