@@ -1,9 +1,5 @@
 #EXTM3U url-tvg="https://epg.admuspeh.my"
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/лого%20бабки.jpg?raw=true" group-title=" ПОДДЕРЖКА ПРОЕКТА ", Камин QR-код
-#EXTVLCOPT:http-user-agent=SmartTV
-https://github.com/ipchost/365/raw/820e6bea35358ff70e12530db9bdd018106f5803/Archy%20IPTV%20DONAT%201.mp4
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/лого.jpg?raw=true" group-title="𝐏𝐑𝐎 𝐈𝐏𝐓𝐕", TEST
 https://raw.githubusercontent.com/ipchost/tess/refs/heads/main/variant.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/Поддержка%20проекта.jpg?raw=true" group-title=" ПОДДЕРЖКА ПРОЕКТА ", ПОДДЕРЖКА ПРОЕКТА 
@@ -3526,30 +3522,3 @@ https://s3.xkino.net/s1/mp4/92cdcbd01d6354cf57c5f54e70ae1f9a/Master_2025.1080.mp
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=babbbe973009f5163c34fba4050f2aa9_l-5221635-images-thumbs&n=13" group-title="Джейсон Стейтем",  Адреналин 2
 https://s1.mobikinchik.net/uploads3/film/adrenalin-vysokoe-napryazhenie.mp4
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/kontakt.jpg?raw=true" group-title="Контакт",  Контакт 1 серия сезон 1
-https://fv5-4.failiem.lv/down.php?i=p79nh8yr8x&n=Контакт%20(сериал%202021)_s1e1_720p.mp4
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/kontakt.jpg?raw=true" group-title="Контакт",  Контакт 2 серия сезон 1
-https://mediaaly.pro/tvseries/e4e8c947be77dda0368ca78136792080814c1a91/ec0bebce101f7ac96c562b4d94cfa82a:2025061523/720.mp4?dn=Контакт%20(сериал%202021)_s1e2_720p.mp4
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/kontakt.jpg?raw=true" group-title="Контакт",  Контакт 3 серия сезон 1
-https://mediaaly.pro/tvseries/3706561e2f5566c5f937d8f7c8a1256f60539288/b6aacd97f1c5a71ddd10fd4c7eadbafc:2025061523/720.mp4?dn=Контакт%20(сериал%202021)_s1e3_720p.mp4
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/kontakt.jpg?raw=true" group-title="Контакт",  Контакт 4 серия сезон 1
-https://mediaaly.pro/tvseries/506513b962490103d9eafbdf3d69333ff13aa20a/e7fa9619ccad6dbafbbece61605861b7:2025061523/720.mp4?dn=Контакт%20(сериал%202021)_s1e4_720p.mp4
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/kontakt.jpg?raw=true" group-title="Контакт",  Контакт 5 серия сезон 1
-https://mediaaly.pro/tvseries/9fe2e68ec46beb949f42155da13fbf3ec485da92/7ec9b0db164ba3dfba73ad72adaf62d0:2025061523/720.mp4?dn=Контакт%20(сериал%202021)_s1e5_720p.mp4
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/kontakt.jpg?raw=true" group-title="Контакт",  Контакт 6 серия сезон 1
-https://mediaaly.pro/tvseries/f70c051d366c94048b18ee9f3dcc6bfacbd262a5/7f4c356de5cc91ab97d3539babac2ec8:2025061523/720.mp4?dn=Контакт%20(сериал%202021)_s1e6_720p.mp4
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/kontakt.jpg?raw=true" group-title="Контакт",  Контакт 7 серия сезон 1
-https://mediaaly.pro/tvseries/5e0c30249a2c2aca7f601b5599196a85430dd278/803d3e259fe2b1784b7df1b48e9bccee:2025061523/720.mp4?dn=Контакт%20(сериал%202021)_s1e7_720p.mp4
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/kontakt.jpg?raw=true" group-title="Контакт",  Контакт 8 серия сезон 1
-https://mediaaly.pro/tvseries/d2f5d73c01f1d1b238affc00e1ac96a99055afea/6a49509d08399c761c3239772690c01e:2025061523/720.mp4?dn=Контакт%20(сериал%202021)_s1e8_720p.mp4
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/kontakt.jpg?raw=true" group-title="Контакт",  Контакт 9 серия сезон 1
-https://mediaaly.pro/tvseries/f0e365a81436fd1eef1ab036afd93e157836d28d/4345d678c9749afd86955eda13133201:2025061523/720.mp4?dn=Контакт%20(сериал%202021)_s1e9_720p.mp4
