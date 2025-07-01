@@ -10,6 +10,637 @@ https://github.com/ipchost/365/raw/refs/heads/main/На%20развитие%20п�
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
+
+
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28280" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/150/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8zphUrweAXT3F5xTpqoNyWWBTLjxd8.png",.black
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/150/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28837" tvg-logo="http://ttvrun.one/uploads/bk9k2MnYzHLm0nVKQCR00bXk3Dr87B.png",.red
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1894/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv400" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/152/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/YPtFU1jrAc6E6SCL9piVYxPsvlDZuW.png",.sci-fi
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/152/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29078" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/141/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8UdiT7lt1EhQgsdqkyCLQEp0p3k7ZD.png",A1
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/141/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29079" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/423/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/GLTL5bq2Ib6yPpfAsT1UzIN9WbuR0x.png",A2
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/423/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv31052" tvg-logo="http://ttvrun.one/uploads/lXaqwd0wUYW07PtkGN7XalY8swWLzN.png",Ale Kino!+ (PL)
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2948/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv26544" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/710/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/QPCmWSj1ZNUn1R11RUzbGmfJYcjBhn.png",Amedia Hit
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/710/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv6513" tvg-logo="http://ttvrun.one/uploads/uFlDR7KyGC67CdwN4daGPqgzW9bVPC.png",Amedia Premium HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/140/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv27505" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2204/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/YWQrDOHVWIZnkflKS3MRMxlemKlgRN.png",BCU Action HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2204/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv26940" tvg-logo="http://ttvrun.one/uploads/b7S4gEKr0Z4JrmM21qaszMltfS9Oru.png",BCU Catastrophe HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2210/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv27502" tvg-logo="http://ttvrun.one/uploads/2K8QUGhavS2ZL0YcmwN9HTC6YipUw6.png",BCU Cinema HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1661/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv26943" tvg-logo="http://ttvrun.one/uploads/BoHu30VsoHIoBo71KcnVTkcfR2fbCK.png",BCU Cinema+ HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2205/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv27292" tvg-logo="http://ttvrun.one/uploads/PUFLsvrs6nyj2EEeoyVeVp1m15lSPp.png",BCU Comedy HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1369/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29532" tvg-logo="http://ttvrun.one/uploads/LhlmmROcHPJwOaOOItyiQIN3kEOQDx.png",BCU Cosmo HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2226/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29526" tvg-logo="http://ttvrun.one/uploads/L08QwkmkoNcxk9ezkj6CjRGa3QFmbd.png",BCU Criminal HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2220/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv26936" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2206/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/yKJhrwXcUElfBFYMyBTgMkx10apcCR.png",BCU Fantastic HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2206/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv26937" tvg-logo="http://ttvrun.one/uploads/4qew3RxnvWHvEL8UkF4uheQAzxoZ1v.png",BCU FilMystic HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2209/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv26945" tvg-logo="http://ttvrun.one/uploads/gvt6DCKqdJ2RcVLDPMnRSoIQQ9gZNM.png",BCU History HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2208/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv26946" tvg-logo="http://ttvrun.one/uploads/xdxlkF62yyvpjd8uYYd6JzRI1geGP3.png",BCU Kinorating HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2207/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28854" tvg-logo="http://ttvrun.one/uploads/cvZxFRjRttcP2veUfcXpKIl0EFSo3f.png",BCU Marvel HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2202/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv26240" tvg-logo="http://ttvrun.one/uploads/B9wyVcB3q280M7eL4JUMj2q2bHMZBp.png",BCU Media HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2214/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29753" tvg-logo="http://ttvrun.one/uploads/3AXLitsxC9rABgtCs4NdvyxXJ0HKob.png",BCU Premiere 1 HDR
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2365/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29754" tvg-logo="http://ttvrun.one/uploads/Cy57S6ysDnKZ2ZBlFic1HM9baGUPuZ.png",BCU Premiere 2 HDR
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2366/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29755" tvg-logo="http://ttvrun.one/uploads/QkmZr9ze0F9oiRsNgdBYLQvREcHXix.png",BCU Premiere 3 HDR
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2367/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv27503" tvg-logo="http://ttvrun.one/uploads/rS40f1TbRZBG3J88fAC3bcv3mUPO8v.png",BCU Premiere HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1812/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29756" tvg-logo="http://ttvrun.one/uploads/3xOKS82s4jpicaEt5VNH2v673Tkkfq.png",BCU Premiere HDR
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2364/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29529" tvg-logo="http://ttvrun.one/uploads/UR605llz1QevcAd6oYWx3vqNX2UHyQ.png",BCU Premiere Ultra 4K UHD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2223/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29530" tvg-logo="http://ttvrun.one/uploads/FlSRH4LD6tjy5J9UFNGKyQxg73t8gu.png",BCU Reality HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2224/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv26948" tvg-logo="http://ttvrun.one/uploads/n1kH92faL5aRmumjMDVjOgbKKcheL0.png",BCU Romantic HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2217/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29525" tvg-logo="http://ttvrun.one/uploads/ehyqaVYb5mD4le1LO4Ur7rqqQIMhgK.png",BCU RUSERIAL HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2219/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29536" tvg-logo="http://ttvrun.one/uploads/iyg0TgllkGLTgQPJxxJm0iEwAIoYIM.png",BCU Russia 90s HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2230/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv26949" tvg-logo="http://ttvrun.one/uploads/9QEiDKZqR888ALywEn57ORVWmBRWnm.png",BCU Russian HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2216/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv26944" tvg-logo="http://ttvrun.one/uploads/fkEFBg230HP6cOtpiNEhZVp4NlSVSd.png",BCU Stars HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1660/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29531" tvg-logo="http://ttvrun.one/uploads/H6e2QxQsCvxj9apJPc3yBGyk2Zi3Zd.png",BCU Survival HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2225/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29534" tvg-logo="http://ttvrun.one/uploads/NaiiJBNdIlwl4cUOwpPSzdh4GY5ukK.png",BCU TruMotion HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2228/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv27471" tvg-logo="http://ttvrun.one/uploads/Mh8igsPs78osVi5YhwHjxB5hAjVV4A.png",BCU Ultra 4K
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1389/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28064" tvg-logo="http://ttvrun.one/uploads/t258llajzygHeQIeoXezOX2TSY5AuA.png",BCU VHS HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2203/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv26954" tvg-logo="http://ttvrun.one/uploads/m3eo20mVWt9qkfcHfQh60bkfmsikHV.png",BCU Кинозал Premiere 1 HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2213/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv26955" tvg-logo="http://ttvrun.one/uploads/3yaGWPecI8cCqaEcA0WtRiCOrIF3uU.png",BCU Кинозал Premiere 2 HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2212/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv26956" tvg-logo="http://ttvrun.one/uploads/uEGMbAWTZwzrKWUqK4X9C5mEXB1s2S.png",BCU Кинозал Premiere 3 HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2211/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv26951" tvg-logo="http://ttvrun.one/uploads/2L4B6NHJJYRxamTXK3jMh8n5NfXIgP.png",BCU Сваты HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2215/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv26952" tvg-logo="http://ttvrun.one/uploads/4ai9AaluvRB4S4UQ6xMrTv9p3FV170.png",BCU СССР HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1243/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv26339" tvg-logo="http://ttvrun.one/uploads/W33qPpospqVT5FOsTvmAwsWDroQURW.png",Bollywood HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/683/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29545" tvg-logo="http://ttvrun.one/uploads/hafI9TN8LWSvZCV1FOxEN2qxInhrHs.png",BOX Anime HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2233/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29592" tvg-logo="http://ttvrun.one/uploads/zXVI42RrmrPk974yRuPeETveiZdneJ.png",BOX Apocalypse HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2285/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29558" tvg-logo="http://ttvrun.one/uploads/KPWOTyNfaIhc2xGYKOmWa7gEOPOYoY.png",BOX Cyber HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2246/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29564" tvg-logo="http://ttvrun.one/uploads/WZasw75JCYvUcb1dE4FTuhMTYh7ci3.png",BOX Fantasy HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2252/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29543" tvg-logo="http://ttvrun.one/uploads/Ri8mYmM04QnLP6yBCrYcIFmv330r6l.png",BOX Franchise HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2231/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29546" tvg-logo="http://ttvrun.one/uploads/Dv57Sz9KRZkcUNW9Brroz7V2uDjOFk.png",BOX Gangster HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2234/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29563" tvg-logo="http://ttvrun.one/uploads/GPuvHqWzqHEZkQCdZkXcxWLCEtInMz.png",BOX Ghost HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2251/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29544" tvg-logo="http://ttvrun.one/uploads/4ikS9bQ9uNPFYdz0vHpqPaJl34tlMz.png",BOX Hybrid HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2232/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29568" tvg-logo="http://ttvrun.one/uploads/euJjH6J3yrfPLHRlzjRIBba8J75oUh.png",BOX Mayday HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2256/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29548" tvg-logo="http://ttvrun.one/uploads/4EppzD0jYdOg8KL19ecebgRLSPTJ74.png",BOX Memory HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2236/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29549" tvg-logo="http://ttvrun.one/uploads/KsJMGeH5I9KW2krNjzxCfLIg31Xh6u.png",BOX Mserial HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2237/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29547" tvg-logo="http://ttvrun.one/uploads/5hNRCR6vm3q8UVTJrbbcuulj2cZJjZ.png",BOX Oscar HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2235/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29565" tvg-logo="http://ttvrun.one/uploads/NBrd1tBFuJPUaPwWvA0PwOx0MEagjE.png",BOX Premiere 4K UHD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2253/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29550" tvg-logo="http://ttvrun.one/uploads/Q0wVod19jLzpGvQ9UjS2uAVyuwqnr6.png",BOX Serial HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2238/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29775" tvg-logo="http://ttvrun.one/uploads/O0F5wLjDPl4JYstptdkPA0NGpJrtUf.png",BOX Sitcom HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2375/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29554" tvg-logo="http://ttvrun.one/uploads/nOG64NpmFZf8wdwt9TJwCBWEtlJKzE.png",BOX Spy HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2242/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29576" tvg-logo="http://ttvrun.one/uploads/adLLEZcL7mNnz5jbmwRJ5rHWAwwWo4.png",BOX Stories HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2262/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29556" tvg-logo="http://ttvrun.one/uploads/lLFueL55MjTELrworUOV1Y9p40xquM.png",BOX Western HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2244/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29557" tvg-logo="http://ttvrun.one/uploads/zC8fBoSBa00grL2vKwVVGRsdqkyqHN.png",BOX Zombie HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2245/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28347" tvg-logo="http://ttvrun.one/uploads/B3FwjECfCKsd72esGxwN6NO110R4Gs.png",CineMan
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1752/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28340" tvg-logo="http://ttvrun.one/uploads/UXbPQCcjYzTakhIU33MejRxfEnAvTv.png",Cineman Action
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1755/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29836" tvg-logo="http://ttvrun.one/uploads/dkKN8I9tM06Rm9U8qY2YCYGaJGbGp1.png",CineMan Air Crash
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2427/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv31437" tvg-logo="http://ttvrun.one/uploads/Rv4bbjbeYrZjedC12xTiOftwaxVmwm.png",CineMan CCCP HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2606/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28342" tvg-logo="http://ttvrun.one/uploads/bch0fVLPIn4k9cQnAIftBs5ZYbqAPR.png",CineMan Marvel
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1758/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28343" tvg-logo="http://ttvrun.one/uploads/vYQemUARB5OokaFRhiRNTz0ZAsSpJ1.png",CineMan Melodrama
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1757/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29688" tvg-logo="http://ttvrun.one/uploads/amG0yV1U0sd2Y8mpPlbh24Vx8tkFZQ.png",CineMan MiniSeries
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2347/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29837" tvg-logo="http://ttvrun.one/uploads/Pg9ZIVWXYeRzToMbyUAhkJgQxTItSk.png",CineMan OLD 4K UHD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2428/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29050" tvg-logo="http://ttvrun.one/uploads/QksG1USx1pj7UwyTtzQKtR62bFGI5I.png",Cineman Premium
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2031/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28350" tvg-logo="http://ttvrun.one/uploads/rbKWpM0id0K0UT5gdtddZ3ruXTErQG.png",CineMan Thriller
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1756/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28348" tvg-logo="http://ttvrun.one/uploads/csSUBmmSEE4KmyOzQnA587trk99PCu.png",CineMan Top
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1753/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28339" tvg-logo="http://ttvrun.one/uploads/xp6FTLB6jCdEfGXMvzkGLToIkcr9vL.png",CineMan VHS
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1761/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30244" tvg-logo="http://ttvrun.one/uploads/u0c5HvD7qglmkEnrTubBMTyF2hxR0n.png",CineMan Военные Сериалы
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2588/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28349" tvg-logo="http://ttvrun.one/uploads/rpMRxMNyqn65tPTxUZAqonhKmJklCT.png",CineMan Катастрофы
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1754/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30063" tvg-logo="http://ttvrun.one/uploads/0sulnFWCwjJIaNQBySduHRc5JkoJ1d.png",CineMan Комедийные сериалы
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2535/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28341" tvg-logo="http://ttvrun.one/uploads/Q7LrQFRW6OKFGQenvtS6ixHxttukkt.png",CineMan Комедия
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1760/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29586" tvg-logo="http://ttvrun.one/uploads/QTj5TnH7kSa63Gi7HfceCcTfs1o9PT.png",CineMan Криминальные Сериалы
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2271/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28459" tvg-logo="http://ttvrun.one/uploads/AvdEYbUEuW8ZPaxYONYdrgMkdKdwD6.png",CineMan Лесник
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1807/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28457" tvg-logo="http://ttvrun.one/uploads/fEBq6bHSc4OLmLYbTkQtRuZsfWfE4s.png",CineMan Ментовские войны
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1805/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28458" tvg-logo="http://ttvrun.one/uploads/sX4JlB97l73C69gOE8nAl5xFfSo60Y.png",CineMan ПёС + ЛИХАЧ
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1806/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28336" tvg-logo="http://ttvrun.one/uploads/oQbaWy41MVDpzhqFA8WS7I5rRY83gu.png",CineMan РуКино
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1762/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28338" tvg-logo="http://ttvrun.one/uploads/HTVblx8jlIXpzJOaSRgaNHyP86rKZG.png",CineMan Сваты
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1763/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28337" tvg-logo="http://ttvrun.one/uploads/OX7qMfundmiDRuTfFIYVNQKxGY1iK4.png",CineMan Симпсоны
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1765/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28334" tvg-logo="http://ttvrun.one/uploads/3GY8tRlBnlNyhNOKJu0ukHwbOPVOL5.png",CineMan Скорая помощь
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1764/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29840" tvg-logo="http://ttvrun.one/uploads/gCxP5CM2zq1MKXKvwtCOAAjIrcqS5n.png",CineMan СССР 4K UHD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2429/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28335" tvg-logo="http://ttvrun.one/uploads/09au6t9r9aZOXxQZW8ifim8F1vAXed.png",CineMan Ужасы
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1759/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv3364" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/159/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/5EtvAWXB7VK1Yw82yvO28sY28dU4ZC.png",Comedy Central
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/159/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29259" tvg-logo="http://ttvrun.one/uploads/igeEDOa0ZFRkQWMjqGMJVJHclqtIHL.png",FAMILY JAM HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2158/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv23920" tvg-logo="http://ttvrun.one/uploads/19cxHmEwy3g5JIlp1VrmFuNaxDS6X2.png",FAN HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/547/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv26365" tvg-logo="http://ttvrun.one/uploads/5jF6f5HloF6KvCQNhXXQ1cKplRgmkb.png",FlixSnip
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/694/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv26021" tvg-logo="http://ttvrun.one/uploads/yg3A3ZjA5w5vTP1yA7guN9gpmejgFH.png",FX HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/534/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv1463" tvg-logo="http://ttvrun.one/uploads/2NUkyc8MUspTGmkPwLqAwX25uPZCKN.png",FX Life HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/535/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv25313" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/163/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/QiGf18mZDXRVPYrwohsvbesUA7WeZk.png",Hollywood HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/163/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv31053" tvg-logo="http://ttvrun.one/uploads/Rgg1D1N0KEvXO5ibDuaH1b4E7DkMmq.png",Kino Polska (PL)
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2950/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29260" tvg-logo="http://ttvrun.one/uploads/XCyE8LU91w3W1esV3l3MQsyKeR4JMC.png",KinoJAM 1 HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1973/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29198" tvg-logo="http://ttvrun.one/uploads/CMViuKkN0Yqv63MHC7anyCuiZTNOrB.png",Kinojam 2 HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1974/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv31026" tvg-logo="http://ttvrun.one/uploads/pk17vCBS0GNTBXAILzDDJN9AgSnYuw.png",Kinosweet HD (UA)
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2942/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28774" tvg-logo="http://ttvrun.one/uploads/HYFNiO4XJzA3JCyprnVek7zPCpZ9kX.png",Magic Action
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1867/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29055" tvg-logo="http://ttvrun.one/uploads/aGld7rKoQ4rjEzqkT7u158HroKSnuh.png",Magic Adventure
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2034/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28770" tvg-logo="http://ttvrun.one/uploads/znyricdHId1125iEFp1e58kLUkXXdR.png",Magic Comedy
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1863/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28776" tvg-logo="http://ttvrun.one/uploads/mG8JI0bHBDcBRGjWny0e1occ4jHpv2.png",Magic Family
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1869/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28773" tvg-logo="http://ttvrun.one/uploads/ZBmrkzB7bFMSF909cfu6dikdFGWb5J.png",Magic Galaxy
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1866/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28772" tvg-logo="http://ttvrun.one/uploads/3qj16anBj2bqXHhcutnLvAqNcAnvjT.png",Magic Horror
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1865/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28769" tvg-logo="http://ttvrun.one/uploads/BK4recAXSs0mzcrSOSW4WUho24nwPp.png",Magic Karate
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1862/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28777" tvg-logo="http://ttvrun.one/uploads/f2jhOGe0VRUgrdktNH21zDexQ7Y1TE.png",Magic Love
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1870/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv31438" tvg-logo="http://ttvrun.one/uploads/bTcw2WO8b4LgoBkxX5VhruQpJBuy8Z.png",Magic Premiere
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/3020/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29115" tvg-logo="http://ttvrun.one/uploads/lvuWYDUfGtTiVoW6zNO6H0s0L2WaG1.png",Magic Russian
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2032/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28775" tvg-logo="http://ttvrun.one/uploads/9FwvsTaVcVxkqYFpLQz5Lr3EYZRy8K.png",Magic Thriller
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1868/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28768" tvg-logo="http://ttvrun.one/uploads/nncnvCLFGubluKZKbtZ3GZ0m7E3jkd.png",Magic VHS
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1861/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv31416" tvg-logo="http://ttvrun.one/uploads/jlkABOyGDBoHVQYWBnZWqBbmcs6Ygc.png",Okko TV HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2910/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30703" tvg-logo="http://ttvrun.one/uploads/MPMdrLXQVgHJh9SQtrmxoJkrWOPAA2.png",Retrovision  TV
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2816/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30700" tvg-logo="http://ttvrun.one/uploads/MLOTwFK4f7M2ddAieJuShLG1rdRD8V.png",Retrovision Classic
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2814/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30699" tvg-logo="http://ttvrun.one/uploads/0OIRGF8fjpbpKUpYiBXgb5a8cOQNoD.png",Retrovision Movies
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2813/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30701" tvg-logo="http://ttvrun.one/uploads/BfnWXUycKnfMSlNLSYn6LE3TnK0Hda.png",Retrovision Кинопанорама
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2817/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29322" tvg-logo="http://ttvrun.one/uploads/WLMjAxlRkB4RZXpj9Z6BBTLdeLFovk.png",Scream
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2166/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv26434" tvg-logo="http://ttvrun.one/uploads/y6Z1Zm1AuJiTTN8eva5auo3GIa0x72.png",Shot
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/715/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv22118" tvg-logo="http://ttvrun.one/uploads/2Ou5cJF6RLBhZvPGCn3tlwepd5ty7Q.png",Star Family HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1305/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv31067" tvg-logo="http://ttvrun.one/uploads/x95jLicCo7APz5GmP6HmEkHXVWR3ju.png",Star Media HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2967/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29062" tvg-logo="http://ttvrun.one/uploads/uJFjBk8HZjUsv0dppRliBzn4nf0mCG.png",START Air
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2036/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29063" tvg-logo="http://ttvrun.one/uploads/z0KOmw6mfU2ZC7nfPyoc8KfZb6O4fk.png",START World
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1975/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30541" tvg-logo="http://ttvrun.one/uploads/aT34a0I9LK8bqAtUllPmyUBdfENhts.png",Timeless Dizi Channel
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2195/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv31105" tvg-logo="http://ttvrun.one/uploads/bIzDo2R9lDL6VDcTJPsms3N91p0Yir.png",Usba TV 1 HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2985/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv31106" tvg-logo="http://ttvrun.one/uploads/CkjBYfzLMCLfn23X2tbJUgz2wjubQ7.png",Usba TV 2 HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2986/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29593" tvg-logo="http://ttvrun.one/uploads/PJZzm6Fl9eRvs3UpNoVamfSXlV15ip.png",VeleS 60FPS
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2286/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29600" tvg-logo="http://ttvrun.one/uploads/LMVKbJ6EEHWs2HV5npDdgDRDeX75Sf.png",VeleS Movie Hits
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2293/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29597" tvg-logo="http://ttvrun.one/uploads/5mXdEgSpAU0ZucsfsiEtwFrFjrpK3E.png",VeleS Premiere
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2290/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30076" tvg-logo="http://ttvrun.one/uploads/ZoE4yK7XO5DHFRGxZUYgkpFalUoWIB.png",VeleS Аниме
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2539/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30081" tvg-logo="http://ttvrun.one/uploads/PhQo0zMwcdCjj1lFOr85XIKirPfThC.png",VeleS Вестерн
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2542/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30080" tvg-logo="http://ttvrun.one/uploads/91vABnHBLkbbuarB9DW7VoVcw5wAHW.png",VeleS Гоблин
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2544/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29594" tvg-logo="http://ttvrun.one/uploads/btTWctmBZYYJYqfPxFv3v4GCsli7VU.png",VeleS Киноплёнка
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2287/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29596" tvg-logo="http://ttvrun.one/uploads/RpeDnNnJ8FaSTpqwAGa88I4EcUhHd3.png",VeleS Киносерия
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2289/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30075" tvg-logo="http://ttvrun.one/uploads/oQ4C36SNL8vNYkfOaNZKAezKOnSRTp.png",VeleS Комедия
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2538/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29645" tvg-logo="http://ttvrun.one/uploads/1FaBSdXHCnxtQPnzXf72K2UNa9yTGl.png",VeleS Криминальный
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2316/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30079" tvg-logo="http://ttvrun.one/uploads/1o6BUTjgj6h5wA5BSCx7Lohd6k4t97.png",VeleS Наше Кино
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2543/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30078" tvg-logo="http://ttvrun.one/uploads/a2rh3KFispTkmjkZQslA8WOJVLBoMa.png",VeleS Семейный
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2541/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29599" tvg-logo="http://ttvrun.one/uploads/AokhALEWDN8T2674qpA4Sr4Q8lmGhv.png",VeleS СССР
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2292/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29598" tvg-logo="http://ttvrun.one/uploads/N5c7FpGo6R0QmnajneyCfIrvHr3gkZ.png",VeleS Страшное
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2291/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30077" tvg-logo="http://ttvrun.one/uploads/ENsyfubdNTZww6ZdTvw2gKo3OGAAyX.png",VeleS Триллер
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2540/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29773" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2370/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/SNXPbDuAVHbKyGBJ2Nhw41WWoa0oh7.png",Viasat Kino Action HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2370/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29772" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2369/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/vlSW12cwPlaquzszsjmYGVyVFuDoQx.png",Viasat Kino HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2369/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv6427" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/893/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/F9eAVIzR1pP08jYR6PqKwp4RoAWJIF.png",Viju TV1000 Action HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/893/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv25624" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/574/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/GNoda9sXgpLtDhhHMjGDZ6pcR8grRd.png",Viju TV1000 HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/574/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30228" tvg-logo="http://ttvrun.one/uploads/LPcMuLRFn722UO4yIKCFPlNqUx7p4z.png",Viju TV1000 Новелла
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2421/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv6428" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/899/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/c2EpBQk184LILXGzOjnLqAgi2307dQ.png",Viju TV1000 Русское HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/899/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv6429" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/137/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/ZN42KOG5Z3Tv7FP1DnfHrE2I0SPXF6.png",ViP Comedy HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/137/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv6430" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/136/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/mPzm416HTmW7uEPgjICGeKK95Tma5Y.png",ViP Megahit HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/136/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv6431" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/135/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/YhhXRjdCRctP6CdANumRiw0zyJcdf5.png",ViP Premiere HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/135/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv25049" tvg-logo="http://ttvrun.one/uploads/Uu7rNBxXUyEgc5Cbc91Yab6sMHYaqQ.png",ViP Serial HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/138/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30954" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2911/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/9BjWKHwkcSu6MPknmTlo5XA9DKLgRS.png",Бетудлиг
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2911/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29258" tvg-logo="http://ttvrun.one/uploads/Bqa1YgvEEIMjwpdTeAaaX3I9yl5RnD.png",ДЕТЕКТИВ JAM HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2157/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv982" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/161/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/jlC78Fy13KWjQUN6l3FtbsRLZDvc0x.png",Дом кино
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/161/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv16924" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/162/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/uWQ0Y7ZuX8C7lEADua1WViSC5j2bq6.png",Дом кино Премиум HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/162/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv20272" tvg-logo="http://ttvrun.one/uploads/LRT5KUt66gG7u4sue52QOjdFzgYAgF.png",Дорама
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/750/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv25952" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/691/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/RoHXFEuynPUAX6WutFftcx1VpI92Oz.png",ЕвроКино
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/691/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv25781" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/693/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/GcBLre3Flrs6XeFMRpidsmlaXjQZ1F.png",Иллюзион +
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/693/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv1435" tvg-logo="http://ttvrun.one/uploads/tVif7GSM5UlUBrVRpMSDnni6RMcNtk.png",Индийское кино
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/256/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30583" tvg-logo="http://ttvrun.one/uploads/Ikvq82ZLQqqulCmEGSRT2WARntEsTp.png",Кино 7 HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2337/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv27147" tvg-logo="http://ttvrun.one/uploads/QecCLc94kBRYyy3cakIusJkN4eYcDd.png",КИНО UHD 4K
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1291/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv9307" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/476/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/2ugesJUSRNGT6nCY8TMG873wuIfmWO.png",Кино ТВ
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/476/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30987" tvg-logo="http://ttvrun.one/uploads/uzmytMEVAckQHvcdDCthYOJs8wLWQW.png",Кинозал  1 HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2926/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30998" tvg-logo="http://ttvrun.one/uploads/oZVu6LAo7Y7IQRphBume78OC5v41GT.png",Кинозал 11
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2931/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv31001" tvg-logo="http://ttvrun.one/uploads/7YKxZOJRT2AQlkEZTK1Ry3ObLmBG3O.png",Кинозал 14
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2935/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv31002" tvg-logo="http://ttvrun.one/uploads/zrkEROjAuMvbv76uCjqO31UN5MtnSy.png",Кинозал 15
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2934/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv31006" tvg-logo="http://ttvrun.one/uploads/HaNz0OQGXWi3XGegiI2YhEOx6LcQqh.png",Кинозал 19
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2936/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30989" tvg-logo="http://ttvrun.one/uploads/L7kZ3ocfC7mFDQRwXBaETkq8T4nLH1.png",Кинозал 3
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2927/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30992" tvg-logo="http://ttvrun.one/uploads/4vRaahr0nP7h8KTFVNerQQpl38Iafc.png",Кинозал 6
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2928/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30996" tvg-logo="http://ttvrun.one/uploads/KIJ8ywBeUafUphA2jtVv5sWVqizsBH.png",Кинозал 9
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2930/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv1436" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/131/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/Iw1tZPuWzdoLO7T49mzExi8pHXlTFw.png",Кинокомедия
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/131/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv1392" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/253/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/cgc5c12bxe47m4TvFYVWpanuUph4uU.png",Киномикс
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/253/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv8709" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/126/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/aITFJccbf5Y0Lqwwj0fS8RvSYSoYhg.png",Кинопремьера HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/126/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28455" tvg-logo="http://ttvrun.one/uploads/3Dj1EXDP2cZD2bVdnwovyHMfUkglNN.png",КиноСат
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1563/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv2851" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/251/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/Qrwg3FEkgKltEHMBfdiHsbE2MgjmRj.png",Киносвидание
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/251/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv2849" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/250/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/X5r4GIfX57tkSloY9VwAA7Xvb4hmEP.png",Киносемья
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/250/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv25898" tvg-logo="http://ttvrun.one/uploads/RqTSOjcthX9B2afK2t0F3x3r3ccnWp.png",Киносерия
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/431/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv27321" tvg-logo="http://ttvrun.one/uploads/TqA09n2QtRKA0b3vNGzy0AWgtKqfsR.png",Киноужас HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/286/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv2850" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/252/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/nVU8h1nNhRYc6yqZ0hXvuONDEqhwDP.png",Кинохит
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/252/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv25364" tvg-logo="http://ttvrun.one/uploads/QENcCdkOWtDDjwXGPV9rtBKsZ7E3Cg.png",Комедийное HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/139/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv25377" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/147/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/50jC8OhULEckoKrDTJ6I8swJ8gwR0K.png",Комедия
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/147/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29233" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2145/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/ZrCJ4cGlErSI43mUtJ0FOWqNS91R3G.png",Криминальное HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2145/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30588" tvg-logo="http://ttvrun.one/uploads/ti7ZdHpsuoouHuwP8ebMaNR1DFR8xN.png",Лавстори HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2301/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv25900" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/489/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/1meIKUfQFZdIjDWtG7yC1NMYOGX6Mu.png",Любимое кино
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/489/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv26367" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/456/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/mwNMA0GNdZGJdQ83Qywlxv5Y1TcdGy.png",Мир сериала
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/456/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28823" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1155/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/4QYWtcjl2266mb8378nn2jKa7JIrL5.png",Мосфильм. Золотая коллекция HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1155/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv1415" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/257/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/rH9i2sdZZMX5SpG3inVEUKffWtLJ4H.png",Мужское кино
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/257/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv1396" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/254/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/LLzRbH5ek2CtNKd44tbCKBoUX5y1wP.png",Наше новое кино
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/254/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv1399" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/156/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/fKYzdlWRz68qd9mRZnWuxMY73EyaSz.png",НСТ
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/156/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv16478" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/164/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/T7amR78JUYW3EgFZp14hQdh7pjzWLJ.png",НТВ Сериал
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/164/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv21362" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/737/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/5bc2Q7zqJJ7efxtv5JBvbw5xQgW5sG.png",НТВ Хит
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/737/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv10779" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/127/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/xdPFw94faKhte3D6LQYxdmTkbERkyf.png",Остросюжетное HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/127/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv11171" tvg-logo="http://ttvrun.one/uploads/AUjmWDdvYsN3ysfnsjgqOCiH0yygW3.png",Премиальное HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/128/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv28381" tvg-logo="http://ttvrun.one/uploads/1QkTkLP2ywEtLwSPoPbFeBe0a69KSl.png",Про Любовь HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1370/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv1395" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/255/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/eqGQ74ZYfJgtuOBP9rRahjFDHuFDQs.png",Родное кино
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/255/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv27496" tvg-logo="http://ttvrun.one/uploads/rbjIJR0zmnpGeZNYKb0GXe67dfH9b4.png",Романтичное HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1397/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv9309" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/146/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/Voa1RNNwTAKy1A8eR375OlBuh6NcQd.png",Русский бестселлер
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/146/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv8844" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/145/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/1oNOxsU8iqroFKZAiEVM7QmSF0ImIG.png",Русский детектив
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/145/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv14230" tvg-logo="http://ttvrun.one/uploads/E9Imfr8aHN5midPVpNhJ3fo49FHbQE.png",Русский иллюзион
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/144/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv9008" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/143/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/dJWjStHG68PlkPFx3nBr83J8yiuHOo.png",Русский роман
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/143/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv29018" tvg-logo="http://ttvrun.one/uploads/abPyArQlzgo6r4i93PVGA6lWRuRYic.png",Сапфир HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2013/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30697" tvg-logo="http://ttvrun.one/uploads/4I8zIMI3N4cSUIT6LYiPSUT95TNMdC.png",Смотрим Кино и Сериалы HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2811/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv30617" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2300/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/ArTwoq0Vv4qKIWwLaoO8axXuaRkpWC.png",Советская киноклассика HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2300/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv1434" tvg-logo="http://ttvrun.one/uploads/fmKPEV5uDjf5piiDsyTfwy4SDBdCxj.png",ТВ 21
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/2418/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv411" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/15/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/07bjT0brQLyETHscCfGFtvsdaRiUdH.png",ТВ3
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/15/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv6475" tvg-logo="http://ttvrun.one/uploads/cO28FY3ZV4SmelCz6LF8J1ZjtK6cNs.png",ТВ3 (+2)
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1513/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv10815" tvg-logo="http://ttvrun.one/uploads/L9mntoII4s1UyzlZxoduwBsBBvZDps.png",ТВ3 (+4)
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1514/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv20223" tvg-logo="http://ttvrun.one/uploads/kRmKKjAJUlj7uOH4eTqkf7dP2QK0wJ.png",ТВ3 (+7)
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/1515/stream.m3u8
+#EXTINF:-1 group-title="Фильмы" tvg-id="ttv20321" tvg-logo="http://ttvrun.one/uploads/XJDxHT2KMnhDbys8ru7i1PyRhQ7Wwm.png",Шокирующее HD
+#EXTGRP:Фильмы
+http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/170/stream.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="1" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20+0%20(%D0%9D%D0%B5%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC%D1%8B%D1%81%D1%81%D0%BA).png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8001/video-${start}-${duration}.m3u8?token=vEioa3LhczSWgaEF" timeshift="14", Первый канал
 http://cdn.admuspeh.my/8001/video.m3u8?token=vEioa3LhczSWgaEF
 #EXTINF:-1 tvg-id="138" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8150/video-${start}-${duration}.m3u8?token=vEioa3LhczSWgaEF" timeshift="7", Первый канал HD
