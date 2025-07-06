@@ -1,117 +1,64 @@
 #EXTM3U
-#EXTINF:0,Новые комедии
-http://fs2.persik.by/Novie_Komedii7/index.m3u8
-#EXTINF:0,Новинки
-https://fs2.persik.by/Novinki9/index.m3u8
-#EXTINF:0,Путешествие во времени
-http://fs2.persik.by/Puteshestvie_vo_vremeni10/index.m3u8
-#EXTINF:0,Рекомендуем
-https://fs2.persik.by/Rekomenduem7/index.m3u8
-#EXTINF:0,Про родителей HD
-http://fs2.persik.by/Pro_roditeley8/index.m3u8
-#EXTINF:0,Семейные фильмы
-http://fs2.persik.by/Semejnie_Filmy6/index.m3u8
-#EXTINF:0,Популярное кино
-https://fs2.persik.by/Populyarnoe_Kino_10/index.m3u8
-#EXTINF:0,Триллеры США
-https://fs2.persik.by/Trillery_USA_12/index.m3u8
-#EXTINF:0,Триллеры-Драма
-http://fs2.persik.by/Trillery_Drama4/index.m3u8
-#EXTINF:0,Relax HD
-https://fs2.persik.by/Relax3/index.m3u8
-#EXTINF:0,Рождественские фильмы
-http://fs2.persik.by/Rozhdestvenskie_filmy5/index.m3u8
-#EXTINF:0,Кино про дружбу
-http://fs2.persik.by/Pro_druzhbu7/index.m3u8
-#EXTINF:0,Комедийные сериалы
-http://fs2.persik.by/Komedijnie_seriali6/index.m3u8
-#EXTINF:0,ДАВАЙ ПОЖЕНИМСЯ
-http://fs2.persik.by/Davaj_Pozhenimsya6/index.m3u8
-#EXTINF:0,PersikTV Леонов
-https://fs2.persik.by/Leonov_7/index.m3u8
-#EXTINF:0,МИРОНОВ
-https://fs2.persik.by/Mironov7/index.m3u8
-#EXTINF:0,Маньяки
-http://fs2.persik.by/Manjaki6/index.m3u8
-#EXTINF:0,Рэп HD
-http://fs2.persik.by/Rap2/index.m3u8
-#EXTINF:0,Concerts HD
-https://fs2.persik.by/Concerts4/index.m3u8
-#EXTINF:0,Документальное
-http://fs2.persik.by/Dokumentalnoe4/index.m3u8
-#EXTINF:0,Movie HD
-http://fs2.persik.by/Movie2/index.m3u8
-#EXTINF:0,Кинозалы 1
-https://fl1001.bozztv.com/ushba13/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 2
-https://fl1001.bozztv.com/ushba14/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 3
-https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 4
-https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 5
-https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 6
-https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 7
-https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 8
-https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 9
-https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 10
-https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 11
-https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 12
-https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 13
-https://fl1001.bozztv.com/ushba-films-j/index.m3u8
-#EXTINF:0,Кинозалы 14
-https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 15
-https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 16
-https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 17
-https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 18
-https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 19
-https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 20
-https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 21
-https://fl1001.bozztv.com/ushba-films-o/index.m3u8
-#EXTINF:0,Кинозалы 22
-https://fl1001.bozztv.com/ushba-films-s/index.m3u8
-#EXTINF:0,Кинозалы 23
-https://fl1001.bozztv.com/ushba-films-w/index.m3u8
-#EXTINF:0,Кинозалы 24
-https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 25
-https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 26
-https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
-#EXTINF:0,Кинозалы 27
-https://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 28
-https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 29
-https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 30
-https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 31
-https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 32
-https://fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
-#EXTINF:0,Кинозалы 33
-https://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 34
-https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 35
-https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
-#EXTINF:0,Кинозалы 36
-https://fl1001.bozztv.com/ushba64/index.m3u8
-#EXTINF:0,Кинозалы 37
-https://fl1001.bozztv.com/ushba65/index.m3u8
+#EXTINF:0,ТЕЛЕГРАМ КАНАЛ: @iptv_free_ru
+#EXTGRP:ПОДПИШИСЬ 
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:0,ИНСТАГРАМ: egorka_morozov93
+#EXTGRP:ПОДПИШИСЬ
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:0, КОШЕЛЁК QIWI: https://qiwi.com/n/RAZ0RXJ
+#EXTGRP: ПОДПИШИСЬ 
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:0,ДОНАТ DONATIONALERTS: https://www.donationalerts.com/r/raz0r22
+#EXTGRP: ПОДПИШИСЬ 
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:0,КОШЕЛЁК PAYEER: P1062335913
+#EXTGRP: ПОДПИШИСЬ 
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:0,КАРТА VISA: 4916990305921287
+#EXTGRP: ПОДПИШИСЬ 
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:0,КАРТА UZCARD: 8600332988660225
+#EXTGRP: ПОДПИШИСЬ 
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:0,КАРТА HUMO: 9860082567013311
+#EXTGRP: ПОДПИШИСЬ 
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:0, 1 СЕЗОН 1 СЕРИЯ @iptv_free_ru
+#EXTGRP:🔥👉@iptv_free_ru👈🔥
+https://o8.anwap.be/serials/oshls/bTxTxE3BW1Sq3wRMe9_m9g/1736662507/532_1_sezon_-_1_seriya_(anwap.org).m3u8
+#EXTINF:0, 1 СЕЗОН 2 СЕРИЯ @iptv_free_ru
+#EXTGRP:🔥👉@iptv_free_ru👈🔥
+https://o8.anwap.be/serials/oshls/O74dv1jFyzYp-MRLx4sFFg/1736662517/532_1_sezon_-_2_seriya_(anwap.org).m3u8
+#EXTINF:0, 1 СЕЗОН 3 СЕРИЯ @iptv_free_ru
+#EXTGRP: 🔥👉@iptv_free_ru👈🔥
+https://o8.anwap.be/serials/oshls/NxGUVGP2exDsbDYqPXjz0A/1736662524/532_1_sezon_-_3_seriya_(anwap.org).m3u8
+#EXTINF:0, 1 СЕЗОН 4 СЕРИЯ @iptv_free_ru
+#EXTGRP:🔥👉@iptv_free_ru👈🔥
+https://o8.anwap.be/serials/oshls/pphDY129hlwLPfgGDWCxIg/1736662530/532_1_sezon_-_4_seriya_(anwap.org).m3u8
+#EXTINF:0, 1 СЕЗОН 5 СЕРИЯ @iptv_free_ru
+#EXTGRP:🔥👉@iptv_free_ru👈🔥
+https://o8.anwap.be/serials/oshls/mMkkou6scrA-bOOPk6bbzg/1736662537/532_1_sezon_-_5_seriya_(anwap.org).m3u8
+#EXTINF:0, 1 СЕЗОН 6 СЕРИЯ @iptv_free_ru
+#EXTGRP: 🔥👉@iptv_free_ru👈🔥
+https://o8.anwap.be/serials/oshls/wUAAbZtQ5QJ93oMp1UbWww/1736662543/532_1_sezon_-_6_seriya_(anwap.org).m3u8
+#EXTINF:0, 1 СЕЗОН 7 СЕРИЯ @iptv_free_ru
+#EXTGRP:🔥👉@iptv_free_ru👈🔥
+https://o8.anwap.be/serials/oshls/6EZhznR6UAhYYbq-ZNuJiQ/1736662553/532_1_sezon_-_7_seriya_(anwap.org).m3u8
+#EXTINF:0, 1 СЕЗОН 8 СЕРИЯ @iptv_free_ru
+#EXTGRP:🔥👉@iptv_free_ru👈🔥
+https://o8.anwap.be/serials/oshls/6oA3_dudoVkD97eTdk8mxw/1736662561/532_1_sezon_-_8_seriya_(anwap.org).m3u8
+#EXTINF:0, 1 СЕЗОН 9 СЕРИЯ @iptv_free_ru
+#EXTGRP: 🔥👉@iptv_free_ru👈🔥
+https://o8.anwap.be/serials/oshls/vELeUUew1dmIAI8whvXzNQ/1736662568/532_1_sezon_-_9_seriya_(anwap.org).m3u8
+#EXTINF:0, 1 СЕЗОН 10 СЕРИЯ @iptv_free_ru
+#EXTGRP:🔥👉@iptv_free_ru👈🔥
+https://o8.anwap.be/serials/oshls/KKakMptr2sUzQ6aCAoKnpQ/1736662575/532_1_sezon_-_10_seriya_(anwap.org).m3u8
+#EXTINF:0, 1 СЕЗОН 11 СЕРИЯ @iptv_free_ru
+#EXTGRP:🔥👉@iptv_free_ru👈🔥
+https://o8.anwap.be/serials/oshls/j2xIpEIETS7s7v8h6DKRHg/1736662583/532_1_sezon_-_11_seriya_(anwap.org).m3u8
+#EXTINF:0, 1 СЕЗОН 12 СЕРИЯ @iptv_free_ru
+#EXTGRP: 🔥👉@iptv_free_ru👈🔥
+https://o8.anwap.be/serials/oshls/XIrHF-88TTrt8tzbUADb6g/1736662591/532_1_sezon_-_12_seriya_(anwap.org).m3u8
+#EXTINF:0, 1 СЕЗОН 13 СЕРИЯ @iptv_free_ru
+#EXTGRP:🔥👉@iptv_free_ru👈🔥
+https://o8.anwap.be/serials/oshls/DOwaVMAaxXQ2PhKoMzW3uQ/1736662597/532_1_sezon_-_13_seriya_(anwap.org).m3u8
