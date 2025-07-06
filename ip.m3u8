@@ -3282,12 +3282,6 @@ https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/07.mir.druzh
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 8 серия
 https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/08.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
 
-#EXTINF:-1 group-title="Назад в будущее", Назад в будущее (1985г)
-https://u.to/nogUIQ
-#EXTINF:-1 group-title="Назад в будущее", Назад в будущее 2 (1989г)
-https://u.to/o4gUIQ
-#EXTINF:-1 group-title="Назад в будущее", Назад в будущее 3 (1990г)
-https://u.to/p4gUIQ
 
 #EXTINF:-1 group-title="Игра престолов" tvg-logo="http://lostfilms.fun/uploads/posts/2017-05/Serial-Igra-prestolov-1-sezon.jpg", Серия -1 (сезон 1)
 http://s5.gencit.info/vod/films/game_of_thrones.tvshow.s01e0_690758/hls/index.m3u8
@@ -3856,7 +3850,7 @@ https://dlcache4.vibio.tv/41b97481518ddf981df5f3665bc8c503/2790/2790761/output.m
 https://dlcache4.vibio.tv/1794906fc1f48b0c0545b1e1d324c579/2852/2852853/output.mq.mp4
 
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/20%20лет%20спустя.jpg?raw=true" group-title="Гарри Поттер", Гарри Поттер: История магии (2017)
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/images/methode/2017/11/02/f4e8990a-beb8-11e7-b942-6d23cbdef96a_1280x720_122121.jpg?itok=FNqrOSHh" group-title="Гарри Поттер", Гарри Поттер: История магии (2017)
 https://dl7.vibio.tv/9f070deee1dbfc534662dfa5cb8b4685/3095/3095983/output.lq.mp4
 
 
@@ -3872,7 +3866,7 @@ https://dlcache4.vibio.tv/020652d07fa19fd17b72d904422a95c6/2801/2801106/output.m
 https://dlcache4.vibio.tv/9a2199a44da955b6913676cf81b9d8c8/2888/2888641/output.mq.mp4
 
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/тайны%20дамблдора.jpg?raw=true" group-title="Гарри Поттер", Фантастические Твари: Природоведение (2022)
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://getdrawings.com/vectors/vector-pdf-13.jpg" group-title="Гарри Поттер", Фантастические Твари: Природоведение (2022)
 https://dl3.vibio.tv/d8ac42914e68f8794715f81936a2722c/2936/2936082/output.lq.mp4
 
 
