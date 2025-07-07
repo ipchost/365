@@ -432,3 +432,99 @@ http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/13040/index.m3u8
 #EXTINF:-1 group-title="КиноЗал",MM Микромир HD
 http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/18193/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Телекафе.png" group-title="КиноЗал" tvg-id="352" catchup="default" tvg-rec="48",Телекафе
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/CH_TELEKAFE.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КИНО ТВ.png" group-title="КиноЗал" tvg-id="117" catchup="default" tvg-rec="48",КИНО ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/CH_KINOTV.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Cinema.png" group-title="КиноЗал" tvg-id="89" catchup="default" tvg-rec="48",CINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/CH_CINEMA.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/FX HD.png" group-title="КиноЗал" tvg-id="2346" catchup="default" tvg-rec="48",FX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/CH_FOX.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/FX HD.png" group-title="КиноЗал" tvg-id="94" catchup="default" tvg-rec="48",Fox Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/CH_FOXLIFE.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/AMEDIA 2.png" group-title="КиноЗал" tvg-id="2492" catchup="default" tvg-rec="48",AMEDIA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/CH_AMEDIAII.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Amedia Premium HD.png" group-title="КиноЗал" tvg-id="88" catchup="default" tvg-rec="48",Amedia Premium HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/CH_AMEDIAPREMIUMHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Amedia Hit HD.png" group-title="КиноЗал" tvg-id="87" catchup="default" tvg-rec="48",Amedia Hit HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/CH_AMEDIAHITHD.m3u8
+#EXTINF:-1 group-title="КиноЗал" catchup="default" tvg-rec="48",Atv Bazmoc TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/CH_ATVBAZMOCTVHD.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинеко HD.png" group-title="КиноЗал" tvg-id="7314" catchup="default" tvg-rec="48",Кинеко HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/CH_KINEKO.m3u8
+#EXTINF:-1 group-title="КиноЗал" tvg-id="190" catchup="default" tvg-rec="48",8 канал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/CH_8CHANNEL.m3u8
+#EXTINF:-1 group-title="КиноЗал" catchup="default" tvg-rec="48",8 Канал Европа
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/CH_8CHANNEL_EUROPE.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/E TV HD.png" group-title="КиноЗал" tvg-id="69" catchup="default" tvg-rec="48",E TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/CH_ETVHD.m3u8
+#EXTINF:-1 group-title="КиноЗал" catchup="default" tvg-rec="48",TVM Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://dmi3y-tv.ru/hls/CH_TVMCHANNEL.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Хит.png" group-title="КиноЗал" tvg-id="130" catchup="default" tvg-rec="48",НТВ Хит
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ Сериал.png" group-title="КиноЗал" tvg-id="129" catchup="default" tvg-rec="48",НТВ Сериал
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кино и сериалы.png" group-title="КиноЗал" catchup="default" tvg-rec="48",Кино и сериалы
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НАШЕ НОВОЕ КИНО.png" group-title="КиноЗал" tvg-id="132" catchup="default" tvg-rec="48",НАШЕ НОВОЕ КИНО
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://178.212.71.253:8002/play/a00i/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КИНОКОМЕДИЯ.png" group-title="КиноЗал" tvg-id="119" catchup="default" tvg-rec="48",КИНОКОМЕДИЯ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://178.212.71.253:8002/play/a00j/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Bollywood HD.png" group-title="КиноЗал" tvg-id="418" catchup="default" tvg-rec="48",Bollywood HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://178.212.71.253:8002/play/a00t/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мосфильм. Золотая коллекция.png" group-title="КиноЗал" tvg-id="3357" catchup="default" tvg-rec="48",Мосфильм. Золотая коллекция
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://130.193.73.10:8937/play/a03i
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/HBO BR.png" group-title="КиноЗал" tvg-id="6451" catchup="default" tvg-rec="48",HBO BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://78.130.250.2:8023/play/a02s/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дорама.png" group-title="КиноЗал" tvg-id="1027" catchup="default" tvg-rec="48",Дорама
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://109.200.130.123:7537/play/a02n
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дом Кино.png" group-title="КиноЗал" tvg-id="111" catchup="default" tvg-rec="48",Дом Кино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://31.148.48.15/Dom_Kino/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Дом Кино Премиум HD.png" group-title="КиноЗал" tvg-id="112" catchup="default" tvg-rec="48",Дом Кино Премиум HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://31.148.48.15/Dom_Kino_Premium_HD/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Еврокино.png" group-title="КиноЗал" tvg-id="113" catchup="default" tvg-rec="48",Еврокино
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/КИНО ТВ.png" group-title="КиноЗал" tvg-id="117" catchup="default" tvg-rec="48",КИНО ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://31.148.48.15/Kino_TV/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кино ТВ HD.png" group-title="КиноЗал" tvg-id="117" catchup="default" tvg-rec="48",Кино ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://31.148.48.15/Kino_TV_HD/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинопоказ.png" group-title="КиноЗал" tvg-id="904" catchup="default" tvg-rec="48",Кинопоказ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8?token=default
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Кинеко.png" group-title="КиноЗал" tvg-id="7314" catchup="default" tvg-rec="48",Кинеко
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://31.148.48.15/Kineko/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/УЖАСТИК HD.png" group-title="КиноЗал" tvg-id="5172" catchup="default" tvg-rec="48",УЖАСТИК HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/ФАНТАСТИКА HD.png" group-title="КиноЗал" tvg-id="877" catchup="default" tvg-rec="48",ФАНТАСТИКА HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4) ExoPlayer2/2.37
+http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
