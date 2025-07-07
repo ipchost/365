@@ -120,3 +120,315 @@ https://o10.anwap.be/serials/oshls/ZL4y7p_ia5M-HHaTe8nvLQ/1749943305/Urok_1_sezo
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://www.intermedia.ru/img/news_x350/389721.jpg" group-title="Урок. Работа над ошибками", Урок. Работа над ошибками 1 сезон 8 серия
 https://o10.anwap.be/serials/oshls/7LPPlFscV_WiCZ-qlAEmSQ/1749943313/Urok_1_sezon_-_8_seriya_(anwap.org).m3u8
 
+
+
+
+
+#EXTINF:-1 group-title="КиноЗал",Кинопремьера
+https://vod.splay.uz/live_splay/original/Kinopremera/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="КиноЗал",Кинохит
+https://vod.splay.uz/live_splay/original/Kinoxit/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="КиноЗал",Киносемья
+https://vod.splay.uz/live_splay/original/Kinosemya/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="КиноЗал",Киномикс
+https://vod.splay.uz/live_splay/original/KinomiksHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="КиноЗал",Мужское кино
+https://vod.splay.uz/live_splay/original/Mujskoe-KinoHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="КиноЗал",Киносерия
+https://vod.splay.uz/live_splay/original/Kinoseriya/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="КиноЗал",Родное Кино
+https://vod.splay.uz/live_splay/original/Rodnoe_Kino/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="КиноЗал",Наш новое кино
+https://vod.splay.uz/live_splay/original/Nashe_novoe_kino/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="КиноЗал",Киносвидание
+https://vod.splay.uz/live_splay/original/Kinosvidanie/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="КиноЗал",Кинокомедия
+https://vod.splay.uz/live_splay/original/Kinokomediya/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="КиноЗал",Индийское Кино
+https://vod.splay.uz/live_splay/original/Indiyskoe_Kino/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="КиноЗал",viju TV1000
+https://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="КиноЗал",viju TV1000 Русское кино
+https://vod.splay.uz/live_splay/original/TV1000rus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="КиноЗал",viju TV1000 Action
+https://vod.splay.uz/live_splay/original/vijuTV1000action/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="КиноЗал",Ретро
+https://vod.splay.uz/live_splay/original/Retro/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="КиноЗал",Русский бестселлер
+https://vod.splay.uz/live_splay/original/RusskiyBesteler/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="КиноЗал",Русский детектив
+https://vod.splay.uz/live_splay/original/RusskiyDetektiv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="КиноЗал",Star Cinema
+https://vod.splay.uz/live_splay/original/Star_Cinema/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema HD
+https://vod.splay.uz/live_splay/original/CinemaHD/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="КиноЗал",Дорама
+https://vod.splay.uz/live_splay/original/Dorama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="КиноЗал",Киноужас
+http://tv.ttk.mx:9193
+#EXTINF:-1 group-title="КиноЗал",Видеокассета
+http://195.9.195.3:8080/hls/176975.m3u8
+#EXTINF:-1 group-title="КиноЗал",1 FILMAX
+http://195.9.195.3:8080/hls/204708.m3u8
+#EXTINF:-1 group-title="КиноЗал",2 FILMAX
+http://195.9.195.3:8080/hls/204717.m3u8
+#EXTINF:-1 group-title="КиноЗал",в гостях у сказки
+http://109.200.130.123:7537/play/a03m
+#EXTINF:-1 group-title="КиноЗал",Т24
+http://tv.ttk.mx:9056
+#EXTINF:-1 group-title="КиноЗал",TV XXI
+http://tv.ttk.mx:9067
+#EXTINF:-1 group-title="КиноЗал",Дом кино
+http://65.21.85.175:8000/play/a01o/index.m3u8?token=livetv
+#EXTINF:-1 group-title="КиноЗал",FAN
+http://130.193.73.10:8937/play/a03w
+#EXTINF:-1 group-title="КиноЗал",Кино ТВ
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Start Air HD
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:-1 group-title="КиноЗал",Start World HD
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:-1 group-title="КиноЗал",Еврокино
+http://45.143.108.110:2200/evrokino
+
+#EXTINF:-1 group-title="КиноЗал",Sci-Fi
+http://178.124.179.122:8088/Sci-Fi/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",Дом Кино
+http://45.143.108.110:2200/domkino
+#EXTINF:-1 group-title="КиноЗал",Amedia 2
+http://sc.id-tv.kz/A2.m3u8
+#EXTINF:-1 group-title="КиноЗал",Amedia 1
+http://tv.ttk.mx:9155
+#EXTINF:-1 group-title="КиноЗал",Timeless Dizi Channel
+http://tv.ttk.mx:9189
+#EXTINF:-1 group-title="КиноЗал",Иллюзион+
+http://tv.ttk.mx:9028
+#EXTINF:-1 group-title="КиноЗал",Русский Иллюзион
+http://tv.ttk.mx:9027
+#EXTINF:-1 group-title="КиноЗал",Золотая коллекция
+http://178.212.71.253:8000/play/124/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",Кинопанорама
+https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 1
+https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 2
+https://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 3
+https://fl1001.bozztv.com/ushba24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 4
+https://fl1001.bozztv.com/ushba26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 5
+https://fl1001.bozztv.com/ushba-films-b/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 6
+https://fl1001.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 7
+https://fl1001.bozztv.com/ushba-films-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 8
+https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 9
+https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 10
+https://fl1001.bozztv.com/ushba-films-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 11
+https://fl1001.bozztv.com/ushba-films-h/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 12
+https://fl1001.bozztv.com/ushba-films-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 13
+https://fl1001.bozztv.com/ushba-films-j/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 14
+https://fl1001.bozztv.com/ushba-films-m/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 15
+https://fl1001.bozztv.com/ushba-films-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 16
+https://fl1001.bozztv.com/ushba-films-t/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 17
+https://fl1001.bozztv.com/ushba-films-yz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 18
+https://fl1001.bozztv.com/ushba-films-n/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 19
+https://fl1001.bozztv.com/ushba-films-qr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 20
+https://fl1001.bozztv.com/ushba-films-uv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 21
+https://fl1001.bozztv.com/ushba-films-o/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 22
+https://fl1001.bozztv.com/ushba-films-s/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 23
+https://fl1001.bozztv.com/ushba-films-w/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 24
+https://fl1001.bozztv.com/ushba-rfilrms-0/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 25
+https://fl1001.bozztv.com/ushba-rfilrms-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 26
+https://fl1001.bozztv.com/ushba-rfilrms-b/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 27
+https://fl1001.bozztv.com/ushba-rfilrms-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 28
+https://fl1001.bozztv.com/ushba-rfilrms-d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 29
+https://fl1001.bozztv.com/ushba-rfilrms-e/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 30
+https://fl1001.bozztv.com/ushba-rfilrms-g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 31
+https://fl1001.bozztv.com/ushba-rfilrms-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 32
+https://fl1001.bozztv.com/ushba-rfilrms-k/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 33
+https://fl1001.bozztv.com/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 34
+https://fl1001.bozztv.com/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 35
+https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 36
+https://fl1001.bozztv.com/ushba64/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema 37
+https://fl1001.bozztv.com/ushba65/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",Cinema Megahit HD
+https://iptv.prosto.tv/id578/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Cinema Comedy HD
+https://iptv.prosto.tv/id579/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Cinema Family HD
+https://iptv.prosto.tv/id589/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Cinema Prime
+https://iptv.prosto.tv/id726/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Cinema Legend HD
+https://iptv.prosto.tv/id727/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Сinema kinohit HD
+https://iptv.prosto.tv/id728/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",ICTV серіали HD
+https://iptv.prosto.tv/id865/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Cine+ HD
+https://iptv.prosto.tv/id567/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Cine+ Legend
+https://iptv.prosto.tv/id568/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Action TVOE Kino HD
+http://193.27.209.122/tvoje_kino_action/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",Xit TVOE Kino HD
+http://193.27.209.122/tvoje_kino_hit/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",Бровари Кіно TV
+https://stream.gia.tv/giatv/giatv-88882com/88882com/chunks.m3u8
+#EXTINF:-1 group-title="КиноЗал",Мелодрами HD
+http://cdnua05.hls.tv/8211/hls/f62d71219200da4130d13b21d23fb23c/4903/stream.m3u8
+#EXTINF:-1 group-title="КиноЗал",Сімейні мелодрами+
+http://cdnua05.hls.tv/617/hls/f62d71219200da4130d13b21d23fb23c/4892/stream.m3u8
+#EXTINF:-1 group-title="КиноЗал",Kinoliving HD
+https://iptv.prosto.tv/id560/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",4ever Theater HD
+https://iptv.prosto.tv/id558/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",NOW series HD
+https://iptv.prosto.tv/id566/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Cine+ Hit HD
+https://iptv.prosto.tv/id539/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",4ever Cinema HD
+https://iptv.prosto.tv/id521/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",4ever Drama HD
+https://iptv.prosto.tv/id557/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Viasat Kino Megahit HD
+https://iptv.prosto.tv/id250/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Viasat Kino Comedy HD
+https://iptv.prosto.tv/id249/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Viasat Kino HD
+https://iptv.prosto.tv/id104/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Viasat Kino Action HD
+https://iptv.prosto.tv/id105/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Viasat Kino World HD
+https://iptv.prosto.tv/id103/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Viasat Kino Megahit SD
+https://iptv.prosto.tv/id421/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Viasat Kino SD
+https://iptv.prosto.tv/id423/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Viasat Kino Action SD
+https://iptv.prosto.tv/id424/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="📺 Русское", ТВ1000
+https://live-erostv.cdnvideo.ru/erostv/erostv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="КиноЗал",Hollywood HD
+https://iptv.prosto.tv/id182/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Fox HD
+https://iptv.prosto.tv/id179/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Epic Drama HD
+https://iptv.prosto.tv/id370/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Bolt HD
+https://iptv.prosto.tv/id98/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Enter-фильм HD
+https://iptv.prosto.tv/id57/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Star Cinema HD
+https://iptv.prosto.tv/id160/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Star Family HD
+https://iptv.prosto.tv/id236/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",.Red
+http://178.124.152.238:8088/sony
+#EXTINF:-1 group-title="КиноЗал",FILMUA Drama HD
+https://iptv.prosto.tv/id97/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Bollywood HD
+https://iptv.prosto.tv/id183/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",FilmBox Arthouse
+https://iptv.prosto.tv/id111/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",FilmBox
+https://iptv.prosto.tv/id109/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Квартал ТВ
+https://iptv.prosto.tv/id180/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Твій серіал HD
+https://iptv.prosto.tv/id718/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Kinosweet HD
+https://iptv.prosto.tv/id581/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Hollywood
+https://iptv.prosto.tv/id200/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",Дорама HD
+https://iptv.prosto.tv/id374/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",TLC
+https://iptv.prosto.tv/id402/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",ТрейлерON
+https://iptv.prosto.tv/id323/video.m3u8?secret=xws6dla3
+#EXTINF:-1 group-title="КиноЗал",FX
+http://45.143.108.110:2203/FOX
+#EXTINF:-1 group-title="КиноЗал",FX Life
+http://188.237.47.212:6008
+#EXTINF:-1 group-title="КиноЗал",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="КиноЗал", Vales Premiere
+http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/31641/index.m3u8
+#EXTINF:-1 group-title="КиноЗал", Триколор Ужасы HD
+http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/20178/index.m3u8
+#EXTINF:-1 group-title="КиноЗал", Остросюжетное HD
+http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/904/index.m3u8
+#EXTINF:-1 group-title="КиноЗал", Премиальное HD
+http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/2410/index.m3u8
+#EXTINF:-1 group-title="КиноЗал", Блокбастер HD
+http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/2436/index.m3u8
+#EXTINF:-1 group-title="КиноЗал", KLI Netflix HD
+http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/20177/index.m3u8
+#EXTINF:-1 group-title="КиноЗал", Z!Action HD
+http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/31694/index.m3u8
+#EXTINF:-1 group-title="КиноЗал", Citrus Marvel HD
+http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/16051/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",BCU Media
+http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/11043/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",BCU Premiere 1 HD
+http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/11015/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",BCU Action HD
+http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/11027/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",BCU Fantastic HD
+http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/11032/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",BCU Kinorating HD
+http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/11037/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",BCU Marvel HD
+http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/15025/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",BCU VHS HD
+http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/11042/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",MM NewFilm 1 HD
+http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/13011/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",MM Боевик HD
+http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/13028/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",MM Катастрофа HD
+http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/13034/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",MM Скорость HD
+http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/13053/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",MM Кунг-Фу HD
+http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/13041/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",MM Спорт HD
+http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/13054/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",MM Крутые 90-е HD
+http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/13040/index.m3u8
+#EXTINF:-1 group-title="КиноЗал",MM Микромир HD
+http://rhsbjv7k.tvclub.xyz/iptv/D7MXW83WSN6X9U/18193/index.m3u8
+
