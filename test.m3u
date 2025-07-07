@@ -134,7 +134,7 @@ https://o10.anwap.be/serials/oshls/7LPPlFscV_WiCZ-qlAEmSQ/1749943313/Urok_1_sezo
 
 
 
-#EXTM3U url-tvg="http://tapitv.com/ttv.xmltv.xml.gz"
+
 #EXTINF:-1 group-title="Авторские" tvg-id="ttv31378" catchup="default" catchup-source="http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/3010/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/LZ9U2dQjkVmbY4dhtyM4kOkjHKAemz.png",IMDb TOP 250 Films
 #EXTGRP:Авторские
 http://streamer.enchart.one/42/a38e038c4cfd3e74c087d4912303143fe7341e1c/3010/stream.m3u8
