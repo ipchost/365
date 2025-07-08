@@ -7920,3 +7920,8 @@ http://127.0.0.1:6878/ace/getstream?infohash=ce9dfe7efa2fd304947f8b57554a524479b
 http://127.0.0.1:6878/ace/getstream?infohash=ab4f0c0791a41b00cf45e26e3a783314750481ac
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",[magenta] Sport 11 - myTeamTV
 http://127.0.0.1:6878/ace/getstream?infohash=348ef293fa3338b18559c37f96b7ce1861fa4f11
+
+
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://ru-images.kinorium.com/movie/1080/579830.jpg?1736494719" group-title="Джейсон Стэйтем",Эффект колибри 
+https://chache08.werkecdn.me/s/FHViNRoqcyiAC8NTUitpGRtUFBQUFBRmxLTUVFUlE0R0NCYUEwdzVDQg.F7P7wIrqFsEK7Mmk04q7I6gDtZ00pFvJ9cz-9Q/UHD_090/Hummingbird.2013.D.ru.BDRip.1080pp_720.mp4
