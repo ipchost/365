@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="https://epg.admuspeh.my"
-
-
 #EXTINF:-1 tvg-id="68" group-title="Познавательные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%9A%20+0%20(%D0%9D%D0%B5%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC%D1%8B%D1%81%D1%81%D0%BA).png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8072/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", Россия Культура
 http://cdn.admuspeh.my/8072/video.m3u8?token=569M91rJ3HSEsBbe
 #EXTINF:-1 tvg-id="426" group-title="Познавательные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A2%D0%91%D0%9D%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8200/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", ТБН
