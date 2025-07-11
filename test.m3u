@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epg.admuspeh.my"
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/лого%20бабки.jpg?raw=true" group-title=" Автору на пиво ", Камин наведи камеру на QR-код
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/лого%20бабки.jpg?raw=true" group-title=" Автору на пиво ", Камин, наведи камеру на QR-код
 https://raw.githubusercontent.com/ipchost/tess/refs/heads/main/variant.m3u8
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/365/blob/main/Поддержка%20проекта.jpg?raw=true" group-title=" Автору на пиво ", Наведи камеру на QR - код, будем рады любой сумме. 
