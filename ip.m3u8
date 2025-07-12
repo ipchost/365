@@ -7,8 +7,255 @@ https://raw.githubusercontent.com/ipchost/tess/refs/heads/main/variant.m3u8
 https://github.com/ipchost/365/raw/refs/heads/main/На%20развитие%20проекта%20(3).mp4
 
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/Smart-TV-Shka/blob/main/photo_5445143964773643240_x.jpg?raw=true" group-title=" Хочу больше ", Сканируй QR-код и проходи в бота тг.
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/Smart-TV-Shka/blob/main/photo_5445143964773643240_x.jpg?raw=true" group-title=" Другие плейлисты", Сканируй камерой телефона QR-код и проходи в бота тг.
 https://github.com/ipchost/Smart-TV-Shka/raw/refs/heads/main/document_5442881762092939827%20(online-video-cutter.com).mp4
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="1.FM - A List 80s" group-title=" Радио ", 1.FM - A List 80s
+#EXTGRP: Радио 
+http://prmstrm.1.fm:8000/back280s
+
+#EXTINF:-1 tvg-name="1.FM - Absolute 90's" group-title=" Радио ", 1.FM - Absolute 90's
+#EXTGRP: Радио 
+http://prmstrm.1.fm:8000/90s
+
+#EXTINF:-1 tvg-name="1.FM - Absolute Country Hits" group-title=" Радио ", 1.FM - Absolute Country Hits
+#EXTGRP: Радио 
+http://prmstrm.1.fm:8000/acountry
+
+#EXTINF:-1 tvg-name="1.FM - Absolute Trance" group-title=" Радио ", 1.FM - Absolute Trance
+#EXTGRP: Радио 
+http://prmstrm.1.fm:8000/trance
+
+#EXTINF:-1 tvg-name="1.FM - Acappella" group-title=" Радио ", 1.FM - Acappella
+#EXTGRP: Радио 
+http://prmstrm.1.fm:8000/acpl
+
+#EXTINF:-1 tvg-name="1.FM - Afterbeat Electronica" group-title=" Радио ", 1.FM - Afterbeat Electronica
+#EXTGRP: Радио 
+http://prmstrm.1.fm:8000/electronica
+
+#EXTINF:-1 tvg-name="1.FM - All Euro 80's" group-title=" Радио ", 1.FM - All Euro 80's
+#EXTGRP: Радио 
+http://prmstrm.1.fm:8000/80s_90s
+
+#EXTINF:-1 tvg-name="1.FM - Alternative Rock X Hits" group-title=" Радио ", 1.FM - Alternative Rock X Hits
+#EXTGRP: Радио 
+http://prmstrm.1.fm:8000/x
+
+http://prmstrm.1.fm:8000/onelive
+#EXTINF:-1 tvg-name="1.FM - Amsterdam Trance" group-title=" Радио ", 1.FM - Amsterdam Trance
+#EXTGRP: Радио 
+http://prmstrm.1.fm:8000/atr
+
+#EXTINF:-1 tvg-name="1.FM - Back To The 50's & 60's" group-title=" Радио ", 1.FM - Back To The 50's & 60's
+#EXTGRP: Радио 
+http://prmstrm.1.fm:8000/60s_70s
+
+
+#EXTINF:-1 tvg-name="1.FM - Chillout Lounge" group-title=" Радио ", 1.FM - Chillout Lounge
+#EXTGRP: Радио 
+http://prmstrm.1.fm:8000/chilloutlounge
+
+#EXTINF:-1 tvg-name="1.FM - Club 1 Radio" group-title=" Радио ", 1.FM - Club 1 Radio
+#EXTGRP: Радио 
+http://prmstrm.1.fm:8000/club
+
+#EXTINF:-1 tvg-name="1.FM - Deep House" group-title=" Радио ", 1.FM - Deep House
+#EXTGRP: Радио 
+http://prmstrm.1.fm:8000/deephouse
+
+#EXTINF:-1 tvg-name="1.FM - Dubstep Forward" group-title=" Радио ", 1.FM - Dubstep Forward
+#EXTGRP: Радио 
+http://prmstrm.1.fm:8000/dubstep
+
+#EXTINF:-1 tvg-name="1.FM - Reggae Trade" group-title=" Радио ", 1.FM - Reggae Trade
+#EXTGRP: Радио 
+http://prmstrm.1.fm:8000/reggae
+
+#EXTINF:-1 tvg-name="Radio 1Mix EDM" group-title=" Радио ", Radio 1Mix EDM
+#EXTGRP: Радио 
+http://fr1.1mix.co.uk:8060/320h
+
+#EXTINF:-1 tvg-name="Radio 1Mix Trance" group-title=" Радио ", Radio 1Mix Trance
+#EXTGRP: Радио 
+http://fr1.1mix.co.uk:8060/320
+
+#EXTINF:-1 tvg-name="Radio Record" group-title=" Радио ", Radio Record
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/rr_main96.aacp
+
+#EXTINF:-1 tvg-name="Radio Record (Боровичи)" group-title=" Радио ", Radio Record (Боровичи)
+#EXTGRP: Радио 
+http://nov.rlnk.ru:8000/radio.recrdb
+
+#EXTINF:-1 tvg-name="Radio Record (Вышний Волочек)" group-title=" Радио ", Radio Record (Вышний Волочек)
+#EXTGRP: Радио 
+http://cp.time4radio.ru:8003/stream
+
+#EXTINF:-1 tvg-name="Radio Record-70 Dance" group-title=" Радио ", Radio Record-70 Dance
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/197096.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-00х" group-title=" Радио ", Radio Record-00х
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/200096.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-Ambient" group-title=" Радио ", Radio Record-Ambient
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/ambient96.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-Armin van Buuren" group-title=" Радио ", Radio Record-Armin van Buuren
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/armin96.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-Breaks" group-title=" Радио ", Radio Record-Breaks
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/brks96.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-Complextro" group-title=" Радио ", Radio Record-Complextro
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/complextro96.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-Deep" group-title=" Радио ", Radio Record-Deep
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/deep96.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-Drum'n'Bass Classics" group-title=" Радио ", Radio Record-Drum'n'Bass Classics
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/drumhits96.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-Dubstep" group-title=" Радио ", Radio Record-Dubstep
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/dub96.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-EDM" group-title=" Радио ", Radio Record-EDM
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/club96.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-Gvozd" group-title=" Радио ", Radio Record-Gvozd
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/djgvozd96.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-Hard Bass" group-title=" Радио ", Radio Record-Hard Bass
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/hbass96.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-Innocence" group-title=" Радио ", Radio Record-Innocence
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/ibiza96.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-Веснушка FM" group-title=" Радио ", Radio Record-Веснушка FM
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/deti96.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-Гоп FM" group-title=" Радио ", Radio Record-Гоп FM
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/gop96.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-Колбасный Цех" group-title=" Радио ", Radio Record-Колбасный Цех
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/pump96.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-Маятник Фуко" group-title=" Радио ", Radio Record-Маятник Фуко
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/mf96.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-Медляк FM" group-title=" Радио ", Radio Record-Медляк FM
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/mdl96.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-На Хайпе" group-title=" Радио ", Radio Record-На Хайпе
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/hype96.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-На шашлыки!" group-title=" Радио ", Radio Record-На шашлыки!
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/nashashlyki96.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-Нафталин FM" group-title=" Радио ", Radio Record-Нафталин FM
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/naft96.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-Руки Вверх!" group-title=" Радио ", Radio Record-Руки Вверх!
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/rv96.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-Русская Зима" group-title=" Радио ", Radio Record-Русская Зима
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/ruszima96.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-Супердискотека 90-х" group-title=" Радио ", Radio Record-Супердискотека 90-х
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/sd9096.aacp
+
+#EXTINF:-1 tvg-name="Radio Record-Цветкоff" group-title=" Радио ", Radio Record-Цветкоff
+#EXTGRP: Радио 
+http://radiorecord.hostingradio.ru/tsvetkov96.aacp
+
+#EXTINF:-1 tvg-name="Radio Spinner - Это кавказ" group-title=" Радио ", Radio Spinner - Это кавказ
+#EXTGRP: Радио 
+https://live.radiospinner.com/etkvkz-64
+
+#EXTINF:-1 tvg-name="АМГ Радио - Шторм FM" group-title=" Радио ", АМГ Радио - Шторм FM
+#EXTGRP: Радио 
+http://shtorm.amgradio.ru/shtormfm
+
+#EXTINF:-1 tvg-name="Авторадио" group-title=" Радио ", Авторадио
+#EXTGRP: Радио 
+http://ic7.101.ru:8000/v3_1
+
+#EXTINF:-1 tvg-name="Дорожное Радио" group-title=" Радио ", Дорожное Радио
+#EXTGRP: Радио 
+http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
+
+#EXTINF:-1 tvg-name="Камеди Радио" group-title=" Радио ", Камеди Радио
+#EXTGRP: Радио 
+http://ic7.101.ru:8000/v11_1
+
+#EXTINF:-1 tvg-name="Лав Радио" group-title=" Радио ", Лав Радио
+#EXTGRP: Радио 
+http://5.178.80.42:8004/12_love_256
+
+#EXTINF:-1 tvg-name="Музыка из игр:Радио 8Bit" group-title=" Радио ", Музыка из игр:Радио 8Bit
+#EXTGRP: Радио 
+http://listen4.myradio24.com:9000/85516
+#EXTINF:-1 tvg-name="Музыка из игр:Радио Dendy-Collection" group-title=" Радио ", Музыка из игр:Радио Dendy-Collection
+#EXTGRP: Радио 
+http://sergeisam.fvds.ru:4480/radio
+#EXTINF:-1 tvg-name="Музыка из игр:Радио Retro PC Game" group-title=" Радио ", Музыка из игр:Радио Retro PC Game
+#EXTGRP: Радио 
+http://gyusyabu.ddo.jp:8000/;stream.mp3
+#EXTINF:-1 tvg-name="Музыка из игр:Радио Sega" group-title=" Радио ", Музыка из игр:Радио Sega
+#EXTGRP: Радио 
+http://content.radiosega.net:8006/live
+
+#EXTINF:-1 tvg-name="Радио DFM" group-title=" Радио ", Радио DFM
+#EXTGRP: Радио 
+http://dfm.hostingradio.ru/dfm128.mp3
+
+#EXTINF:-1 tvg-name="Радио Европа Плюс" group-title=" Радио ", Радио Европа Плюс
+#EXTGRP: Радио 
+http://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3
+
+#EXTINF:-1 tvg-name="Радио Maximum - Rammstein" group-title=" Радио ", Радио Maximum - Rammstein
+#EXTGRP: Радио 
+http://maximum.hostingradio.ru/rammstein96.aacp
+
+
+#EXTINF:-1 tvg-name="Радио NRJ" group-title=" Радио ", Радио NRJ
+#EXTGRP: Радио 
+http://ic7.101.ru:8000/v1_1
+
+
+
+
+
+
 
 
 
