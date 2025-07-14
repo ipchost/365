@@ -1348,7 +1348,7 @@ http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-C-MARVEL/video.m3u8?token=Qm
 #EXTINF:0 tvg-id="elb1099" catchup="flussonic" catchup-days="1" tvg-name="C-Cartoon HD" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/cartoon.png",C-Cartoon HD
 #EXTGRP:Yosso
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-C-CARTOON/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
-#EXTINF:0 tvg-id="elb450" catchup="flussonic" catchup-days="2" tvg-name="C-Inquest HD" group-title="КYosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/c-inquest.png",C-Inquest HD
+#EXTINF:0 tvg-id="elb450" catchup="flussonic" catchup-days="2" tvg-name="C-Inquest HD" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/c-inquest.png",C-Inquest HD
 #EXTGRP:Yosso
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/C-INQUEST1/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
 #EXTINF:0 tvg-id="elb447" catchup="flussonic" catchup-days="2" tvg-name="C-Comedy HD" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/ccomedy.png",C-Comedy HD
