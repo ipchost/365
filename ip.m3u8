@@ -1981,9 +1981,6 @@ http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936928/video.m3u8?token=Qm9y
 #EXTINF:0 tvg-id="elb4267" catchup="flussonic" catchup-days="1" tvg-name="Karlson TV Гравити Фолз" group-title="Кинозалы" tvg-logo="http://img.velestore.su/img/logos/kinoInt/kernel_tv.jpg",Karlson TV Гравити Фолз
 #EXTGRP:Кинозалы
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936929/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
-#EXTINF:0 tvg-id="elb2231" catchup="flussonic" catchup-days="1" tvg-name="Promo (18+)" group-title="Эротические (18+)" tvg-logo="http://img.velestore.su/img/logos/kinoInt/kernel_tv.jpg",Promo (18+)
-#EXTGRP:Эротические (18+)
-http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936930/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
 #EXTINF:0 tvg-id="elb4277" catchup="flussonic" catchup-days="1" tvg-name="Karlson TV Сериалы" group-title="Кинозалы" tvg-logo="http://img.velestore.su/img/logos/kinoInt/karloson_tv.jpg",Karlson TV Сериалы
 #EXTGRP:Кинозалы
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936914/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
