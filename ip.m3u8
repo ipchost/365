@@ -391,6 +391,344 @@ http://ic7.101.ru:8000/v1_1
 
 
 
+#EXTINF:-1 tvg-logo="http://i120.fastpic.org/big/2022/1002/60/2f8a8f9c961b16485098b28ba00c7b60.png" tvg-id="UFC Network" group-title="Спортивные", UFC Network
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cnn.sherdog.com/image_crop/300/300/_images/organizations/20221021093354_United_Fight_Alliance.JPG" tvg-id="no_epg_sport" group-title="Спортивные", UFA TV HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ediscom.it/img/clienti/loghi/dazn.svg" tvg-id="no_epg_sport" group-title="Спортивные", DAZN Combat
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sun9-41.userapi.com/Ek4K0P7a3IKapjSOkoZgX8AtFwhk1oeFNzrACg/NmkYA3KKOU8.jpg" tvg-id="no_epg_sport" group-title="Спортивные", Glory Kickboxing
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/c6/52/12/c6521293a214c420a7a61d9bff924234.jpg" tvg-id="no_epg_sport" group-title="Спортивные", Turbo Sports Network
+https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://swerveplay.com/cdn/shop/files/logo-large_d7d2e650-ea68-4bff-9905-91a253de0e4e_130x@2x.png?v=1663096800" group-title="Спортивные",Swerve Sports
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tvapp.fun/images/logo-channel/boxing-tv.png" tvg-id="no_epg_sport" group-title="Спортивные", Boxing TV
+https://32tech0steam0dp01.org/live/UK_BoxingTVFHD/chunks.m3u8
+
+#EXTINF:-1 tvg-id="fightbox-hd" group-title="Спортивные", FightBox
+http://77.235.1.19:8000/play/a080/index.m3u8
+
+#EXTINF:-1 tvg-id="box-tv" group-title="Спортивные", БОКС ТВ HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/d6KogdmbCrQ--FMFPktkQQ,1752526812/streaming/bokstv/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="m1global" group-title="Спортивные",M-1 Global
+http://stream-msk-10.ott.tricolor.tv/dtv/id524_MSKSG-PVR-1--M1_Global/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
+
+#EXTINF:-1 tvg-id="poedinok" tvg-logo="https://epg.iptvx.one/picons/poedinok.png" group-title="Спортивные", Поединок HD
+http://stream-msk-08.ott.tricolor.tv/dtv/id629_MSKSG-PVR-1--Channel_LIVE2/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
+
+#EXTINF:-1 tvg-id="sportmaster-tv" tvg-logo="https://epg.iptvx.one/picons/sportmaster-tv.png" group-title="Спортивные", Спортмастер ТВ
+https://stream-msk-09.ott.tricolor.tv/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
+
+#EXTINF:-1 tvg-id="sila" group-title="Спортивные", Сила
+http://stream-msk-04.ott.tricolor.tv/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport HD
+http://178.217.72.66:8080/Eurosport_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD
+http://178.134.1.158:8081/eurosport/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD 🇧🇬
+http://213.91.178.133:8000/play/a05y
+
+#EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD 🇪🇸
+http://185.189.225.157/EuroSport1/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD
+http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD [ES]
+http://185.189.225.157/EuroSport2/index.m3u8
+
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD [BG]
+http://213.91.178.133:8000/play/a04b
+
+#EXTINF:-1 tvg-id="start" group-title="Спортивные",Старт HD
+http://stream-msk-13.ott.tricolor.tv/dtv/id625_MSKSG-PVR-1--Start/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
+
+#EXTINF:-1 tvg-id="start-triumf" group-title="Спортивные",Старт Триумф HD
+https://stream-msk-15.ott.tricolor.tv/dtv/id902_MSKSG-PVR-1--Start_triumph/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
+
+#EXTINF:-1 tvg-id="tonus-tv" group-title="Спортивные",Тонус ТВ
+http://stream-msk-05.ott.tricolor.tv/dtv/id686_MSKSG-PVR-1--Tonus/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
+
+#EXTINF:-1 group-title="Спортивные",Russian Extreme HD
+http://stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
+
+#EXTINF:-1 tvg-id="fastfunbox-hd" group-title="Спортивные",Fast & FunBox
+http://77.235.1.19:8000/play/a07z/index.m3u8
+
+#EXTINF:-1 tvg-id="match-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://domnet.me/images/picons/tvico_n52.png" group-title="Спортивные",Матч! ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+
+#EXTINF:-1 tvg-id="match-tv" group-title="Спортивные",Матч! HD
+http://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
+
+#EXTINF:-1tvg-id="match-arena" group-title="Спортивные", Матч! Арена
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+
+#EXTINF:-1tvg-id="match-arena" group-title="Спортивные", Матч! Арена HD
+http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="match-boets" group-title="Спортивные", Матч! Боец
+http://api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTI1NzI3ODAsImlhdCI6MTc1MjQ4NjM4MCwiY2lkIjo2LCJ1aWQiOjkzMDExMDc4MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.fWtXPCVUrRYtiMrO-7ZfhogIouINu9ZySPB-uznRciM&offset=3
+
+#EXTINF:-1 tvg-id="match-boets" group-title="Спортивные", Матч Боец
+http://77.235.1.19:8000/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-id="match-boets" group-title="Спортивные", Матч! Боец HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/orVMyiIuRNGAoZy5Fkp42A,1752526812/streaming/boectv/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="match-igra" group-title="Спортивные", Матч! Игра
+http://api.peers.tv/timeshift/sport_2/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTI1NzI3ODAsImlhdCI6MTc1MjQ4NjM4MCwiY2lkIjo2LCJ1aWQiOjkzMDExMDc4MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.fWtXPCVUrRYtiMrO-7ZfhogIouINu9ZySPB-uznRciM&offset=3
+
+#EXTINF:-1 tvg-id="match-igra" group-title="Спортивные", Матч! Игра HD
+http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="match-nash-sport" group-title="Спортивные", Матч! Страна
+http://api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTI1NzI3ODAsImlhdCI6MTc1MjQ4NjM4MCwiY2lkIjo2LCJ1aWQiOjkzMDExMDc4MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.fWtXPCVUrRYtiMrO-7ZfhogIouINu9ZySPB-uznRciM&offset=3
+
+#EXTINF:-1 tvg-id="match-nash-sport" group-title="Спортивные", Матч Страна
+http://77.235.1.19:8000/play/a00f/index.m3u8
+
+#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч! Премьер
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/TCihs_T9F8HX-oCMTUnMJw,1752526812/streaming/match_premyer/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч! Премьер HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/edE4jcTfhsafrzc_sDpB8g,1752526812/streaming/match_premyerhd/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="match-football1" group-title="Спортивные", Матч! Футбол 1
+http://77.235.1.19:8000/play/a002/index.m3u8
+
+#EXTINF:-1 tvg-id="match-football1" group-title="Спортивные", Матч! Футбол 1 HD
+http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="match-football2" group-title="Спортивные", Матч! Футбол 2
+http://77.235.1.19:8000/play/a003/index.m3u8
+
+#EXTINF:-1 tvg-id="match-football2" group-title="Спортивные", Матч! Футбол 2 HD
+http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="match-football3" group-title="Спортивные", Матч Футбол 3
+http://77.235.1.19:8000/play/a004/index.m3u8
+
+#EXTINF:-1 tvg-id="match-football3" group-title="Спортивные", Матч Футбол 3 HD
+http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
+
+#EXTINF:-1 tvg-id="okko-football" group-title="Спортивные", Окко Футбол HD
+https://tvoe.live/api/stream/ch3051/mono.m3u8?token=tvoelive.DSo0SUcalxD-kuqpxCblCnXoy64idI0mc0Snc716rr5sqW40oCKDpUvCoBZGOKhW
+
+#EXTINF:-1 tvg-id="okko-sport" group-title="Спортивные", Окко Спорт HD
+https://tvoe.live/api/stream/ch3050/mono.m3u8?token=tvoelive.DSo0SUcalxD-kuqpxCblCnXoy64idI0mc0Snc716rr5sqW40oCKDpUvCoBZGOKhW
+
+#EXTINF:-1 tvg-id="inter-it" group-title="Спортивные", Inter TV
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+
+#EXTINF:-1 tvg-id="sport1-baltic" group-title="Спортивные", Sport 1 Baltic
+http://80.245.95.243:8888/play/a01k/index.m3u8
+
+#EXTINF:-1 tvg-id="sport2-baltic" group-title="Спортивные", Sport 2 Baltic
+http://80.245.95.243:8888/play/a22f/index.m3u8
+
+#EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",Viju+ Sport
+http://178.134.1.158:8081/viasatsport/index.m3u8
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="viasat-sport" group-title="Спортивные",Viju+ Sport HD
+http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTI1NzI3ODAsImlhdCI6MTc1MjQ4NjM4MCwiY2lkIjo2LCJ1aWQiOjkzMDExMDc4MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.fWtXPCVUrRYtiMrO-7ZfhogIouINu9ZySPB-uznRciM&offset=3
+
+#EXTINF:-1 tvg-id="footbolny" group-title="Спортивные", Мяч
+https://stream-msk-08.ott.tricolor.tv:443/dtv/id734_MSKSG-PVR-1--Futbolnyy_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="football-ru" group-title="Спортивные", Футбол
+http://api.peers.tv/timeshift/futbol_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTI1NzI3ODAsImlhdCI6MTc1MjQ4NjM4MCwiY2lkIjo2LCJ1aWQiOjkzMDExMDc4MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.fWtXPCVUrRYtiMrO-7ZfhogIouINu9ZySPB-uznRciM&offset=3
+
+#EXTINF:-1 tvg-id="voleybol" tvg-logo="https://epg.iptvx.one/picons/voleybol.png" group-title="Спортивные", Волейбол HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
+https://mhd128.iptv2022.com/p/fYF33HAILEkXkxM_WulXIA,1752526823/streaming/volleyball/324/1/tracks-v5a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="nba-tv" group-title="Спортивные", NBA TV
+https://ft.fbcdntv247.cfd/memfs/b93f8f7b-03f8-4693-803a-32a9c894e296_output_0.m3u8
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="kxl" group-title="Спортивные", КХЛ
+http://api.peers.tv/timeshift/khl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTI1NzI3ODAsImlhdCI6MTc1MjQ4NjM4MCwiY2lkIjo2LCJ1aWQiOjkzMDExMDc4MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.fWtXPCVUrRYtiMrO-7ZfhogIouINu9ZySPB-uznRciM&offset=3
+
+#EXTINF:-1 tvg-id="kxl" group-title="Спортивные", KHL
+http://178.124.152.238:8088/khl
+
+#EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные",КХЛ HD
+http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
+
+#EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные", KHL Prime
+http://194.143.148.28:8080/KHL_HD/mpegts
+
+#EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные", KHL Prime HD
+http://radio.tvs.by:8088/KHL_HD/index.m3u8
+
+#EXTINF:-1 group-title="Спортивные",Хоккей ТВ
+https://stream-msk-09.ott.tricolor.tv/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://bonus-betting.ru/wp-content/uploads/2021/10/nhl-logo.png" group-title="Спортивные", NHL (Интересные моменты)
+https://nhl-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Спортивные",ТВ Спорт
+http://stream-msk-06.ott.tricolor.tv/dtv/id733_MSKSG-PVR-1--Sportivnii/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
+
+#EXTINF:-1 tvg-id="bolshoj-efir" group-title="Спортивные", Большой эфир
+http://stream-msk-10.ott.tricolor.tv/dtv/id621_MSKSG-PVR-1--ChannelLIVE/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
+
+#EXTINF:-1 tvg-id="igra" tvg-logo="https://epg.iptvx.one/picons/igra.png" group-title="Спортивные", Игра HD
+http://stream-msk-06.ott.tricolor.tv/dtv/id632_MSKSG-PVR-1--Channel_LIVE4/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MzA5MDQ4MiwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUyNDg1NjgyLCJzZXNzaW9uX2lkIjoiZjc2ZTkxZGMzYmJlOTgwYzhjODcyMmFiOTk1ZDM5MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.VWBMEQMPzqPwzYVypq9Q0Gh6DZSo191NzCAwvVeFOeY
+
+#EXTINF:-1 tvg-id="tancuj" group-title="Спортивные",Танцуй!
+http://77.235.1.19:8000/play/a035/index.m3u8
+
+#EXTINF:-1 group-title="Спортивные",Конный мир
+http://cdn-01.bonus-tv.ru/kmir/mono.m3u8
+
+#EXTINF:-1 tvg-id="belarus5" group-title="Спортивные", Беларусь 5 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b2660000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="belarus5-inet" group-title="Спортивные", Беларусь 5 Интернет
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/chunklist_b2660000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.zarya-kaspiya.ru/wp-content/uploads/2019/09/LOGO-ASTRAKHAN-RU-SPORT-ver.jpg" tvg-id="no_epg_sport" group-title="Спортивные", Астрахань Спорт
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="mir-basketbola" group-title="Спортивные", Мир баскетбола
+http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTI1NzI3ODAsImlhdCI6MTc1MjQ4NjM4MCwiY2lkIjo2LCJ1aWQiOjkzMDExMDc4MSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.fWtXPCVUrRYtiMrO-7ZfhogIouINu9ZySPB-uznRciM&offset=3
+
+#EXTINF:-1 tvg-id="trace-sport-stars" group-title="Спортивные", Trace Sport Start [RU]
+http://87.120.142.11:18000/Rossiya1
+
+#EXTINF:-1 tvg-id="trace-sport-stars" group-title="Спортивные", Trace Sport Start HD [EN]
+http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seetelecom.am/assets/img/channels/channel7.png" tvg-id="no_epg_sport" group-title="Спортивные", Fast Sport
+http://45.159.74.22/Channel_131/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/National_Olympic_Committee_of_Turkmenistan_logo.svg/1200px-National_Olympic_Committee_of_Turkmenistan_logo.svg.png" tvg-id="no_epg_sport" group-title="Спортивные", Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="Спортивные", IMPACT Wrestling
+http://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.avm.gen.tr/resimler/network_kadin_1.jpg" tvg-id="no_epg_sport" group-title="Спортивные", A21 Network
+https://tv.a21network.ru/content/37909/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://photos.live-tv-channels.org/tv-logo/canal-motor-5880.webp" group-title="Спортивные", Canal Motor
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Спортивные",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="sky-sport-f1-de" group-title="Спортивные",Sky Sport F1 [DE]
+http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/330461
+
+#EXTINF:-1 tvg-id="tennis-cnl-us" tvg-logo="https://epg.iptvx.one/picons/tennis-cnl-us.png" group-title="Спортивные",Tennis Channel [US]
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://m.media-amazon.com/images/I/41NhI9FSeQL._AC_UL800_QL65_.png" group-title="Спортивные",TENNIS CHANNEL 2
+https://d3qg0hadt0dkov.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/35a24fd8-60c3-45d0-bd8a-ee3cc914581f/3.m3u8
+
+#EXTINF:-1 tvg-id="supertennis" group-title="Спортивные", SuperTennis HD
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+
+#EXTINF:-1 tvg-id="sky-sport-tennis-de" group-title="Спортивные",Sky Sport Tennis [DE]
+http://sonymax.org:8080/aGbnACSRPH/g5cteHSdS8/426455
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/espn-us.png" group-title="Спортивные", ESPN
+http://181.188.216.5:18000/play/a0fb/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/espn2-nl.png" group-title="Спортивные", ESPN 2
+http://181.188.216.5:18000/play/a0oz/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/espn3-nl.png" group-title="Спортивные", ESPN 3
+http://181.188.216.5:18000/play/a0dm/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/espn4-nl.png" group-title="Спортивные", ESPN 4
+http://181.188.216.5:18000/play/a0am/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/espn1-nl.png" group-title="Спортивные", ESPN 5
+http://181.188.216.5:18000/play/a0gl/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/espn1-nl.png" group-title="Спортивные", ESPN 6
+http://181.188.216.5:18000/play/a0dn/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://epg.iptvx.one/picons/espn1-nl.png" group-title="Спортивные", ESPN 7
+http://181.188.216.5:18000/play/a0i6/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://cubiktv.com/upload/images/unbeaten.png" group-title="Спортивные",UNBEATEN
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://streamstak.com/billiardtv/wp-content/uploads/sites/2/2021/09/billiard-tv-thumbnail.jpg" group-title="Спортивные", Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
+
+#EXTINF:-1 tvg-id="rtvs-sport-sk" group-title="Спортивные", RTVS Sport [SK]
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.10/live/test_rtvs_sport_hevc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ct-sport" group-title="Спортивные", CT Sport
+#EXTVLCOPT:http-user-agent=SmartTV
+http://88.212.7.10/live/test_ctsport_25p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="diema-sport-1" group-title="Спортивные", Diema Sport HD
+http://213.91.178.133:8000/play/a06q
+
+#EXTINF:-1 tvg-id="max-sport-1" group-title="Спортивные", MAX Sport 1 HD
+http://213.91.178.133:8000/play/a0as
+
+#EXTINF:-1 tvg-id="max-sport-2" group-title="Спортивные", MAX Sport 2 HD
+http://213.91.178.133:8000/play/a0at
+
+#EXTINF:-1 tvg-id="max-sport-3" group-title="Спортивные", MAX Sport 3 HD
+http://213.91.178.133:8000/play/a0ar
+
+#EXTINF:-1 tvg-id="max-sport-4" group-title="Спортивные", MAX Sport 4 HD
+http://213.91.178.133:8000/play/a05n
+
+#EXTINF:-1 tvg-id="arena-sport-1-sk" group-title="Спортивные", Arena Sport 1 [SK]
+http://78.130.250.2:8023/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Спортивные", beIN SPORTS XTRA
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f6/87/e3/f687e3b6-6f05-b755-3eeb-69ce1fb30611/source/512x512bb.jpg" group-title="Спортивные", Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/512px-Abu_Dhabi_Sports_logo_2023.svg.png" group-title="Спортивные", Abu Dhabi Sports 2
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="Спортивные", Dubai Sports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/PMJ7Zmo.png" group-title="Спортивные", Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.imgur.com/U0A8Gex.png" group-title="Спортивные", Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="Познавательные",Viju History
 http://178.217.72.66:8080/Viasat_History/index.m3u8
@@ -1304,56 +1642,6 @@ http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1667.m3u8
 
 
 
-#EXTINF:0 CUID="992" tvg-name="5:KBC-Легендарное HD" tvg-id="5:KBC-Легендарное HD" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/b1da24ab87e292bf9b0c592b9c4cf54b.png" group-title="KBC",KBC-Легендарное
-http://ost.ping-tv.com/zP3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6IjRiYzA0NzdkIiwicCI6IjRiYzA0NzdkYWIxZTU3ODkiLCJjIjoiOTkyIiwidCI6IjhlNDA5MDc3ZTI3ZTdlYjVlYjg3YzQ1ZTIyNTAwYTNlIiwiZCI6IjQ4OCIsInIiOiIxMDA0ODgiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ19sZWdlbmQvbXBlZ3R
-#EXTINF:0 CUID="993" tvg-name="5:KBC-Кошмарное HD" tvg-id="5:KBC-Кошмарное HD" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/d0813e11be076db2cf92580db054e9a5.png" group-title="KBC",KBC-Кошмарное
-http://ost.ping-tv.com/wZWd0cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiI0YmMwNDc3ZCIsInAiOiI0YmMwNDc3ZGFiMWU1Nzg5IiwiYyI6Ijk5MyIsInQiOiI4ZTQwOTA3N2UyN2U3ZWI1ZWI4N2M0NWUyMjUwMGEzZSIsImQiOiI0ODgiLCJyIjoiMTAwNDg4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ19rb3NobWFybm9lL21
-#EXTINF:0 CUID="994" tvg-name="5:KBC-Видак HD" tvg-id="5:KBC-Видак HD" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/3db52808dd6f076ad24b390f3bb9efbb.png" group-title="KBC",KBC-Видак
-http://ost.ping-tv.com/_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiNGJjMDQ3N2QiLCJwIjoiNGJjMDQ3N2RhYjFlNTc4OSIsImMiOiI5OTQiLCJ0IjoiOGU0MDkwNzdlMjdlN2ViNWViODdjNDVlMjI1MDBhM2UiLCJkIjoiNDg4IiwiciI6IjEwMDQ4OCIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ192aWRhYy9tcGVndHM
-#EXTINF:0 CUID="995" tvg-name="5:KBC-ДрамаTic HD" tvg-id="5:KBC-ДрамаTic HD" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/kbc-dramatic.png" group-title="KBC",KBC-Драма Tic
-http://ost.ping-tv.com/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiNGJjMDQ3N2QiLCJwIjoiNGJjMDQ3N2RhYjFlNTc4OSIsImMiOiI5OTUiLCJ0IjoiOGU0MDkwNzdlMjdlN2ViNWViODdjNDVlMjI1MDBhM2UiLCJkIjoiNDg4IiwiciI6IjEwMDQ4OCIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ19kcmFtYXRpYy9tcGV
-#EXTINF:0 CUID="996" tvg-name="5:KBC-Союзмультзал" tvg-id="5:KBC-Союзмультзал" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/1985c87828c2e220000ae0d7a09ea7ce.png" group-title="KBC",KBC-Союзмультзал
-http://ost.ping-tv.com/vbXBlZ3RzP3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6IjRiYzA0NzdkIiwicCI6IjRiYzA0NzdkYWIxZTU3ODkiLCJjIjoiOTk2IiwidCI6IjhlNDA5MDc3ZTI3ZTdlYjVlYjg3YzQ1ZTIyNTAwYTNlIiwiZCI6IjQ4OCIsInIiOiIxMDA0ODgiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ19zb3l1em11bHR6YWw
-#EXTINF:0 CUID="997" tvg-name="5:KBC +100500" tvg-id="5:KBC +100500" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/kbc-100500.png" group-title="KBC",KBC-+100500
-http://ost.ping-tv.com/wZWd0cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiI0YmMwNDc3ZCIsInAiOiI0YmMwNDc3ZGFiMWU1Nzg5IiwiYyI6Ijk5NyIsInQiOiI4ZTQwOTA3N2UyN2U3ZWI1ZWI4N2M0NWUyMjUwMGEzZSIsImQiOiI0ODgiLCJyIjoiMTAwNDg4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ19wbHVzMTAwNTAwL21
-#EXTINF:0 CUID="998" tvg-name="5:KBC-Elite comedys HD" tvg-id="5:KBC-Elite comedys HD" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/17d8da1d645f428d02549f966fadca9b.png" group-title="KBC",KBC-Elite Comedy's
-http://ost.ping-tv.com/vbXBlZ3RzP3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6IjRiYzA0NzdkIiwicCI6IjRiYzA0NzdkYWIxZTU3ODkiLCJjIjoiOTk4IiwidCI6IjhlNDA5MDc3ZTI3ZTdlYjVlYjg3YzQ1ZTIyNTAwYTNlIiwiZCI6IjQ4OCIsInIiOiIxMDA0ODgiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ19lbGl0ZWNvbWVkeXM
-#EXTINF:0 CUID="999" tvg-name="5:KBC-Russian Комедия HD" tvg-id="5:KBC-Russian Комедия HD" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/KBC-Russian Комедия.png" group-title="KBC",KBC-Russian Комедия
-http://ost.ping-tv.com/5L21wZWd0cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiI0YmMwNDc3ZCIsInAiOiI0YmMwNDc3ZGFiMWU1Nzg5IiwiYyI6Ijk5OSIsInQiOiI4ZTQwOTA3N2UyN2U3ZWI1ZWI4N2M0NWUyMjUwMGEzZSIsImQiOiI0ODgiLCJyIjoiMTAwNDg4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ19SdXNzaWFuY29tZWR
-#EXTINF:0 CUID="1000" tvg-name="5:KBC-Family Animation HD" tvg-id="5:KBC-Family Animation HD" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/c891bed2253cb86d821a173a92a4f725.png" group-title="KBC",KBC-Family Animation
-http://ost.ping-tv.com/pb24vbXBlZ3RzP3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6IjRiYzA0NzdkIiwicCI6IjRiYzA0NzdkYWIxZTU3ODkiLCJjIjoiMTAwMCIsInQiOiI4ZTQwOTA3N2UyN2U3ZWI1ZWI4N2M0NWUyMjUwMGEzZSIsImQiOiI0ODgiLCJyIjoiMTAwNDg4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ19GYW1pbHlBbmltYXR
-#EXTINF:0 CUID="1001" tvg-name="5:KBC-В.О.В. HD" tvg-id="5:KBC-В.О.В. HD" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/177af782e25a68da92ef94c1fea2f0b0.png" group-title="KBC",KBC-В.О.В.
-http://ost.ping-tv.com/va2VuPVtzdGJfdG9rZW5dIiwibCI6IjRiYzA0NzdkIiwicCI6IjRiYzA0NzdkYWIxZTU3ODkiLCJjIjoiMTAwMSIsInQiOiI4ZTQwOTA3N2UyN2U3ZWI1ZWI4N2M0NWUyMjUwMGEzZSIsImQiOiI0ODgiLCJyIjoiMTAwNDg4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ192b3YvbXBlZ3RzP3R
-#EXTINF:0 CUID="1002" tvg-name="5:KBC-Страна СССР HD" tvg-id="5:KBC-Страна СССР HD" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/kbc-sssr.png" group-title="KBC",KBC-Страна СССР
-http://ost.ping-tv.com/wZWd0cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiI0YmMwNDc3ZCIsInAiOiI0YmMwNDc3ZGFiMWU1Nzg5IiwiYyI6IjEwMDIiLCJ0IjoiOGU0MDkwNzdlMjdlN2ViNWViODdjNDVlMjI1MDBhM2UiLCJkIjoiNDg4IiwiciI6IjEwMDQ4OCIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ19zdHJhbmFVU1NSL21
-#EXTINF:0 CUID="1003" tvg-name="5:KBC-Шпионское HD" tvg-id="5:KBC-Шпионское HD" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/4a3f1fd1dec84721e70569b21592273c.png" group-title="KBC",KBC-Шпионское
-http://ost.ping-tv.com/wZWd0cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiI0YmMwNDc3ZCIsInAiOiI0YmMwNDc3ZGFiMWU1Nzg5IiwiYyI6IjEwMDMiLCJ0IjoiOGU0MDkwNzdlMjdlN2ViNWViODdjNDVlMjI1MDBhM2UiLCJkIjoiNDg4IiwiciI6IjEwMDQ4OCIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ19zaHBpb25za29lL21
-#EXTINF:0 CUID="1004" tvg-name="5:KBC-Comics HD" tvg-id="5:KBC-Comics HD" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/kbc-comics.png" group-title="KBC",KBC-Comics
-http://ost.ping-tv.com/zP3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6IjRiYzA0NzdkIiwicCI6IjRiYzA0NzdkYWIxZTU3ODkiLCJjIjoiMTAwNCIsInQiOiI4ZTQwOTA3N2UyN2U3ZWI1ZWI4N2M0NWUyMjUwMGEzZSIsImQiOiI0ODgiLCJyIjoiMTAwNDg4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ19jb21pY3MvbXBlZ3R
-#EXTINF:0 CUID="1005" tvg-name="5:KBC-Аниме HD" tvg-id="5:KBC-Аниме HD" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/kbc-anime.png" group-title="KBC",KBC-Аниме
-http://ost.ping-tv.com/_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiNGJjMDQ3N2QiLCJwIjoiNGJjMDQ3N2RhYjFlNTc4OSIsImMiOiIxMDA1IiwidCI6IjhlNDA5MDc3ZTI3ZTdlYjVlYjg3YzQ1ZTIyNTAwYTNlIiwiZCI6IjQ4OCIsInIiOiIxMDA0ODgiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ19hbmltZS9tcGVndHM
-#EXTINF:0 CUID="1006" tvg-name="5:KBC-History HD" tvg-id="5:KBC-History HD" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/cdc6b5f1dbdfbb758ce8f8a1219be621.png" group-title="KBC",KBC-History
-http://ost.ping-tv.com/0cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiI0YmMwNDc3ZCIsInAiOiI0YmMwNDc3ZGFiMWU1Nzg5IiwiYyI6IjEwMDYiLCJ0IjoiOGU0MDkwNzdlMjdlN2ViNWViODdjNDVlMjI1MDBhM2UiLCJkIjoiNDg4IiwiciI6IjEwMDQ4OCIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ19IaXN0b3J5L21wZWd
-#EXTINF:0 CUID="1007" tvg-name="5:KBC-Fantastic HD" tvg-id="5:KBC-Fantastic HD" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/811551bc96ae98082c482b68477642f8.png" group-title="KBC",KBC-Fantastic
-http://ost.ping-tv.com/lZ3RzP3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6IjRiYzA0NzdkIiwicCI6IjRiYzA0NzdkYWIxZTU3ODkiLCJjIjoiMTAwNyIsInQiOiI4ZTQwOTA3N2UyN2U3ZWI1ZWI4N2M0NWUyMjUwMGEzZSIsImQiOiI0ODgiLCJyIjoiMTAwNDg4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ19mYW50YXN0aWMvbXB
-#EXTINF:0 CUID="1008" tvg-name="5:KBC-Newfilm HD" tvg-id="5:KBC-Newfilm HD" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/KBC-Newfilm.png" group-title="KBC",KBC-New Film
-http://ost.ping-tv.com/0cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiI0YmMwNDc3ZCIsInAiOiI0YmMwNDc3ZGFiMWU1Nzg5IiwiYyI6IjEwMDgiLCJ0IjoiOGU0MDkwNzdlMjdlN2ViNWViODdjNDVlMjI1MDBhM2UiLCJkIjoiNDg4IiwiciI6IjEwMDQ4OCIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ19OZXdmaWxtL21wZWd
-#EXTINF:0 CUID="1009" tvg-name="5:KBC-Гоблин HD" tvg-id="5:KBC-Гоблин HD" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/kbc-goblin.png" group-title="KBC",KBC-Гоблин
-http://ost.ping-tv.com/zP3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6IjRiYzA0NzdkIiwicCI6IjRiYzA0NzdkYWIxZTU3ODkiLCJjIjoiMTAwOSIsInQiOiI4ZTQwOTA3N2UyN2U3ZWI1ZWI4N2M0NWUyMjUwMGEzZSIsImQiOiI0ODgiLCJyIjoiMTAwNDg4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ19nb2JsaW4vbXBlZ3R
-#EXTINF:0 CUID="1010" tvg-name="5:KBC-Вестерн HD" tvg-id="5:KBC-Вестерн HD" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/1c5b27b68e147deb4548f7f19ecf91a0.png" group-title="KBC",KBC-Вестерн
-http://ost.ping-tv.com/0cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiI0YmMwNDc3ZCIsInAiOiI0YmMwNDc3ZGFiMWU1Nzg5IiwiYyI6IjEwMTAiLCJ0IjoiOGU0MDkwNzdlMjdlN2ViNWViODdjNDVlMjI1MDBhM2UiLCJkIjoiNDg4IiwiciI6IjEwMDQ4OCIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ193ZXN0ZXJuL21wZWd
-#EXTINF:0 CUID="1011" tvg-name="5:KBC-WAR HD" tvg-id="5:KBC-WAR HD" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/kbc-war.png" group-title="KBC",KBC-WAR
-http://ost.ping-tv.com/va2VuPVtzdGJfdG9rZW5dIiwibCI6IjRiYzA0NzdkIiwicCI6IjRiYzA0NzdkYWIxZTU3ODkiLCJjIjoiMTAxMSIsInQiOiI4ZTQwOTA3N2UyN2U3ZWI1ZWI4N2M0NWUyMjUwMGEzZSIsImQiOiI0ODgiLCJyIjoiMTAwNDg4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ193YXIvbXBlZ3RzP3R
-#EXTINF:0 CUID="1012" tvg-name="5:KBC-ГАЙ Ritchie and Tarantino HD" tvg-id="5:KBC-ГАЙ Ritchie and Tarantino HD" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/kbc-ritchie-tarantino.png" group-title="KBC",KBC-Гай Ritchie & Tarantino
-http://ost.ping-tv.com/0YXJhbnRpbm8vbXBlZ3RzP3Rva2VuPVtzdGJfdG9rZW5dIiwibCI6IjRiYzA0NzdkIiwicCI6IjRiYzA0NzdkYWIxZTU3ODkiLCJjIjoiMTAxMiIsInQiOiI4ZTQwOTA3N2UyN2U3ZWI1ZWI4N2M0NWUyMjUwMGEzZSIsImQiOiI0ODgiLCJyIjoiMTAwNDg4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ19ndXlyaWNoaWVhbmR
-#EXTINF:0 CUID="1013" tvg-name="5:KBC-Animals HD" tvg-id="5:KBC-Animals HD" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/kbc-animals.png" group-title="KBC",KBC-Animals
-http://ost.ping-tv.com/0cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiI0YmMwNDc3ZCIsInAiOiI0YmMwNDc3ZGFiMWU1Nzg5IiwiYyI6IjEwMTMiLCJ0IjoiOGU0MDkwNzdlMjdlN2ViNWViODdjNDVlMjI1MDBhM2UiLCJkIjoiNDg4IiwiciI6IjEwMDQ4OCIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ19hbmltYWxzL21wZWd
-#EXTINF:0 CUID="1014" tvg-name="5:KBC-MusKino HD" tvg-id="5:KBC-MusKino HD" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/kbc-muskino.png" group-title="KBC",KBC-MusKino
-http://ost.ping-tv.com/0cz90b2tlbj1bc3RiX3Rva2VuXSIsImwiOiI0YmMwNDc3ZCIsInAiOiI0YmMwNDc3ZGFiMWU1Nzg5IiwiYyI6IjEwMTQiLCJ0IjoiOGU0MDkwNzdlMjdlN2ViNWViODdjNDVlMjI1MDBhM2UiLCJkIjoiNDg4IiwiciI6IjEwMDQ4OCIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ19tdXNraW5vL21wZWd
-#EXTINF:0 CUID="1015" tvg-name="5:KBC-СпортМикс HD" tvg-id="5:KBC-СпортМикс HD" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/kbc-sportmiks.png" group-title="KBC",KBC-СпортМикс
-http://ost.ping-tv.com/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiNGJjMDQ3N2QiLCJwIjoiNGJjMDQ3N2RhYjFlNTc4OSIsImMiOiIxMDE1IiwidCI6IjhlNDA5MDc3ZTI3ZTdlYjVlYjg3YzQ1ZTIyNTAwYTNlIiwiZCI6IjQ4OCIsInIiOiIxMDA0ODgiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ19zcG9ydG1peC9tcGV
-#EXTINF:0 CUID="1016" tvg-name="5:KBC-Наш Rock HD" tvg-id="5:KBC-Наш Rock HD" tvg-logo="http://stb.ping-tv.com/images/logo_chanel/kbc-nash-rock.png" group-title="KBC",KBC-НАШ ROCK
-http://ost.ping-tv.com/ndHM_dG9rZW49W3N0Yl90b2tlbl0iLCJsIjoiNGJjMDQ3N2QiLCJwIjoiNGJjMDQ3N2RhYjFlNTc4OSIsImMiOiIxMDE2IiwidCI6IjhlNDA5MDc3ZTI3ZTdlYjVlYjg3YzQ1ZTIyNTAwYTNlIiwiZCI6IjQ4OCIsInIiOiIxMDA0ODgiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjYub3h0dmUubGl2ZTo4MDgwL0tCQ19uYXNocm9jay9tcGV
 
 
 
@@ -1425,81 +1713,6 @@ http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1315.m3u8
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1316.m3u8
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-id="288" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A3%D0%B4%D0%B0%D1%80%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8319/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", UDAR
-http://cdn.admuspeh.my/8319/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="319" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/MMA-TV.com%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8380/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", MMA-TV HD
-http://cdn.admuspeh.my/8380/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="186" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%91%D0%BE%D0%BA%D1%81%20%D0%A2%D0%92%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8201/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Бокс ТВ
-http://cdn.admuspeh.my/8201/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="15" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%90%D0%A2%D0%A7!%20+0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8016/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Матч!
-http://cdn.admuspeh.my/8016/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="167" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%90%D0%A2%D0%A7!%20+0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8179/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Матч! HD
-http://cdn.admuspeh.my/8179/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="26" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%91%D0%BE%D0%B5%D1%86%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8027/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Матч! Боец
-http://cdn.admuspeh.my/8027/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="17" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%90%D1%80%D0%B5%D0%BD%D0%B0%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8018/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Матч! Арена
-http://cdn.admuspeh.my/8018/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="18" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8019/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Матч! Страна
-http://cdn.admuspeh.my/8019/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="22" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%9F%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8023/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Матч! Премьер
-http://cdn.admuspeh.my/8023/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="937" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0.png" catchup-days="0", Матч! Планета
-http://cdn.admuspeh.my/8549/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="23" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%98%D0%B3%D1%80%D0%B0%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8024/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Матч! Игра
-http://cdn.admuspeh.my/8024/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="20" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%201%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8021/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Матч! Футбол 1
-http://cdn.admuspeh.my/8021/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="217" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%201%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8236/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Матч! Футбол 1 HD
-http://cdn.admuspeh.my/8236/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="21" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%202%20FHD.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8022/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", Матч! Футбол 2
-http://cdn.admuspeh.my/8022/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="218" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%202%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8237/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Матч! Футбол 2 HD
-http://cdn.admuspeh.my/8237/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="28" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%203%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8029/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Матч! Футбол 3
-http://cdn.admuspeh.my/8029/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="219" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%203%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8238/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Матч! Футбол 3 HD
-http://cdn.admuspeh.my/8238/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="475" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8147/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Футбол HD
-http://cdn.admuspeh.my/8147/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="548" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20HD.png" catchup-days="0", Футбольный HD
-http://cdn.admuspeh.my/8368/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="547" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A5%D0%BE%D0%BA%D0%BA%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9%20HD.png" catchup-days="0", Хоккейный HD
-http://cdn.admuspeh.my/8367/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="24" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/KHL%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8025/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", KHL
-http://cdn.admuspeh.my/8025/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="272" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/KHL%20Prime%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8297/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", KHL Prime HD
-http://cdn.admuspeh.my/8297/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="57" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/NBA%20TV%20HD%20US.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8061/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", NBA TV
-http://cdn.admuspeh.my/8061/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="13" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/Eurosport%201%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8013/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Eurosport 1
-http://cdn.admuspeh.my/8013/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="166" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/Eurosport%20HD%20DE.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8178/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Eurosport 1 HD
-http://cdn.admuspeh.my/8178/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="562" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/EUROSPORT%202%20HD%20SE.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8014/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Eurosport 2
-http://cdn.admuspeh.my/8014/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="151" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/EUROSPORT%202%20HD%20SE.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8163/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Eurosport 2 HD
-http://cdn.admuspeh.my/8163/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="626" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/SKY%20SPORTS%20F1%20UK.png" catchup-days="0", Sky Sports F1 HD UK
-http://cdn.admuspeh.my/8688/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="92" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/Extreme%20Sports%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8098/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Extreme Sports
-http://cdn.admuspeh.my/8098/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="416" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/ESPN%201%20HD%20NL.png" catchup-days="0", ESPN
-http://cdn.admuspeh.my/8755/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="14" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/Viju+%20Sport%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8015/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", viju+ Sport HD
-http://cdn.admuspeh.my/8015/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="174" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%96%D0%98%D0%92%D0%98!%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8187/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Живи!
-http://cdn.admuspeh.my/8187/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="293" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9A%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%9C%D0%B8%D1%80%20HD%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8326/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", Конный мир HD
-http://cdn.admuspeh.my/8326/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="417" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/Setanta%20Sports%201%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8565/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Setanta Sports 1 HD
-http://cdn.admuspeh.my/8565/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="610" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/Setanta%20Sports%202%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8676/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Setanta Sports 2 HD
-http://cdn.admuspeh.my/8676/video.m3u8?token=569M91rJ3HSEsBbe
 
 
 
@@ -1961,26 +2174,6 @@ http://cdn.admuspeh.my/8501/video.m3u8?token=569M91rJ3HSEsBbe
 
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="330" group-title="Развлекательные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%93%D1%80%D0%BE%D0%B7%D0%BD%D1%8B%D0%B9.png" catchup-days="0", Грозный
-http://cdn.admuspeh.my/8392/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="533" group-title="Развлекательные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A1%D1%80%D0%B5%D0%B4%D0%B0.png" catchup-days="0", Среда (Дагестан)
-http://cdn.admuspeh.my/8295/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="996" group-title="Развлекательные"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9C%D0%B0%D0%BA%D1%80%D0%BE%D0%BC%D0%B8%D1%80%20HD.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8636/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="3", MiniMax Макромир HD
-http://cdn.admuspeh.my/8636/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="997" group-title="Развлекательные"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9C%D0%B5%D0%B3%D0%B0%D0%BC%D0%B8%D1%80%20HD.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8770/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="3", MiniMax Мегамир HD
-http://cdn.admuspeh.my/8770/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1002" group-title="Развлекательные"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20Experiment%20HD.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8643/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="3", MiniMax Experiment HD
-http://cdn.admuspeh.my/8643/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1005" group-title="Развлекательные"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8647/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="3", MiniMax Открытия HD
-http://cdn.admuspeh.my/8647/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="964" group-title="Развлекательные"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20Relax%20HD.png" catchup-days="0", MiniMax Relax HD
-http://cdn.admuspeh.my/8793/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="963" group-title="Развлекательные"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20Live%20Planet%20HD.png" catchup-days="0", MiniMax Live Planet HD
-http://cdn.admuspeh.my/8599/video.m3u8?token=569M91rJ3HSEsBbe
 
 
 
