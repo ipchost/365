@@ -1307,7 +1307,7 @@ http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-SSSR/video.m3u8?token=Qm9yb2
 #EXTGRP:Yosso
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-NEW/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
 #EXTINF:0 tvg-id="elb475" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Союзмульт" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-soyuzmult.png",Yosso TV Союзмульт
-#EXTGRP:КYosso
+#EXTGRP:Yosso
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-MULT/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
 #EXTINF:0 tvg-id="elb466" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Music Hits" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-musichits.png",Yosso TV Music Hits
 #EXTGRP:Yosso
@@ -1325,7 +1325,7 @@ http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-BEST/video.m3u8?token=Qm9yb2
 #EXTGRP:Yosso
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-KOWBOY/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
 #EXTINF:0 tvg-id="elb456" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Adrenaline" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-adrenaline.png",Yosso TV Adrenaline
-#EXTGRP:КYosso
+#EXTGRP:Yosso
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-ADRENALINE/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
 #EXTINF:0 tvg-id="elb471" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Oblivion" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-oblivion.png",Yosso TV Oblivion
 #EXTGRP:Yosso
@@ -1355,7 +1355,7 @@ http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/C-INQUEST1/video.m3u8?token=Qm
 #EXTGRP:Yosso
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/C-IIICOMEDYIII/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
 #EXTINF:0 tvg-id="elb446" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV BEST 60 FPS" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/best_60fps.png",Yosso TV BEST 60 FPS
-#EXTGRP:КYosso
+#EXTGRP:Yosso
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-BEST_60FPS/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
 #EXTINF:0 tvg-id="elb459" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Disney" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-disney.png",Yosso TV Disney
 #EXTGRP:Yosso
@@ -1364,7 +1364,7 @@ http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-DISNEY/video.m3u8?token=Qm9y
 #EXTGRP:Yosso
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-FOOD/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
 #EXTINF:0 tvg-id="elb469" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Netflix" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-netflix.png",Yosso TV Netflix
-#EXTGRP:КYosso
+#EXTGRP:Yosso
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-NETFLIX/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
 #EXTINF:0 tvg-id="elb449" catchup="flussonic" catchup-days="2" tvg-name="C-Holiday HD" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/Y-H/W/c-holiday.png",C-Holiday HD
 #EXTGRP:Yosso
