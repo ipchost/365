@@ -389,6 +389,108 @@ http://ic7.101.ru:8000/v1_1
 
 
 
+#EXTINF:-1 tvg-id="565" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%9F%D0%BB%D1%8E%D1%81.png" catchup-days="0", Звезда Плюс
+http://cdn.admuspeh.my/8403/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="1" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20+0%20(%D0%9D%D0%B5%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC%D1%8B%D1%81%D1%81%D0%BA).png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8001/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", Первый канал
+http://cdn.admuspeh.my/8001/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="138" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8150/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Первый канал HD
+http://cdn.admuspeh.my/8150/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="524" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20+2.png" catchup-days="0", Первый канал (+2)
+http://cdn.admuspeh.my/8425/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="135" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20+3%20(%D0%9E%D0%BC%D1%81%D0%BA).png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8145/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="1", Первый канал (+4)
+http://cdn.admuspeh.my/8145/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="274" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20+6.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8299/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="1", Первый канал (+6)
+http://cdn.admuspeh.my/8299/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="114" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%20%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8120/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", Первый канал Европа
+http://cdn.admuspeh.my/8120/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="2" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201%20+0%20(%D0%90%D0%BB%D0%B0%D0%BD%D0%B8%D1%8F).png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8002/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", Россия 1
+http://cdn.admuspeh.my/8002/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="140" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201%20+0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8152/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Россия 1 HD
+http://cdn.admuspeh.my/8152/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="525" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201%20+2%20(%D0%A3%D1%84%D0%B0).png" catchup-days="0", Россия 1 (+2)
+http://cdn.admuspeh.my/8426/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="96" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201%20+4%20(%D0%90%D0%B1%D0%B0%D0%BA%D0%B0%D0%BD-%D0%9E%D1%80%D0%B8%D0%BE%D0%BD).png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8102/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="1", Россия 1 (+4)
+http://cdn.admuspeh.my/8102/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="275" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%201%20orig.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8300/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="1", Россия 1 (+6)
+http://cdn.admuspeh.my/8300/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="116" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%2024.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8125/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", Россия 24
+http://cdn.admuspeh.my/8125/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="115" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A0%D0%A2%D0%A0%20%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0%20%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F%20%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8121/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", Planeta RTR
+http://cdn.admuspeh.my/8121/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="344" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B8%D1%80%20HD.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8641/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", Мир
+http://cdn.admuspeh.my/8641/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="342" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B8%D1%80%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8560/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Мир HD
+http://cdn.admuspeh.my/8560/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="67" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B8%D1%80%2024%20HD%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8071/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", Мир 24
+http://cdn.admuspeh.my/8071/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="3" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9D%D0%A2%D0%92%20+0%20(%D0%A2%D0%B0%D0%BC%D0%B1%D0%BE%D0%B2).png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8003/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", НТВ
+http://cdn.admuspeh.my/8003/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="144" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9D%D0%A2%D0%92%20HD%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8156/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", НТВ HD
+http://cdn.admuspeh.my/8156/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="526" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9D%D0%A2%D0%92%20+2%20(%D0%9D%D0%B5%D1%84%D1%82%D0%B5%D0%BA%D0%B0%D0%BC%D1%81%D0%BA).png" catchup-days="0", НТВ (+2)
+http://cdn.admuspeh.my/8427/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="208" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/ntv4.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8225/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="1", НТВ (+4)
+http://cdn.admuspeh.my/8225/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="273" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9D%D0%A2%D0%92%20+0%20(%D0%9D%D0%B5%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC%D1%8B%D1%81%D1%81%D0%BA).png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8298/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="1", НТВ (+6)
+http://cdn.admuspeh.my/8298/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="542" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9D%D0%A2%D0%92%20%D0%9F%D1%80%D0%B0%D0%B2%D0%BE%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8307/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", НТВ Право
+http://cdn.admuspeh.my/8307/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="11" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9D%D0%A2%D0%92%20+0%20(%D0%9D%D0%B5%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC%D1%8B%D1%81%D1%81%D0%BA).png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8011/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", НТВ МИР
+http://cdn.admuspeh.my/8011/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="6" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A2%D0%92%D0%A6%20+0%20(%D0%9B%D0%B8%D0%BF%D0%B5%D1%86%D0%BA).png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8006/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", ТВ ЦЕНТР
+http://cdn.admuspeh.my/8006/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="112" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/RTVi%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8118/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", RTVI
+http://cdn.admuspeh.my/8118/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="136" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9E%D0%A2%D0%A0.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8146/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", ОТР
+http://cdn.admuspeh.my/8146/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="338" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9D%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%B5%20%D0%B2%D1%80%D0%B5%D0%BC%D1%8F.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8525/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", Настоящее время HD
+http://cdn.admuspeh.my/8525/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="951" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%20%D0%94%D0%BE%D0%B2%D0%B5%D1%80%D0%B8%D0%B5.png" catchup-days="0", Москва Доверие
+http://cdn.admuspeh.my/8363/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="950" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20orig.png" catchup-days="0", Центральное телевидение
+http://cdn.admuspeh.my/8575/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="1236" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/RT%D0%94.png" catchup-days="0", RTД HD
+http://cdn.admuspeh.my/9225/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="9" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/5%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB%20+0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8009/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", Пятый канал
+http://cdn.admuspeh.my/8009/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="79" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/Euronews%20Deutsch%20DE.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8084/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", EuroNews
+http://cdn.admuspeh.my/8084/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="412" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/CNN%20CA.png" catchup-days="0", CNN
+http://cdn.admuspeh.my/8760/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="706" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/CNN%20HD%20CA.png" catchup-days="0", CNN HD
+http://cdn.admuspeh.my/8861/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="471" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/FOX%20NEWS%20CHANNEL%20FHD.png" catchup-days="0", Fox News
+http://cdn.admuspeh.my/8378/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="477" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/ABC.png" catchup-days="0", ABC HD
+http://cdn.admuspeh.my/8122/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="476" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/BBC%20World%20News%20HD%20US.png" catchup-days="0", BBC News
+http://cdn.admuspeh.my/8036/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="607" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/BBC%202%20HD.png" catchup-days="0", BBC 2 HD
+http://cdn.admuspeh.my/8673/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="557" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/FRANCE%2024%20ENGLISH.png" catchup-days="0", France 24
+http://cdn.admuspeh.my/8397/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="609" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/CNBC%20Canada%20CA.png" catchup-days="0", CNBC
+http://cdn.admuspeh.my/8675/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="107" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%94%D0%BE%D0%B6%D0%B4%D1%8C%20HD.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8113/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", Дождь
+http://cdn.admuspeh.my/8113/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="439" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9A%D0%A0%D0%AB%D0%9C%2024%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8353/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", Крым 24
+http://cdn.admuspeh.my/8353/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="184" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A0%D0%91%D0%9A%2050.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8197/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", РБК
+http://cdn.admuspeh.my/8197/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="276" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A1%D0%9F%D0%90%D0%A1%20orig.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8301/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="3", Спас
+http://cdn.admuspeh.my/8301/video.m3u8?token=569M91rJ3HSEsBbe
+#EXTINF:-1 tvg-id="332" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A1%D0%BE%D1%8E%D0%B7%20orig.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8401/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="3", Союз
+http://cdn.admuspeh.my/8401/video.m3u8?token=569M91rJ3HSEsBbe
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="http://i120.fastpic.org/big/2022/1002/60/2f8a8f9c961b16485098b28ba00c7b60.png" tvg-id="UFC Network" group-title="Спортивные", UFC Network
@@ -3000,8 +3102,6 @@ http://cdn.admuspeh.my/8108/video.m3u8?token=569M91rJ3HSEsBbe
 http://cdn.admuspeh.my/9222/video.m3u8?token=569M91rJ3HSEsBbe
 #EXTINF:-1 tvg-id="34" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0%20+0%20(%D0%AD%D0%BB%D0%B8%D1%81%D1%82%D0%B0).png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8037/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", Звезда
 http://cdn.admuspeh.my/8037/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="565" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0%20%D0%9F%D0%BB%D1%8E%D1%81.png" catchup-days="0", Звезда Плюс
-http://cdn.admuspeh.my/8403/video.m3u8?token=569M91rJ3HSEsBbe
 #EXTINF:-1 tvg-id="329" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D0%B0%20HD.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8391/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", Победа
 http://cdn.admuspeh.my/8391/video.m3u8?token=569M91rJ3HSEsBbe
 #EXTINF:-1 tvg-id="366" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%BE%D1%81%D1%84%D0%B8%D0%BB%D1%8C%D0%BC.%20%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8707/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="7", Мосфильм. Золотая коллекция
