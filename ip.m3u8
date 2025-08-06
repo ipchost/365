@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epg.admuspeh.my"
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/Smart-TV-Shka/blob/main/photo_5445143964773643240_x.jpg?raw=true" group-title=" Другие плейлисты", Наведи камеру телефона на QR-код и проходи в бота тг. https://t.me/vijum3ubot
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://dvs.moscow/wp-content/uploads/2023/01/photo.png" group-title=" Другие плейлисты t.me/vijum3ubot", Наведи камеру телефона на QR-код и проходи в бота тг. https://t.me/vijum3ubot
 https://github.com/ipchost/365/raw/refs/heads/main/XiaoYing_Video_1754504152899_HD.mp4
 
 
