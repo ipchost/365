@@ -1,5 +1,12 @@
 #EXTM3U url-tvg="https://epg.admuspeh.my"
 
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/Smart-TV-Shka/blob/main/photo_5445143964773643240_x.jpg?raw=true" group-title=" Другие плейлисты", Наведи камеру телефона на QR-код и проходи в бота тг. https://t.me/vijum3ubot
+https://github.com/ipchost/365/raw/refs/heads/main/XiaoYing_Video_1754504152899_HD.mp4
+
+
+
+
+
 #EXTINF:-1 group-title="🏝 Поддержка проекта" tvg-id="simpleTVFakeEpgId" $ExtFilter="github",dUNYA (YOO-MONEY) 2204120108452000 Спасибо!
 http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/65374.ts
 
@@ -42,10 +49,6 @@ http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/66433.ts
 #EXTINF:-1 group-title="🏝 Поддержка проекта" tvg-id="simpleTVFakeEpgId" $ExtFilter="github",YAGMUR (YOO-MONEY) 2204120108452000 Спасибо!
 http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64782.ts
 
-
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/Smart-TV-Shka/blob/main/photo_5445143964773643240_x.jpg?raw=true" group-title=" Другие плейлисты", Сканируй камерой телефона QR-код и проходи в бота тг.
-https://github.com/ipchost/Smart-TV-Shka/raw/refs/heads/main/document_5442881762092939827%20(online-video-cutter.com).mp4
 
 
 
