@@ -2490,70 +2490,75 @@ http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1667.m3u8
 
 
 
+#EXTINF:-1 group-title=" Детские" tvg-name="BCU Kids 4K" tvg-id="bcu-kids-4k",BCU Kids 4K
+http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/629.m3u8
 #EXTINF:-1 group-title=" BCU",BCU Кинозал Premiere 1 HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1284.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Кинозал Premiere 2 HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1285.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Кинозал Premiere 3 HD
+#EXTINF:-1 group-title=" BCU",BCU Кинозал Premiere 2 HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1286.m3u8
+#EXTINF:-1 group-title=" BCU",BCU Кинозал Premiere 3 HD
+http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1287.m3u8
 #EXTINF:-1 group-title=" BCU",BCU Action HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1288.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Catastrophe HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1289.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Cinema HD
+#EXTINF:-1 group-title=" BCU",BCU Catastrophe HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1290.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Cinema+ HD
+#EXTINF:-1 group-title=" BCU",BCU Cinema HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1291.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Criminal HD
+#EXTINF:-1 group-title=" BCU",BCU Cinema+ HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1292.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Fantastic HD
+#EXTINF:-1 group-title=" BCU",BCU Criminal HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1293.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Filmystic HD
+#EXTINF:-1 group-title=" BCU",BCU Fantastic HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1294.m3u8
-#EXTINF:-1 group-title=" BCU",BCU History HD
+#EXTINF:-1 group-title=" BCU",BCU Filmystic HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1295.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Comedy HD
+#EXTINF:-1 group-title=" BCU",BCU History HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1296.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Cosmo HD
+#EXTINF:-1 group-title=" BCU",BCU Comedy HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1297.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Romantic HD
+#EXTINF:-1 group-title=" BCU",BCU Cosmo HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1298.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Kinorating HD
+#EXTINF:-1 group-title=" BCU",BCU Romantic HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1299.m3u8
-#EXTINF:-1 group-title=" BCU" tvg-id="bcu-marvel",BCU Marvel HD
+#EXTINF:-1 group-title=" BCU",BCU Kinorating HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1300.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Premiere HD
+#EXTINF:-1 group-title=" BCU" tvg-id="bcu-marvel",BCU Marvel HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1301.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Stars HD
+#EXTINF:-1 group-title=" BCU",BCU Premiere HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1302.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Reality HD
+#EXTINF:-1 group-title=" BCU",BCU Stars HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1303.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Survival HD
+#EXTINF:-1 group-title=" BCU",BCU Reality HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1304.m3u8
-#EXTINF:-1 group-title=" BCU" tvg-id="bcu-trumotion",BCU TruMotion HD
+#EXTINF:-1 group-title=" BCU",BCU Survival HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1305.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Ultra 4K
+#EXTINF:-1 group-title=" BCU" tvg-id="bcu-trumotion",BCU TruMotion HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1306.m3u8
-#EXTINF:-1 group-title=" BCU",BCU VHS HD
+#EXTINF:-1 group-title=" BCU",BCU Ultra 4K
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1307.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Сваты HD
+#EXTINF:-1 group-title=" BCU",BCU VHS HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1308.m3u8
-#EXTINF:-1 group-title=" BCU",BCU СССР HD
+#EXTINF:-1 group-title=" BCU",BCU Сваты HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1309.m3u8
-#EXTINF:-1 group-title=" BCU" tvg-id="bcu-russia90s",BCU Russia 90s HD
+#EXTINF:-1 group-title=" BCU",BCU СССР HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1310.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Russian HD
+#EXTINF:-1 group-title=" BCU" tvg-id="bcu-russia90s",BCU Russia 90s HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1311.m3u8
-#EXTINF:-1 group-title=" BCU" tvg-id="bcu-ruserial",BCU RUSerial HD
+#EXTINF:-1 group-title=" BCU",BCU Russian HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1312.m3u8
-#EXTINF:-1 group-title=" BCU" tvg-name="BCU Kids HD" tvg-id="bcu-kids",BCU Kids HD
+#EXTINF:-1 group-title=" BCU" tvg-id="bcu-ruserial",BCU RUSerial HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1313.m3u8
-#EXTINF:-1 group-title=" BCU" tvg-name="BCU Kids+ HD" tvg-id="bcu-kids-plus",BCU Kids+ HD
+#EXTINF:-1 group-title=" BCU" tvg-name="BCU Kids HD" tvg-id="bcu-kids",BCU Kids HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1314.m3u8
-#EXTINF:-1 group-title=" BCU" tvg-id="bcu-kinozakaz-premiere-4k",BCU Kinozakaz HD
+#EXTINF:-1 group-title=" BCU" tvg-name="BCU Kids+ HD" tvg-id="bcu-kids-plus",BCU Kids+ HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1315.m3u8
-#EXTINF:-1 group-title=" BCU" tvg-id="bcu-multserial",BCU Мультсериал HD
+#EXTINF:-1 group-title=" BCU" tvg-id="bcu-kinozakaz-premiere-4k",BCU Kinozakaz HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1316.m3u8
+#EXTINF:-1 group-title=" BCU" tvg-id="bcu-multserial",BCU Мультсериал HD
+http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1317.m3u8
+
+
+
 
 
 
