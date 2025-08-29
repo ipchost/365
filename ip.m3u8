@@ -7,47 +7,7 @@ https://github.com/ipchost/365/raw/18aaa28a2a4645151928aab64e323e5aa49ae61f/Xiao
 
 
 
-#EXTINF:-1 group-title=" Поддержка проекта" tvg-id="simpleTVFakeEpgId" $ExtFilter="github",dUNYA (YOO-MONEY) 2204120129688665 
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/65374.ts
 
-#EXTINF:-1 group-title=" Поддержка проекта" tvg-id="simpleTVFakeEpgId" $ExtFilter="github",GUNE UYANIS (YOO-MONEY) 2204120129688665 
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64777.ts
-
-#EXTINF:-1 group-title=" Поддержка проекта" tvg-id="simpleTVFakeEpgId" $ExtFilter="github",KAMIN (YOO-MONEY) 2204120129688665 
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64781.ts
-
-#EXTINF:-1 group-title=" Поддержка проекта" tvg-id="simpleTVFakeEpgId" $ExtFilter="github",KAR (YOO-MONEY) 2204120129688665 
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/65375.ts
-
-#EXTINF:-1 group-title=" Поддержка проекта" tvg-logo="../Channel/Logo/O'zbekiston.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="github",KIS (YOO-MONEY) 2204120129688665 
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64822.ts
-
-#EXTINF:-1 group-title=" Поддержка проекта" tvg-id="simpleTVFakeEpgId" $ExtFilter="github",KOSTER (YOO-MONEY) 2204120129688665 
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/100624.ts
-
-#EXTINF:-1 group-title=" Поддержка проекта" tvg-id="simpleTVFakeEpgId" $ExtFilter="github",NORWAY (YOO-MONEY) 2204120129688665 
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/244486.ts
-
-#EXTINF:-1 group-title=" Поддержка проекта" tvg-id="simpleTVFakeEpgId" $ExtFilter="github",SAHIL VE DALGALAR (YOO-MONEY) 2204120129688665 
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/65376.ts
-
-#EXTINF:-1 group-title=" Поддержка проекта" tvg-id="simpleTVFakeEpgId" $ExtFilter="github",SAHILLER (YOO-MONEY) 2204120129688665 
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/264811.ts
-
-#EXTINF:-1 group-title=" Поддержка проекта" tvg-logo="../Channel/Logo/Song TV.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="github",SONBAHAR (YOO-MONEY) 2204120129688665 
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/246028.ts
-
-#EXTINF:-1 group-title=" Поддержка проекта" tvg-id="simpleTVFakeEpgId" $ExtFilter="github",SUYUN SESI (YOO-MONEY) 2204120129688665 
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/66287.ts
-
-#EXTINF:-1 group-title=" Поддержка проекта" tvg-id="simpleTVFakeEpgId" $ExtFilter="github",TROPIKAL SAHIL (YOO-MONEY) 2204120129688665 
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/81968.ts
-
-#EXTINF:-1 group-title=" Поддержка проекта" tvg-logo="../Channel/Logo/Sony Turbo.png" tvg-id="simpleTVFakeEpgId" $ExtFilter="github",TURKIYE (YOO-MONEY) 2204120129688665 
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/66433.ts
-
-#EXTINF:-1 group-title=" Поддержка проекта" tvg-id="simpleTVFakeEpgId" $ExtFilter="github",YAGMUR (YOO-MONEY) 2204120129688665 
-http://105894.fly24.be/live/pikisi0101/AsSaNBsOo3/64782.ts
 
 
 
@@ -3561,128 +3521,6 @@ http://cdn.admuspeh.my/8822/video.m3u8?token=569M91rJ3HSEsBbe
 
 
 
-#EXTINF:-1 tvg-id="100" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8106/video-${start}-${duration}.m3u8?token=569M91rJ3HSEsBbe" timeshift="14", QAZAQSTAN KZ
-http://cdn.admuspeh.my/8106/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1324" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/Qazaqstan%20International%20HD%20KZ.png" catchup-days="0", Qazaqstan International HD KZ
-http://cdn.admuspeh.my/9312/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="622" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9A%D0%A2%D0%9A.png" catchup-days="0", КТК KZ
-http://cdn.admuspeh.my/8901/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="909" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A5%D0%B0%D0%B1%D0%B0%D1%80.png" catchup-days="0", Хабар HD KZ
-http://cdn.admuspeh.my/8515/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1289" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/Aqsham%20TV%20KZ.png" catchup-days="0", Aqsham TV KZ
-http://cdn.admuspeh.my/9253/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1290" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A2%D2%B1%D1%80%D0%B0%D0%BD%20%D0%A2%D0%92%20KZ.png" catchup-days="0", Тұран ТВ KZ
-http://cdn.admuspeh.my/9279/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1291" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9E%D1%82%D1%8B%D1%80%D0%B0%D1%80%20KZ.png" catchup-days="0", Отырар KZ
-http://cdn.admuspeh.my/9280/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1293" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%90%D0%B9%D2%93%D0%B0%D0%BA%20KZ.png" catchup-days="0", Айғак KZ
-http://cdn.admuspeh.my/9282/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1295" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A0%D0%98%D0%9A%D0%90-%D0%A2%D0%92%20KZ.png" catchup-days="0", РИКА-ТВ KZ
-http://cdn.admuspeh.my/9284/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1300" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/Ulytau%20KZ.png" catchup-days="0", Ulytau KZ
-http://cdn.admuspeh.my/9289/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1305" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A2%D0%BE%D0%B9%20%D0%94%D1%83%D0%BC%D0%B0%D0%BD%20KZ.png" catchup-days="0", Той Думан KZ
-http://cdn.admuspeh.my/9294/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1307" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%90%D0%BB%D0%B0%D1%83%20%D0%A2%D0%92%20KZ.png" catchup-days="0", Алау ТВ KZ
-http://cdn.admuspeh.my/9296/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1309" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%96%D0%B5%D1%82%D1%8B%D1%81%D1%83%20HD%20KZ.png" catchup-days="0", Жетысу HD KZ
-http://cdn.admuspeh.my/9297/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1312" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/Atameken%20Business%20HD%20KZ.png" catchup-days="0", Atameken Business HD KZ
-http://cdn.admuspeh.my/9300/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1313" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20HD%20KZ.png" catchup-days="0", Новое Телевидение HD KZ
-http://cdn.admuspeh.my/9301/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1314" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A2%D0%B2%D0%BE%D0%B5%20%D0%A2%D0%92%20KZ.png" catchup-days="0", Твое ТВ KZ
-http://cdn.admuspeh.my/9302/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1316" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/Almaty%20KZ.png" catchup-days="0", Almaty KZ
-http://cdn.admuspeh.my/9304/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="624" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A5%D0%B0%D0%B1%D0%B0%D1%80%2024.png" catchup-days="0", 24kz KZ
-http://cdn.admuspeh.my/8915/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1306" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/Hit%20TV%20KZ.png" catchup-days="0", Hit TV KZ
-http://cdn.admuspeh.my/9295/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1320" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%98%D1%80%D0%B1%D0%B8%D1%81%20%D0%A2%D0%92%20KZ.png" catchup-days="0", Ирбис ТВ KZ
-http://cdn.admuspeh.my/9308/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1322" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/Munara%20TV%20KZ.png" catchup-days="0", Munara TV KZ
-http://cdn.admuspeh.my/9310/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1325" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/HAN-TV%20KZ.png" catchup-days="0", HAN-TV KZ
-http://cdn.admuspeh.my/9313/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1326" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%90%D1%81%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%D1%8F%20%D0%A2%D0%92%20KZ.png" catchup-days="0", Ассамблея ТВ KZ
-http://cdn.admuspeh.my/9314/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1327" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/Jibek%20Joly%20HD%20KZ.png" catchup-days="0", Jibek Joly HD KZ
-http://cdn.admuspeh.my/9315/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1330" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9A%D3%A9%D0%BA%D1%82%D0%B5%D0%BC%20KZ.png" catchup-days="0", Көктем KZ
-http://cdn.admuspeh.my/9318/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="910" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20%D0%95%D0%B2%D1%80%D0%B0%D0%B7%D0%B8%D1%8F.png" catchup-days="0", Первый Евразия KZ
-http://cdn.admuspeh.my/8520/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1302" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9%20KZ.png" catchup-days="0", Первый Северный KZ
-http://cdn.admuspeh.my/9291/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="623" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9D%D0%A2%D0%9A.png" catchup-days="0", НТК KZ
-http://cdn.admuspeh.my/8902/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1323" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9A%D0%B0%D0%BC%D0%B5%D0%B4%D0%B8%20%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%20HD%20KZ.png" catchup-days="0", Камеди Казахстан HD KZ
-http://cdn.admuspeh.my/9311/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1331" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/SHOW%20HD%20KZ.png" catchup-days="0", SHOW HD KZ
-http://cdn.admuspeh.my/9319/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="911" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/7%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20KZ.png" catchup-days="0", 7 канал KZ
-http://cdn.admuspeh.my/8521/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="912" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/Astana%20TV.png" catchup-days="0", Astana TV KZ
-http://cdn.admuspeh.my/8522/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="913" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%91%D0%B0%D0%BB%D0%B0%D0%BF%D0%B0%D0%BD%20KZ.png" catchup-days="0", Балапан KZ
-http://cdn.admuspeh.my/8523/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="915" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/31%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20KZ.png" catchup-days="0", 31 канал KZ
-http://cdn.admuspeh.my/8529/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="916" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/Saryarqa%20KZ.png" catchup-days="0", Saryarqa KZ
-http://cdn.admuspeh.my/8287/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1292" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/ONTUSTIK%20KZ.png" catchup-days="0", ONTUSTIK KZ
-http://cdn.admuspeh.my/9281/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1294" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/ATYRAY%20KZ.png" catchup-days="0", ATYRAY KZ
-http://cdn.admuspeh.my/9283/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1296" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/JAMBYL%20KZ.png" catchup-days="0", JAMBYL KZ
-http://cdn.admuspeh.my/9285/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1297" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/KOKSE%20KZ.png" catchup-days="0", KOKSE KZ
-http://cdn.admuspeh.my/9286/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1298" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/QOSTANAI%20KZ.png" catchup-days="0", QOSTANAI KZ
-http://cdn.admuspeh.my/9287/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1299" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/SEMEI%20KZ.png" catchup-days="0", SEMEI KZ
-http://cdn.admuspeh.my/9288/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1301" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/AQJAIYQ%20KZ.png" catchup-days="0", AQJAIYQ KZ
-http://cdn.admuspeh.my/9290/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1303" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/QYZYLORDA%20KZ.png" catchup-days="0", QYZYLORDA KZ
-http://cdn.admuspeh.my/9292/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1310" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/MANGYSTAY%20KZ.png" catchup-days="0", MANGYSTAY KZ
-http://cdn.admuspeh.my/9298/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1311" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/ERTIS%20KZ.png" catchup-days="0", ERTIS KZ
-http://cdn.admuspeh.my/9299/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1315" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/QYZYLJAR%20KZ.png" catchup-days="0", QYZYLJAR KZ
-http://cdn.admuspeh.my/9303/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1318" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/AQTOBE%20KZ.png" catchup-days="0", AQTOBE KZ
-http://cdn.admuspeh.my/9306/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1319" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/ALTAI%20KZ.png" catchup-days="0", ALTAI KZ
-http://cdn.admuspeh.my/9307/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1321" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/QADAM%20TV%20KZ.png" catchup-days="0", QADAM TV KZ
-http://cdn.admuspeh.my/9309/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1304" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%94%D1%80%D0%B0%D0%BC%D0%B0%20HD%20KZ.png" catchup-days="0", Кино Драма HD KZ
-http://cdn.admuspeh.my/9293/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1332" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9A%D0%B8%D0%BD%D0%BE%D0%91%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA%20HD%20KZ.png" catchup-days="0", КиноБоевик HD KZ
-http://cdn.admuspeh.my/9320/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1333" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%20%D0%9A%D0%B8%D0%BD%D0%BE%20HD%20KZ.png" catchup-days="0", Премиум Кино HD KZ
-http://cdn.admuspeh.my/9321/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1334" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20HD%20KZ.png" catchup-days="0", Мировое Кино HD KZ
-http://cdn.admuspeh.my/9322/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1335" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D0%BE%D0%B5%20%D0%9A%D0%B8%D0%BD%D0%BE%20HD%20KZ.png" catchup-days="0", Семейное Кино HD KZ
-http://cdn.admuspeh.my/9323/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1308" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/Setanta%20Qazaqstan%20HD%20KZ.png" catchup-days="0", Setanta Qazaqstan HD KZ
-http://cdn.admuspeh.my/8538/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="918" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/Setanta%20Sports%201%20Baltic%20FHD.png" catchup-days="0", Setanta Sports 1 HD KZ
-http://cdn.admuspeh.my/8379/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="919" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/Setanta%20Sports%202%20GE.png" catchup-days="0", Setanta Sports 2 HD KZ
-http://cdn.admuspeh.my/8537/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1328" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/Sport%20Plus%20Qazaqstan%20HD%20KZ.png" catchup-days="0", Sport Plus Qazaqstan HD KZ
-http://cdn.admuspeh.my/9316/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="920" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/Q%20League.png" catchup-days="0", Q League HD KZ
-http://cdn.admuspeh.my/8539/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="1317" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/Q%20Arena%20HD%20KZ.png" catchup-days="0", Q Arena HD KZ
-http://cdn.admuspeh.my/9305/video.m3u8?token=569M91rJ3HSEsBbe
-#EXTINF:-1 tvg-id="921" group-title="Казахстан"  tvg-logo="https://m3u.admuspeh.my/icon/QazSport%20HD.png" catchup-days="0", Qazsport HD KZ
-http://cdn.admuspeh.my/8541/video.m3u8?token=569M91rJ3HSEsBbe
 
 
 
@@ -4490,67 +4328,6 @@ https://mults.info/mp4/yablochny_pirog.mp4
 
 
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/гарри%20потер%20и%20филосовский%20камень.jpg?raw=true" group-title="Гарри Поттер", Гарри Поттер и Филосовский Камень (2001)
-http://m.cdntv.online/f/cuihn3rvtbm4/Harry_Potter_and_the_Sorcerers_Stone_2001.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/тайная%20комната.jpg?raw=true" group-title="Гарри Поттер", Гарри Поттер и Тайная комната (2002)
-http://m.cdntv.online/f/cuihn3rvtbm4/Harry_Potter_and_the_Chamber_of_Secrets_2002.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/узник%20аскабана.jpg?raw=true" group-title="Гарри Поттер", Гарри Поттер и Узник Азкабана (2004)
-http://m.cdntv.online/f/cuihn3rvtbm4/Harry_Potter_and_the_Prisoner_of_Azkaban_2004.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/Кубок%20огня.jpg?raw=true" group-title="Гарри Поттер", Гарри Поттер и Кубок Огня (2005)
-http://m.cdntv.online/f/cuihn3rvtbm4/Harry_Potter_and_the_Goblet_of_Fire_2005.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/орден%20феникса.jpg?raw=true" group-title="Гарри Поттер", Гарри Поттер и Орден Феникса (2007)
-http://m.cdntv.online/f/cuihn3rvtbm4/Harry_Potter_and_the_Order_of_the_Phoenix_2007.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/Принц%20полукровка.jpg?raw=true" group-title="Гарри Поттер", Гарри Поттер и Принц Полукровка (2009)
-http://m.cdntv.online/f/cuihn3rvtbm4/Harry_Potter_and_the_Half_Blood_Prince_2009.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/Дары%20смерти%20часть%201.jpg?raw=true" group-title="Гарри Поттер", Гарри Поттер и Дары Смерти Часть 1 (2010)
-http://m.cdntv.online/f/cuihn3rvtbm4/Harry_Potter_and_the_Deathly_Hallows_Part_1_2010.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://github.com/ipchost/-/blob/main/дары%20смерти%20часть%202.jpg?raw=true" group-title="Гарри Поттер", Гарри Поттер и Дары Смерти Часть 2 (2011)
-http://m.cdntv.online/f/cuihn3rvtbm4/Harry_Potter_and_the_Deathly_Hallows_Part_2_2011.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://www.serieously.com/app/uploads/2025/01/fast-and-furious-galerie.jpg" group-title="Форсаж", Форсаж (2001)
-http://m.cdntv.online/f/cuihn3rvtbm4/The_Fast_And_The_Furious_2001.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=e6a313b94bf6279162fc6161d0c7c400_l-9106782-images-thumbs&n=13" group-title="Форсаж", Форсаж 2 (2003)
-http://m.cdntv.online/f/cuihn3rvtbm4/2_Fast_2_Furious_2003.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://lmusic.kz/images/cover/dj-shadow-feat-mos-def-six-days-the-remix-ost-forsazh-3-tomorrow-is-another.jpeg" group-title="Форсаж", Тройной форсаж: Токийский дрифт (2003)
-http://m.cdntv.online/f/cuihn3rvtbm4/The_Fast_And_The_Furious_Tokyo_Drift_2006.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=983f50789bba1f6c0814885c829fec66_l-5810659-images-thumbs&n=13" group-title="Форсаж", Форсаж 4 (2009)
-http://m.cdntv.online/f/cuihn3rvtbm4/Fast_and_Furious_4_Fast_and_Furious_2009.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://m.media-amazon.com/images/I/81PvKbTjKvL.jpg" group-title="Форсаж", Форсаж 5 (2011)
-http://m.cdntv.online/f/cuihn3rvtbm4/Fast_Five_2011.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="http://images-s.kinorium.com/movie/poster/580922/w1500_3059216.jpg" group-title="Форсаж", Форсаж 6 (2013)
-http://m.cdntv.online/f/cuihn3rvtbm4/Furious_6_2013.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static.eldorado.ru/img1/p/b/001034004.jpg" group-title="Форсаж", Форсаж 7 (2015)
-http://m.cdntv.online/f/cuihn3rvtbm4/Furious_Seven_2015.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=bbb93b64fbec197319e64d1fb23e3f72_sr-6249527-images-thumbs&n=13" group-title="Форсаж", Форсаж 8 (2017)
-http://m.cdntv.online/f/cuihn3rvtbm4/The_Fate_of_the_Furious_2017.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=4a7fb68947b78d2fd52a853003e0989e_l-4239007-images-thumbs&n=13" group-title="Форсаж", Хобс и Шоу (2019)
-http://m.cdntv.online/f/cuihn3rvtbm4/Fast_and_Furious_Presents_Hobbs_and_Shaw_2019.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/4b/4b1218bfe614b4d6556151ed0760569e.jpg" group-title="Форсаж", Форсаж 9 (2021)
-http://m.cdntv.online/f/cuihn3rvtbm4/F9_2021.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://kinocitatnik.ru/wp-content/uploads/2023/07/orig-2.jpg" group-title="Форсаж", Форсаж 10 (2023)
-http://m.cdntv.online/f/cuihn3rvtbm4/FastX.m3u8
 
 
 
@@ -4558,29 +4335,10 @@ http://m.cdntv.online/f/cuihn3rvtbm4/FastX.m3u8
 
 
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://sun1-98.userapi.com/impg/LQxsGeznPWIpYhibHQMPVkrjtri3VS2UZgYMtQ/rJKxLrMn34E.jpg?size=0x179&crop=0,0,1,1&quality=95&sign=425e912dc383abaf1aec1ede53e2848d" group-title="Фильмы 2025", Пираты опасного моря: Капитан Клык (2025)
-http://m.cdntv.online/f/cuihn3rvtbm4/CaptainSabertoothandtheCountessofGrel.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static.kino.1tv.ru/cdn/6224/background.jpg" group-title="Фильмы 2025", Заложница. Цена спасения (2025)
-http://m.cdntv.online/f/cuihn3rvtbm4/AngryRescue.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://holrmagazine.com/wp-content/uploads/2025/02/Screenshot_4-3.png" group-title="Фильмы 2025", Новокаин (2025)
-http://m.cdntv.online/f/cuihn3rvtbm4/Novocaine.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=0d06e565133831bf517b67c76a4dec78_l-5123230-images-thumbs&n=13" group-title="Фильмы 2025", Лило и Стич (2025)
-http://m.cdntv.online/f/cuihn3rvtbm4/LiloandStitch2025.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://ru-images-s.kinorium.com/movie/1080/11914070.jpg?1746460345" group-title="Фильмы 2025", Астрал. Долг крови (2025)
-http://m.cdntv.online/f/cuihn3rvtbm4/HutangNyawa.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=54d5ed7838ee13148a6664237e770222_l-12413135-images-thumbs&n=13" group-title="Фильмы 2025", Пункт назначения: Узы крови (2025)
-http://m.cdntv.online/f/cuihn3rvtbm4/FinalDestinationBloodlines.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_682b13f6bf8a65500bd1ffa9_682dae86363b5532a18a8bde/scale_1200" group-title="Фильмы 2025", Батя 2. Дед (2025)
-http://m.cdntv.online/f/cuihn3rvtbm4/Batya2.m3u8
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/archive/8/88/20250530124320%21Karate_Kid_Legends_Poster.jpg" group-title="Фильмы 2025", Каратэ-пацан: Легенды (2025)
-http://m.cdntv.online/f/cuihn3rvtbm4/KarateKidLegends.m3u8
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=dbfeddbc286c82a374e5b8f1470d868f_sr-4842116-images-thumbs&n=13" group-title="Фильмы 2025", Ледяной драйв 2: Дорога в небеса (2025)
-http://m.cdntv.online/f/cuihn3rvtbm4/IceRoadVengeance.m3u8
