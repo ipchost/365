@@ -1733,6 +1733,7 @@ http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936923/video.m3u8?token=Qm9y
 
 
 
+#EXTINF:0 tvg-id="elb4308" catchup="flussonic" catchup-days="1" tvg-name="VeleS Premiere" group-title="VeleS" tvg-logo="http://img.velestore.su/img/logos/kinoInt/veles/veles_premiere.png",VeleS Premiere
 #EXTGRP:VeleS
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_PREMIERE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb3377" tvg-name="VeleS Комедия" group-title="VeleS" tvg-logo="http://img.velestore.su/logo/veles_comedy_new.png",VeleS Комедия
