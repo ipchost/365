@@ -1733,63 +1733,62 @@ http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936923/video.m3u8?token=Qm9y
 
 
 
-#EXTINF:0 tvg-id="elb4308" catchup="flussonic" catchup-days="1" tvg-name="VeleS Premiere" group-title="VeleS" tvg-logo="http://img.velestore.su/img/logos/kinoInt/veles/veles_premiere.png",VeleS Premiere
 #EXTGRP:VeleS
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_PREMIERE/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_PREMIERE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb3377" tvg-name="VeleS Комедия" group-title="VeleS" tvg-logo="http://img.velestore.su/logo/veles_comedy_new.png",VeleS Комедия
 #EXTGRP:VeleS
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936901/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936901/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb4310" catchup="flussonic" catchup-days="1" tvg-name="VeleS Movie Hits" group-title="VeleS" tvg-logo="http://img.velestore.su/img/logos/kinoInt/veles/Veles_Movies_Hits.png",VeleS Movie Hits
 #EXTGRP:VeleS
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_MOVIE_HITS/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
-#EXTINF:0 tvg-id="elb3054" tvg-name="VeleS Триллер" group-title="VeleS" tvg-logo="http://img.velestore.su/logo/veles_triller_new.png",VeleS Триллер
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_MOVIE_HITS/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4318" tvg-name="VeleS Триллер" group-title="VeleS" tvg-logo="http://img.velestore.su/logo/veles_triller_new.png",VeleS Триллер
 #EXTGRP:VeleS
-http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936925/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
-#EXTINF:0 tvg-id="elb3051" tvg-name="VeleS Семейный" group-title="VeleS" tvg-logo="http://img.velestore.su/logo/veles_family_new.png",VeleS Семейный
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936925/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4319" tvg-name="VeleS Семейный" group-title="VeleS" tvg-logo="http://img.velestore.su/logo/veles_family_new.png",VeleS Семейный
 #EXTGRP:VeleS
-http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08936909/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08936909/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb4303" catchup="flussonic" catchup-days="1" tvg-name="VeleS СССР" group-title="VeleS" tvg-logo="http://img.velestore.su/img/logos/kinoInt/veles/veles_sssr_normal.png",VeleS СССР
 #EXTGRP:VeleS
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_USSSR/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
-#EXTINF:0 tvg-id="elb3362" tvg-name="VeleS Наше Кино" group-title="VeleS" tvg-logo="http://img.velestore.su/logo/veles_our_cinema_new.png",VeleS Наше Кино
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_USSSR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4316" tvg-name="VeleS Наше Кино" group-title="VeleS" tvg-logo="http://img.velestore.su/logo/veles_our_cinema_new.png",VeleS Наше Кино
 #EXTGRP:VeleS
-http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08936911/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08936911/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb4309" catchup="flussonic" catchup-days="1" tvg-name="VeleS Киноплёнка" group-title="VeleS" tvg-logo="http://img.velestore.su/img/logos/kinoInt/veles/veles_kinoplenka_normal.png",VeleS Киноплёнка
 #EXTGRP:VeleS
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_KINOPLENKA/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
-#EXTINF:0 tvg-id="elb3053" tvg-name="VeleS Вестерн" group-title="VeleS" tvg-logo="http://img.velestore.su/logo/veles_vestern_new.png",VeleS Вестерн
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_KINOPLENKA/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4320" tvg-name="VeleS Вестерн" group-title="VeleS" tvg-logo="http://img.velestore.su/logo/veles_vestern_new.png",VeleS Вестерн
 #EXTGRP:VeleS
-http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08936910/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08936910/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb4313" catchup="flussonic" catchup-days="1" tvg-name="VeleS 60 FPS" group-title="VeleS" tvg-logo="http://img.velestore.su/img/logos/kinoInt/veles/VELES_60FPS_normal.png",VeleS 60 FPS
 #EXTGRP:VeleS
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_60FPS/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_60FPS/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb4307" catchup="flussonic" catchup-days="1" tvg-name="VeleS Страшное" group-title="VeleS" tvg-logo="http://img.velestore.su/img/logos/kinoInt/veles/veles_strashnoe.png",VeleS Страшное
 #EXTGRP:VeleS
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_STRASHNOE/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
-#EXTINF:0 tvg-id="elb3050" tvg-name="VeleS Гоблин" group-title="VeleS" tvg-logo="http://img.velestore.su/logo/veles_goblin_new.png",VeleS Гоблин
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_STRASHNOE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4321" tvg-name="VeleS Гоблин" group-title="VeleS" tvg-logo="http://img.velestore.su/logo/veles_goblin_new.png",VeleS Гоблин
 #EXTGRP:VeleS
-http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08936912/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
-#EXTINF:0 tvg-id="elb2231" tvg-name="VeleS С Новым годом!" group-title="VeleS" tvg-logo="http://img.velestore.su/logo/veles_newyear_normal.png",VeleS С Новым годом!
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08936912/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4314" tvg-name="VeleS С Новым годом!" group-title="VeleS" tvg-logo="http://img.velestore.su/logo/veles_newyear_normal.png",VeleS С Новым годом!
 #EXTGRP:VeleS
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936906/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936906/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb4306" catchup="flussonic" catchup-days="1" tvg-name="VeleS Киносерия" group-title="VeleS" tvg-logo="http://img.velestore.su/img/logos/kinoInt/veles/veles_kinoseries.png",VeleS Киносерия
 #EXTGRP:VeleS
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_KINOSERIES/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_KINOSERIES/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb4304" catchup="flussonic" catchup-days="1" tvg-name="VeleS Криминальный" group-title="VeleS" tvg-logo="http://img.velestore.su/img/logos/kinoInt/veles/veles_criminal_normal.png",VeleS Криминальный
 #EXTGRP:VeleS
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_CRIMINAL/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_CRIMINAL/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb4312" catchup="flussonic" catchup-days="1" tvg-name="VeleS Kids" group-title="VeleS" tvg-logo="http://img.velestore.su/img/logos/kinoInt/veles/Veles_Kids.png",VeleS Kids
 #EXTGRP:VeleS
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_KIDS/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
-#EXTINF:0 tvg-id="elb338" tvg-name="VeleS Аниме" group-title="VeleS" tvg-logo="http://img.velestore.su/logo/veles_anime_new.png",VeleS Аниме
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_KIDS/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4317" tvg-name="VeleS Аниме" group-title="VeleS" tvg-logo="http://img.velestore.su/logo/veles_anime_new.png",VeleS Аниме
 #EXTGRP:VeleS
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936904/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936904/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb4305" catchup="flussonic" catchup-days="1" tvg-name="VeleS Dj Set" group-title="VeleS" tvg-logo="http://img.velestore.su/img/logos/kinoInt/veles/veles_djset.png",VeleS Dj Set
 #EXTGRP:VeleS
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_DJ_SET/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_DJ_SET/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb4311" catchup="flussonic" catchup-days="1" tvg-name="VeleS Магнитофон" group-title="VeleS" tvg-logo="http://img.velestore.su/img/logos/kinoInt/veles/veles_magnitofon.png",VeleS Магнитофон
 #EXTGRP:VeleS
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_MAGNITOFON/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_MAGNITOFON/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 
 
 
