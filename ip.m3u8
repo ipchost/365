@@ -1792,6 +1792,93 @@ http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_DJ_SET/video.m3u8?token=
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_MAGNITOFON/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 
 
+#EXTINF:0 tvg-id="elb452" catchup="flussonic" catchup-days="1" tvg-name="C-Marvel HD" group-title="Зал Кино" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/marvel.png",C-Marvel HD
+#EXTGRP: Зал Кино
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-C-MARVEL/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb1099" catchup="flussonic" catchup-days="1" tvg-name="C-Cartoon HD" group-title="Зал Кино" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/cartoon.png",C-Cartoon HD
+#EXTGRP:Зал Кино
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-C-CARTOON/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb450" catchup="flussonic" catchup-days="2" tvg-name="C-Inquest HD" group-title="Зал Кино" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/c-inquest.png",C-Inquest HD
+#EXTGRP:Зал Кино
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/C-INQUEST1/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb447" catchup="flussonic" catchup-days="2" tvg-name="C-Comedy HD" group-title="Зал Кино" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/ccomedy.png",C-Comedy HD
+#EXTGRP:Зал Кино
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/C-IIICOMEDYIII/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb449" catchup="flussonic" catchup-days="2" tvg-name="C-Holiday HD" group-title="Зал Кино" tvg-logo="http://img.velestore.su/img/logos/Y-H/W/c-holiday.png",C-Holiday HD
+#EXTGRP:Зал Кино
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936905/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb448" catchup="flussonic" catchup-days="1" tvg-name="C-History HD" group-title="Зал Кино" tvg-logo="http://img.velestore.su/img/logos/yosso/c-history.png",C-History HD
+#EXTGRP:Зал Кино
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/Y-C-HISTORY/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb451" catchup="flussonic" catchup-days="2" tvg-name="C-Live HD" group-title="Зал Кино" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/c-live.png",C-Live HD
+#EXTGRP:Зал Кино
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-C-LIVE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb866" catchup="flussonic" catchup-days="1" tvg-name="ATV Cineman" group-title="Зал Кино" tvg-logo="http://img.velestore.su/img/logos/kinoInt/atvcineman.png",ATV Cineman
+#EXTGRP:Зал Кино
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/ATV_Cineman/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb864" catchup="flussonic" catchup-days="1" tvg-name="ATV Filmzone" group-title="Зал Кино" tvg-logo="http://img.velestore.su/img/logos/films/filmzone.png",ATV Filmzone
+#EXTGRP:Зал Кино
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/ATV_FilmZone/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb3134" catchup="flussonic" catchup-days="3" tvg-name="Твоё ТВ HD" group-title="Зал Кино" tvg-logo="http://img.velestore.su/img/logos/kinoInt/tvoetvhd.png",Твоё ТВ HD
+#EXTGRP:Зал Кино
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/tvoe_tv/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb885" tvg-name="Балет опера" group-title="Зал Кино" tvg-logo="http://img.velestore.su/img/logos/kinoInt/Balet_Opera.png",Балет опера
+#EXTGRP:Зал Кино
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936924/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb866" catchup="flussonic" catchup-days="1" tvg-name="ATV Kinoman HD" group-title="Зал Кино" tvg-logo="http://img.velestore.su/img/logos/kinoInt/atv-kinoman.png",ATV Kinoman HD
+#EXTGRP:Зал Кино
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/ATV_Kinoman_HD/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb863" catchup="flussonic" catchup-days="1" tvg-name="ATV Bazmoc HD" group-title="Зал Кино" tvg-logo="http://img.velestore.su/img/logos/kinoInt/atv-bazmoc.png",ATV Bazmoc HD
+#EXTGRP:Зал Кино
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/ATV_Bazmoc_HD/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb3129" catchup="flussonic" catchup-days="1" tvg-name="Твоё ТВ Юмор HD" group-title="Зал Кино" tvg-logo="http://img.velestore.su/img/logos/kinoInt/Tvoe-TV-Umor.png",Твоё ТВ Юмор HD
+#EXTGRP:Зал Кино
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936904/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb1734" catchup="flussonic" catchup-days="1" tvg-name="Кино 1" group-title="Зал Кино" tvg-logo="http://img.velestore.su/img/logos/kinoInt/Kino_1.png",Кино 1
+#EXTGRP:Зал Кино
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936907/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb1737" catchup="flussonic" catchup-days="1" tvg-name="Кино 1 International" group-title="Зал Кино" tvg-logo="http://img.velestore.su/img/logos/kinoInt/Kino_1_INT.png",Кино 1 International
+#EXTGRP:Зал Кино
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936908/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9#EXTINF:0 tvg-id="elb1738" catchup="flussonic" catchup-days="1" tvg-name="Кино 2" group-title="Кинозалы" tvg-logo="http://img.velestore.su/img/logos/kinoInt/Kino_2.png",Кино 2
+
+#EXTINF:0 tvg-id="elb1738" catchup="flussonic" catchup-days="1" tvg-name="Кино 2 ORG" group-title="Зал Кино" tvg-logo="http://img.velestore.su/img/logos/kinoInt/Kino_2.png",Кино 2 ORG
+#EXTGRP:Зал Кино
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936910/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb2650" catchup="flussonic" catchup-days="1" tvg-name="Сериал" group-title="Зал Кино" tvg-logo="http://img.velestore.su/img/logos/kinoInt/Serial.png",Сериал
+#EXTGRP:Зал Кино
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936911/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb3376" catchup="flussonic" catchup-days="1" tvg-name="Военное кино" group-title="Зал Кино" tvg-logo="http://img.velestore.su/img/logos/kinoInt/Voennoe_Kino.png",Военное кино
+#EXTGRP:Зал Кино
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936912/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb1288" catchup="flussonic" catchup-days="1" tvg-name="Детское кино" group-title="Зал Кино" tvg-logo="http://img.velestore.su/img/logos/kinoInt/Det_Kino.png",Детское кино
+#EXTGRP:Зал Кино
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936913/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb1289" catchup="flussonic" catchup-days="1" tvg-name="Детское кино International" group-title="Зал Кино" tvg-logo="http://img.velestore.su/img/logos/kinoInt/Det_Kino_INT.png",Детское кино International
+#EXTGRP:Зал Кино
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936914/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+
+
+
 
 #EXTINF:-1 group-title=" VF",VF Сериалы Турции
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1539.m3u8
