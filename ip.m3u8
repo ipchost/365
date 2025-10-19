@@ -1855,7 +1855,7 @@ http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936907/video.m3u8?token=Qm9y
 
 #EXTINF:0 tvg-id="elb1737" catchup="flussonic" catchup-days="1" tvg-name="Кино 1 International" group-title="Зал Кино" tvg-logo="http://img.velestore.su/img/logos/kinoInt/Kino_1_INT.png",Кино 1 International
 #EXTGRP:Зал Кино
-http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936908/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9#EXTINF:0 tvg-id="elb1738" catchup="flussonic" catchup-days="1" tvg-name="Кино 2" group-title="Кинозалы" tvg-logo="http://img.velestore.su/img/logos/kinoInt/Kino_2.png",Кино 2
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936908/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9#EXTINF:0 tvg-id="elb1738" catchup="flussonic" catchup-days="1" tvg-name="Кино 2" group-title="Зал кино" tvg-logo="http://img.velestore.su/img/logos/kinoInt/Kino_2.png",Кино 2
 
 #EXTINF:0 tvg-id="elb1738" catchup="flussonic" catchup-days="1" tvg-name="Кино 2 ORG" group-title="Зал Кино" tvg-logo="http://img.velestore.su/img/logos/kinoInt/Kino_2.png",Кино 2 ORG
 #EXTGRP:Зал Кино
