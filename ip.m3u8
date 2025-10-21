@@ -244,114 +244,6 @@ http://ic7.101.ru:8000/v1_1
 
 
 
-#EXTINF:-1 tvg-id="10070" catchup="default" group-title="Мужские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10070/logo_256_1658734015.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e79e05493beee4b077021faa3f2c4287b178bd110c21f797fe4/index-${start}-${offset}.m3u8" catchup-days="168", Авто плюс
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/KZ6HS6zaklMVyV7KnzAIWQ,1760821216/streaming/avtoplus/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10094" catchup="default" group-title="Мужские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10094/logo_256_1658734001.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e79e05794beed4c077326faa0f5eb2b7c4988d651c118/index-${start}-${offset}.m3u8" catchup-days="168", АВТО24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/GL-ZslK2Oq7Nhc_cvO5vmw,1760821216/streaming/avto24/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10047" catchup="default" group-title="Мужские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10047/logo_256_1658734494.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e79e55496a1ee4e187024fca3f7cd287e248bd411c21a7c7fe1/index-${start}-${offset}.m3u8" catchup-days="168", Дикий
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/VNzjQfIi8exRA_djmcpEFQ,1760821216/streaming/dikiy/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10048" catchup="default" group-title="Мужские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10048/logo_256_1658734589.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e79e55494baee4c1a7026e3a3f5d1287c248bd611c2187c7fe3/index-${start}-${offset}.m3u8" catchup-days="168", Драйв
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/UN2j6b6RGNUoiEimqBqpmA,1760821216/streaming/drive/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10108" catchup="default" group-title="Мужские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10108/logo_256_1658737163.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e79ee5492baee4a067020ffa3f3dd287a1e8bd0/index-${start}-${offset}.m3u8" catchup-days="168", Оружие
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/nzCawJtEpYnwW7i5kQKgJw,1760821216/streaming/orujie/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10141" catchup="default" group-title="Мужские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10141/logo_256_1658737383.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e79f35494a9ee4c077026fba3f5dd287c108bd63ac2187e7fe3f165ac/index-${start}-${offset}.m3u8" catchup-days="168", Ратник
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/CI2Ft0qsoDZV1SZHd6XAdg,1760821216/streaming/ratnik/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10161" catchup="default" group-title="Мужские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10161/logo_256_1660891845.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e79ec5692bdec4a1f7220e1a1f3dd2a7a1089d03ac01e627de5e367aa/index-${start}-${offset}.m3u8" catchup-days="168", Арсенал
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/NfyeNoeHqO9IHpiApoa1Vg,1760821216/streaming/multikhd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10142" catchup="default" group-title="Мужские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10142/logo_256_1660893646.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e79f55497a7ee4f107025fda3f6df287f1a8bd53ac21b657fe0f365afe990ba8abf4c1e56b7d1ab8f/index-${start}-${offset}.m3u8" catchup-days="168", Точка отрыва
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/5hDQ_F1zxQCPlCT_iK58Kw,1760821216/streaming/tochkaotriva/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10049" catchup="default" group-title="Мужские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10049/logo_256_1658737194.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e79ee5696a0ec4e1c7224e1a1f7d52a7e2489d40cc01a557de1f567aef292bb81bd4d0954b6dca98ec61f19555ef567646a426aabc1c861/index-${start}-${offset}.m3u8" catchup-days="168", Охота и рыбалка
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/XXY8Fcm_R2UpYvOEEIHkSA,1760821216/streaming/ohota_i_ribalka/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10060" catchup="default" group-title="Мужские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10060/logo_256_1658734463.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e79ee5498a0ee401c702ae1a3f9d52870248bda0dc2146e7fef/index-${start}-${offset}.m3u8" catchup-days="168", Дикая охота HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/O_mNJNYrpc-8TrzC6zni_A,1760821216/streaming/ohotahd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10157" catchup="default" group-title="Мужские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10157/logo_256_1658737213.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e79ee5b93a0e14b1c7f21e1acf2da277b1284d10ecd1f5570e4ef6aabff9fbe/index-${start}-${offset}.m3u8" catchup-days="168", Охотник и Рыболов HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/phOS-o_xkof3L8-0qRkBzQ,1760821216/streaming/ohotnikhd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10176" catchup="default" group-title="Мужские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10176/logo_256_1658737516.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e79ee5498a0ee401c702ae1a3f9da2870128bda0ec214557feff365a0ed90b5/index-${start}-${offset}.m3u8" catchup-days="168", Рыболов
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/WgLfGRIL0P_r3PKyVuwXjw,1760821216/streaming/ohotnik/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10179" catchup="default" group-title="Мужские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10179/logo_256_1658734479.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e78f35399a1e94111772bf4a4f8d82f71108cdb04c5155578eeef62a1ff97b4/index-${start}-${offset}.m3u8" catchup-days="168", Дикая рыбалка HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/NU11HAk01aInavsLdJ2S3w,1760821217/streaming/ribalkahd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10352" catchup="default" group-title="Мужские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10352/logo_256_1658734446.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e78ee5696baec4e1a7224f7a1f7d52a7e1789d40ec01a6f7de1d867aeef92bb95bd4d/index-${start}-${offset}.m3u8" catchup-days="168", Диалоги о рыбалке
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/VUrzoNx_LUpMlDWirQR12w,1760821217/streaming/oribalke/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10224" catchup="default" group-title="Мужские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10224/logo_256_1658737935.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e78f55690a6ec481c7222f8a1f1d12a780989d2/index-${start}-${offset}.m3u8" catchup-days="168", Тномер
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/hGhxUO2FDO0UklQVeh_aHw,1760821217/streaming/tnomer/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10244" catchup="default" group-title="Мужские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10244/logo_256_1658737047.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e78ec5598b1ef402c712ae1a2f9dc29701e8ada08c3146f7eef/index-${start}-${offset}.m3u8" catchup-days="168", Наша тема
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/Bh-4X6xucFI-s7-Io9QDKQ,1760821217/streaming/mytheme/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10302" catchup="default" group-title="Мужские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10302/logo_256_1658736954.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e78ec5599a9ef411f712bf0a2f8eb29710f8adb13c315/index-${start}-${offset}.m3u8" catchup-days="168", Мужской
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/0Ac61PHPGJ201ebpk6TX0A,1760821217/streaming/male/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10387" catchup="default" group-title="Женские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10387/logo_256_1658733779.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e78eb5493a7ee4b0a7021f6a3f2db287b148bd10ec21f/index-${start}-${offset}.m3u8" catchup-days="168", Joy cook
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/I9T8E9LvxqtHS7O9H5EkmQ,1760821217/streaming/joycook/324/1/index.m3u8
-#EXTINF:-1 tvg-id="10247" catchup="default" group-title="Женские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10247/logo_256_1658734655.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e78e45493acee4b127021caa3f2c0287b0d8bd1/index-${start}-${offset}.m3u8" catchup-days="168", Еда
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/Zps5zTM5idjKVuZhPiDg-g,1760821217/streaming/eda/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10248" catchup="default" group-title="Женские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10248/logo_256_1667281259.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e78e75b96a7e14e1c7f24f1acf7eb277e0f84d40ccd1a6770e1e26aae/index-${start}-${offset}.m3u8" catchup-days="168", Food Time
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/Ise0uLr0G_L-LuLfpEgldw,1760821217/streaming/edahd/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10068" catchup="default" group-title="Женские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10068/logo_256_1698667827.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e78ea5398bde9401b772afba4f9cd2f701a8cda/index-${start}-${offset}.m3u8" catchup-days="168", Кухня ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/tsey978gshF-uAgUvEYBqg,1760821217/streaming/kuhnya/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10221" catchup="default" group-title="Женские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10221/logo_256_1658737228.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e78e75b92a1e14a017f20e6acf3c0277a0d84d000cd1e6d70e5e66aaaf59fbfbcb0491c59b2c6a48a/index-${start}-${offset}.m3u8" catchup-days="168", Первый Вегетарианский
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/jZTOOsRTBamhuLOu312a_w,1760821217/streaming/firstvegan/324/1/index.m3u8
-#EXTINF:-1 tvg-id="10670" catchup="default" group-title="Женские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10670/logo_256_1658736096.png"  catchup-days="168", Здоровье
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/9Tfn0yB25LXTJdRT0JGXiw,1760821217/streaming/zdrav/324/1/index.m3u8
-#EXTINF:-1 tvg-id="10052" catchup="default" group-title="Женские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10052/logo_256_1658736006.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e78fb5594acef4c1c7126e7a2f5db297c0d8ad60ac3186f7ee3d864acef91b995be4f/index-${start}-${offset}.m3u8" catchup-days="168", Здоровое ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/JSM_nZduyv0TH0fJSTxIYQ,1760821217/streaming/zdorovoe/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10674" catchup="default" group-title="Женские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10674/logo_256_1660828644.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e78fb5194a0eb4c1a7526e3a6f5dd2d7c248ed604c718617ae3f360acf295b995ba4f0653b4dfae8c/index-${start}-${offset}.m3u8" catchup-days="168", Живи Активно
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/RuyKadYJZYbqdq2XwGaHrw,1760821217/streaming/zhivi_aktivno/324/1/index.m3u8
-#EXTINF:-1 tvg-id="146" catchup="default" group-title="Женские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/146/logo_256_1713264605.png"  catchup-days="168", Ю
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/TKbuuPKYAFBhGJGCPEee5A,1760821217/streaming/channelu/324/1/index.m3u8
-#EXTINF:-1 tvg-id="10050" catchup="default" group-title="Женские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10050/logo_256_1658744689.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e78f45499bbee4112702bf1a3f8d628711a8bdb3ac2157e7feef165a1/index-${start}-${offset}.m3u8" catchup-days="168", Усадьба
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/dxctgzMP3HGQLeaIwROjXg,1760821217/streaming/usadba/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10103" catchup="default" group-title="Женские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10103/logo_256_1658736742.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e77ea5496a7ee4e1d7024fca3f7/index-${start}-${offset}.m3u8" catchup-days="168", Конный Мир
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/fG2WDVTrNMKuCK_0evDoew,1760821218/streaming/konniy/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10104" catchup="default" group-title="Женские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10104/logo_256_1658734696.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e77eb5192a1eb4a057520fca6f3/index-${start}-${offset}.m3u8" catchup-days="168", Живи!
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/nh2V-4tBnR4DqOBvPBvi6A,1760821218/streaming/jivi/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10177" catchup="default" group-title="Женские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10177/logo_256_1658738038.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e77f55395a7e94d1d7727e0a4f4c72f7d248cd711c5197c78e2/index-${start}-${offset}.m3u8" catchup-days="168", Тонус ТВ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/-8OUAvr50ZrbHqNjxwWpjg,1760821218/streaming/tonus/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="14442" catchup="default" group-title="Женские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14442/logo_256_1660803713.png"  catchup-days="168", Women's Magazine
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/5hvxKZmQCRdMc6m-E_NWQg,1760821218/streaming/womens_magazine/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="10257" catchup="default" group-title="Женские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10257/logo_256_1658733714.png"  catchup-days="168", Fashion TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/m8Q7-4i068HWEvnerysKkQ,1760821218/streaming/fashion/324/1/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-id="13728" catchup="default" group-title="Женские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/13728/logo_256_1660803734.png"  catchup-days="168", World Fashion Channel HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/5DttdFZKgOMC6713ma-t8A,1760821218/streaming/world_fashion/324/1/index.m3u8
-#EXTINF:-1 tvg-id="10260" catchup="default" group-title="Женские" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10260/logo_256_1655389076.png" catchup-source="https://hlsarchive.iptv2022.com/f7960d07bfbd6ab05e77f55593acef4b187121/index-${start}-${offset}.m3u8" catchup-days="168", ТДК
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-https://mhd128.iptv2022.com/p/fT2PUMhxQBemO-qU6yd8Lw,1760821218/streaming/tdk/324/1/tracks-v5a1/mono.m3u8
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="Первый канал" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20+0%20(%D0%9D%D0%B5%D0%B2%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC%D1%8B%D1%81%D1%81%D0%BA).png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8001/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="14", Первый канал
 http://cdn.admuspeh.my/8001/video.m3u8?token=aCHYL5BAkGBshJPt
 #EXTINF:-1 tvg-id="Первый канал HD" group-title="Информационные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8150/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Первый канал HD
@@ -1622,115 +1514,144 @@ http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936906/video.m3u8?token=Qm9y
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936902/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 
 
+#EXTINF:0 tvg-id="elb446" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV BEST 60 FPS" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/best_60fps.png",Yosso TV BEST 60 FPS
+#EXTGRP:Yosso
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-BEST_60FPS/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb459" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Disney" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-disney.png",Yosso TV Disney
+#EXTGRP:Yosso
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-DISNEY/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb460" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Food" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-food.png",Yosso TV Food
+#EXTGRP:Yosso
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-FOOD/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb469" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Netflix" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-netflix.png",Yosso TV Netflix
+#EXTGRP:Yosso
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-NETFLIX/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb461" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV 4K HDR" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yossohdr4k.png",Yosso TV 4K HDR
+#EXTGRP:Yosso
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-4K_HDR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb468" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Наше Детское" group-title="Yosso " tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-detskoe.png",Yosso TV Наше Детское
+#EXTGRP:Yosso 
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-DETSKOE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb473" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Science" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-science.png",Yosso TV Science
+#EXTGRP:Yosso
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-SCIENCE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb465" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Мелодрама" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-melodrama.png",Yosso TV Мелодрама
+#EXTGRP:Yosso
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-Melodrama/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb477" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Советские фильмы 4K" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-sssr_4K.png",Yosso TV Советские фильмы 4K
+#EXTGRP:Yosso
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-SSSR_4K/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb480" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Travel" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-travel.png",Yosso TV Travel
+#EXTGRP:Yosso
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-TRAVEL/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+#EXTINF:0 tvg-id="elb445" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV BEST 60 FPS BOX" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/best_60fps.png",Yosso TV BEST 60 FPS BOX
+#EXTGRP:Yosso
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936923/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 
 #EXTINF:0 tvg-id="elb453" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Grand" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-grand.png",Yosso TV Grand
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-GRAND/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-GRAND/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
 #EXTINF:0 tvg-id="elb481" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV VHS" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-vhs.png",Yosso TV VHS
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-VHS/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-VHS/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
 #EXTINF:0 tvg-id="elb462" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Kids" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-kids.png",Yosso TV Kids
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-KIDS/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-KIDS/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb472" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Русские фильмы" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-rusfilm.png",Yosso TV Русские фильмы
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-RUS/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-RUS/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb476" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Советские фильмы" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-sovfilm.png",Yosso TV Советские фильмы
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-SSSR/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-SSSR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb470" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV NEW Кино" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-newkino.png",Yosso TV NEW Кино
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-NEW/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-NEW/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb475" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Союзмульт" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-soyuzmult.png",Yosso TV Союзмульт
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-MULT/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-MULT/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb466" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Music Hits" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-musichits.png",Yosso TV Music Hits
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-MUSIC-HITS/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-MUSIC-HITS/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb479" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Трагичное" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-tragic.png",Yosso TV Трагичное
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-TRAGIC/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-TRAGIC/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb482" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Забавное" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-zabavnoe.png",Yosso TV Забавное
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/Y-ZABAVNOE/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/Y-ZABAVNOE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb458" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV BEST" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-best.png",Yosso TV BEST
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-BEST/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-BEST/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb464" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Ковбойское" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-cowboy.png",Yosso TV Ковбойское
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-KOWBOY/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-KOWBOY/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb456" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Adrenaline" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-adrenaline.png",Yosso TV Adrenaline
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-ADRENALINE/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-ADRENALINE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb471" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Oblivion" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-oblivion.png",Yosso TV Oblivion
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/Y-OBLIVION/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/Y-OBLIVION/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb457" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Adventure" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-adventure.png",Yosso TV Adventure
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-ADVENTURE/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-ADVENTURE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb478" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Thriller" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-thriller.png",Yosso TV Thriller
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/Y-THRILLER/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/Y-THRILLER/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb455" catchup="flussonic" catchup-days="2" tvg-name="Yosso 4K" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-4k.png",Yosso 4K
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-4K/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-4K/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb467" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Nature" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-nature.png",Yosso TV Nature
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-NATURE/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
-#EXTINF:0 tvg-id="elb452" catchup="flussonic" catchup-days="1" tvg-name="C-Marvel HD" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/marvel.png",C-Marvel HD
-#EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-C-MARVEL/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
-#EXTINF:0 tvg-id="elb1099" catchup="flussonic" catchup-days="1" tvg-name="C-Cartoon HD" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/cartoon.png",C-Cartoon HD
-#EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-C-CARTOON/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
-#EXTINF:0 tvg-id="elb450" catchup="flussonic" catchup-days="2" tvg-name="C-Inquest HD" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/c-inquest.png",C-Inquest HD
-#EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/C-INQUEST1/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
-#EXTINF:0 tvg-id="elb447" catchup="flussonic" catchup-days="2" tvg-name="C-Comedy HD" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/ccomedy.png",C-Comedy HD
-#EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/C-IIICOMEDYIII/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-NATURE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
 #EXTINF:0 tvg-id="elb446" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV BEST 60 FPS" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/best_60fps.png",Yosso TV BEST 60 FPS
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-BEST_60FPS/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-BEST_60FPS/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb459" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Disney" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-disney.png",Yosso TV Disney
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-DISNEY/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-DISNEY/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb460" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Food" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-food.png",Yosso TV Food
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-FOOD/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-FOOD/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb469" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Netflix" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-netflix.png",Yosso TV Netflix
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-NETFLIX/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
-#EXTINF:0 tvg-id="elb449" catchup="flussonic" catchup-days="2" tvg-name="C-Holiday HD" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/Y-H/W/c-holiday.png",C-Holiday HD
-#EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936905/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-NETFLIX/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
 #EXTINF:0 tvg-id="elb461" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV 4K HDR" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yossohdr4k.png",Yosso TV 4K HDR
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-4K_HDR/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-4K_HDR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb468" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Наше Детское" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-detskoe.png",Yosso TV Наше Детское
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-DETSKOE/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-DETSKOE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb473" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Science" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-science.png",Yosso TV Science
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-SCIENCE/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
-#EXTINF:0 tvg-id="elb448" catchup="flussonic" catchup-days="1" tvg-name="C-History HD" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso/c-history.png",C-History HD
-#EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/Y-C-HISTORY/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-SCIENCE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
 #EXTINF:0 tvg-id="elb465" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Мелодрама" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-melodrama.png",Yosso TV Мелодрама
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-Melodrama/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-Melodrama/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb477" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Советские фильмы 4K" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-sssr_4K.png",Yosso TV Советские фильмы 4K
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-SSSR_4K/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
-#EXTINF:0 tvg-id="elb451" catchup="flussonic" catchup-days="2" tvg-name="C-Live HD" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/c-live.png",C-Live HD
-#EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-C-LIVE/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-SSSR_4K/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
 #EXTINF:0 tvg-id="elb480" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV Travel" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/yosso-travel.png",Yosso TV Travel
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-TRAVEL/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-TRAVEL/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
 #EXTINF:0 tvg-id="elb445" catchup="flussonic" catchup-days="2" tvg-name="Yosso TV BEST 60 FPS BOX" group-title="Yosso" tvg-logo="http://img.velestore.su/img/logos/yosso_tv/best_60fps.png",Yosso TV BEST 60 FPS BOX
 #EXTGRP:Yosso
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936923/video.m3u8?token=Qm9yb2RhfHxabTl0WVRFd05UY3lPVGc9
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936923/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
 
 
 
@@ -2234,72 +2155,6 @@ http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936922/video.m3u8?token=Qm9y
 
 
 
-#EXTINF:-1 group-title=" Детские" tvg-name="BCU Kids 4K" tvg-id="bcu-kids-4k",BCU Kids 4K
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/629.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Кинозал Premiere 1 HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1285.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Кинозал Premiere 2 HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1286.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Кинозал Premiere 3 HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1287.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Action HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1289.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Catastrophe HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1290.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Cinema HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1291.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Cinema+ HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1292.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Criminal HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1293.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Fantastic HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1294.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Filmystic HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1295.m3u8
-#EXTINF:-1 group-title=" BCU",BCU History HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1296.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Comedy HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1297.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Cosmo HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1298.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Romantic HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1299.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Kinorating HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1300.m3u8
-#EXTINF:-1 group-title=" BCU" tvg-id="bcu-marvel",BCU Marvel HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1301.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Premiere HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1302.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Stars HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1303.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Reality HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1304.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Survival HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1305.m3u8
-#EXTINF:-1 group-title=" BCU" tvg-id="bcu-trumotion",BCU TruMotion HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1306.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Ultra 4K
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1307.m3u8
-#EXTINF:-1 group-title=" BCU",BCU VHS HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1308.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Сваты HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1309.m3u8
-#EXTINF:-1 group-title=" BCU",BCU СССР HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1310.m3u8
-#EXTINF:-1 group-title=" BCU" tvg-id="bcu-russia90s",BCU Russia 90s HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1311.m3u8
-#EXTINF:-1 group-title=" BCU",BCU Russian HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1312.m3u8
-#EXTINF:-1 group-title=" BCU" tvg-id="bcu-ruserial",BCU RUSerial HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1313.m3u8
-#EXTINF:-1 group-title=" BCU" tvg-name="BCU Kids HD" tvg-id="bcu-kids",BCU Kids HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1314.m3u8
-#EXTINF:-1 group-title=" BCU" tvg-name="BCU Kids+ HD" tvg-id="bcu-kids-plus",BCU Kids+ HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1315.m3u8
-#EXTINF:-1 group-title=" BCU" tvg-id="bcu-kinozakaz-premiere-4k",BCU Kinozakaz HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1316.m3u8
-#EXTINF:-1 group-title=" BCU" tvg-id="bcu-multserial",BCU Мультсериал HD
-http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1317.m3u8
 
 
 
@@ -3662,3 +3517,795 @@ https://mults.info/mp4/chemodan.mp4
 https://mults.info/mp4/chto_tam_pod_maskoy.mp4
 #EXTINF:-1 group-title="Советские мультфильмы" tvg-logo="https://sun9-54.userapi.com/UrTc0ST2GqH2zmsXqZeowp9qu2arx2IY4grcPw/KzTvobJX9kA.jpg",Яблочный пирог 1991г
 https://mults.info/mp4/yablochny_pirog.mp4
+
+
+
+#EXTINF:0 tvg-id="elb4216" tvg-name="Алматы (KZ)" group-title="Казахстан (KZ)" tvg-logo="http://img.velestore.su/img/logos/KZ/almaty.png",Алматы (KZ)
+#EXTGRP:Казахстан (KZ)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/ALMATY_TV_KZ/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4221" tvg-name="Балапан ТВ (KZ)" group-title="Казахстан (KZ)" tvg-logo="http://img.velestore.su/img/logos/KZ/balapan.png",Балапан ТВ (KZ)
+#EXTGRP:Казахстан (KZ)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/BALAPAN_TV_KZ/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4197" tvg-name="КТК (KZ)" group-title="Казахстан (KZ)" tvg-logo="http://img.velestore.su/img/logos/KZ/ktk-kz.png",КТК (KZ)
+#EXTGRP:Казахстан (KZ)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/KTK_TV_KZ/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2165" tvg-name="MuzzOne (KZ)" group-title="Казахстан (KZ)" tvg-logo="http://img.velestore.su/img/logos/KZ/muzzone.png",MuzzOne (KZ)
+#EXTGRP:Казахстан (KZ)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/MUZZONE_KZ/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4192" tvg-name="Первый канал Евразия (KZ)" group-title="Казахстан (KZ)" tvg-logo="http://img.velestore.su/img/logos/KZ/pervy-kanal-eurasia-kz.png",Первый канал Евразия (KZ)
+#EXTGRP:Казахстан (KZ)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/1TV_EURASIA_KZ/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4243" tvg-name="QazSport (KZ)" group-title="Казахстан (KZ)" tvg-logo="http://img.velestore.su/img/logos/KZ/kazsport.png",QazSport (KZ)
+#EXTGRP:Казахстан (KZ)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/QAZSPORT_KZ/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4181" tvg-name="24KZ" group-title="Казахстан (KZ)" tvg-logo="http://img.velestore.su/img/logos/KZ/xabar24.png",24KZ
+#EXTGRP:Казахстан (KZ)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/KHABAR_24_KZ/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4242" tvg-name="Qazaqstan TV (KZ)" group-title="Казахстан (KZ)" tvg-logo="http://img.velestore.su/img/logos/KZ/kazakhstan.png",Qazaqstan TV (KZ)
+#EXTGRP:Казахстан (KZ)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/QAZAQSTAN_TV_KZ/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb1688" tvg-name="QAZAQ TV (KZ)" group-title="Казахстан (KZ)" tvg-logo="http://img.velestore.su/img/logos/KZ/kazakh-tv.png",QAZAQ TV (KZ)
+#EXTGRP:Казахстан (KZ)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/QAZAQ_TV_KZ/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4178" tvg-name="31 канал (KZ)" group-title="Казахстан (KZ)" tvg-logo="http://img.velestore.su/img/logos/KZ/31-kanal-kz.png",31 канал (KZ)
+#EXTGRP:Казахстан (KZ)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/31_channel_kz/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3041" tvg-name="TRT 1" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-1-hd.png",TRT 1
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/TRT_1_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3044" tvg-name="TRT AVAZ TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-avaz.png",TRT AVAZ TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/TRT_AVAZ_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3907" tvg-name="TRT BELGESEL" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-belgesel.png",TRT BELGESEL
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/TRT_BELGESEL_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3896" tvg-name="TRT COCUK" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-cocuk.png",TRT COCUK
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/TRT_COCUK_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3045" tvg-name="TRT HABER" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-haber.png",TRT HABER
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/TRT_HABER_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="TRT Kurd" tvg-name="TRT KURDI" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-kurdi.png",TRT KURDI
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/TRT_KURDI_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3046" tvg-name="TRT Muzik" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-muzik.png",TRT Muzik
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/TRT_MUZIK_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3048" tvg-name="TRT TURK" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-turk.png",TRT TURK
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/TRT_TURK_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3042" tvg-name="TRT 2" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-2.png",TRT 2
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/TRT_2_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3981" tvg-name="TV100" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/tv100-tr.png",TV100
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/TV100_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="history-viasat-en" tvg-name="SINEMA AILE TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/viasat-history.png",SINEMA AILE TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/VIASAT_HISTORY_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3919" tvg-name="Love Nature TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/love-nature-tr.png",Love Nature TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/LOVE_NATURE_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3916" tvg-name="Discovery Channel TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/discovery.png",Discovery Channel TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/DISCOVERY_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3918" tvg-name="Discovery Science TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/discovery-science.png",Discovery Science TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/DISCOVERY_SCIENCE_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3897" tvg-name="Disney Junior TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/disney-junior.png",Disney Junior TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/DISNEY_JUNIOR_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="2186" tvg-name="Docubox TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/docubox.png",Docubox TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/DOCUBOX_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3928" tvg-name="Dream Turk TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/dreamturk.png",Dream Turk TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/DREAMTURK_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3690" tvg-name="Filmbox TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/filmbox.png",Filmbox TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/FILMBOX_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="2620" tvg-name="SINEMA 1001 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/cartoon-network-tr.png",SINEMA 1001 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/CARTOON_NETWORK_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3905" tvg-name="SINEMA 1002 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/boomerang.png",SINEMA 1002 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/BOOMERANG_HD_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="2606" tvg-name="CNN TURK" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/cnn-turk.png",CNN TURK
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/CNN_TURK_HD_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="2362" tvg-name="BEIN SPORTS 1 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/fastfun.png",BEIN SPORTS 1 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/FAST_FUN_BOX_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3792" tvg-name="FightBox TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/fightbox.png",FightBox TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/FIGHTBOX_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="4961" tvg-name="BEIN SPORTS 4 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/yeni.png",BEIN SPORTS 4 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/YENI_KOCAELI_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="2604" tvg-name="minika COCUK TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/cocuk-smart.png",minika COCUK TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/COCUKSMART_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="turksat" tvg-name="Turksat" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/turksat.jpg",Turksat
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/TURKSAT_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="5093" tvg-name="BEIN SPORTS 3 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/akilli.png",BEIN SPORTS 3 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/AKILLI_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="no_epg" tvg-name="BEIN SPORTS 2 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/flashtv-son.jpg",BEIN SPORTS 2 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/FLASH_TV_HD_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="atv-hd-tr" tvg-name="ATV HD TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/atv-hd-tr.png",ATV HD TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/ATV_HD_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3945" tvg-name="A2 Turkey HD TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/eurod.png",A2 Turkey HD TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/EURO_D_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="kanal-d-hd" tvg-name="Kanal D TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/kanal-d-hd.png",Kanal D TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/KANAL_D_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="no_epg" tvg-name="TRT WORLD TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt3-spor.png",TRT WORLD TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/TRT_3_SPOR_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="no_epg" tvg-name="TRT ARABI TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-arabi.png",TRT ARABI TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/TRT_ARABI_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="TRT Spor Y?ld?z" tvg-name="BEYAZ TV HD TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-spor-y.png",BEYAZ TV HD TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/TRT_SPOR_YILDIZ_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="TRT Spor" tvg-name="TRT SPOR HD TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/trt-spor.png",TRT SPOR HD TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/TRT_SPOR_HD_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="2587" tvg-name="A SPOR TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/aspor.png",A SPOR TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/A_SPOR_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="2589" tvg-name="NR1 Turk TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/ahaber.png",NR1 Turk TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/A_HABER_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3885" tvg-name="TIVIBU SPOR 1 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/eurosport-1-tr.png",TIVIBU SPOR 1 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/EUROSPORT_1_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3886" tvg-name="TIVIBU SPOR 2 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/eurosport-2-tr.png",TIVIBU SPOR 2 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/EUROSPORT_2_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="2593" tvg-name="STAR TV TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/star-tv.png",STAR TV TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/STAR_TV_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3954" tvg-name="FOX TV TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/fox-tv-tr.png",FOX TV TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/FOX_TV_HD_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3861" tvg-name="FOX CRIME TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/fox-crime-tr.png",FOX CRIME TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/FOX_CRIME_HD_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="2607" tvg-name="TEVE 2 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/teve-2-tr.png",TEVE 2 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/TEVE_2_HD_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3956" tvg-name="KANAL 7 AVRUPA TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/kanal-7.png",KANAL 7 AVRUPA TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/KANAL_7_AVRUPA_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="2614" tvg-name="TV8 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/tv8.png",TV8 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/TV_8_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="no_epg" tvg-name="Power Turk TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/powerturk_tv..png",Power Turk TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/DIZI_PREMIUM_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="no_epg" tvg-name="Dizi SmartMax TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/dizi_smart_max.png",Dizi SmartMax TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/DIZI_SMART_MAX_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3922" tvg-name="National Geographic TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/natgeo.png",National Geographic TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/NATGEO_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3921" tvg-name="NatGeoWild TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/natgeowild.png",NatGeoWild TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/NATGEOWILD_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="no_epg" tvg-name="TIVIBU SPOR 3 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/tivibu-spor-3-tr.png",TIVIBU SPOR 3 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/MOVIE_CLASSIC_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="no_epg" tvg-name="Movie Turk TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/movie_smart_turk.png",Movie Turk TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/MOVIE_TURK_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3894" tvg-name="NBA TV TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/nbatv.png",NBA TV TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/NBA_TV_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3881" tvg-name="S SPORT 1 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/s-sport-1-tr.png",S SPORT 1 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/S_SPORT_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="3881" tvg-name="S SPORT 2 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/s-sport-1-tr.png",S SPORT 2 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/S_SPORT_2_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="no_epg" tvg-name="Tivibu Sport 1 TR" group-title="Turkey (TR)" tvg-logo="http://img.velestore.su/img/logos/turk/tivibu_spor_turk.png",Tivibu Sport 1 TR
+#EXTGRP:Turkey (TR)
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/tivibu_sport_TR/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3755" catchup="flussonic" catchup-days="1" tvg-name="RTL HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/rtl.png",RTL HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/RTL_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3797" catchup="flussonic" catchup-days="1" tvg-name="SUPER RTL HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/super-rtl-hd.png",SUPER RTL HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/SUPER_RTL_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2586" catchup="flussonic" catchup-days="1" tvg-name="RTL 2 HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/rtl2.png",RTL 2 HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/RTL_2_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3756" catchup="flussonic" catchup-days="1" tvg-name="RTL CRIME HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/rtl-crime-de.png",RTL CRIME HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/RTL_CRIME_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3757" tvg-name="RTL LIVING HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/rtl.png",RTL LIVING HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/RTL_NITRO_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3768" catchup="flussonic" catchup-days="1" tvg-name="SKY 1 HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/skyone-de.png",SKY 1 HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/SKY_1_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="SKY CINEMA (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-cinema.png",SKY CINEMA (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_cinema_de/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3769" catchup="flussonic" catchup-days="1" tvg-name="SKY ATLANTIC (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-atlantic.png",SKY ATLANTIC (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/SKY_ATLANTIC/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3770" tvg-name="SKY CINEMA ACTION (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-cinema-action.png",SKY CINEMA ACTION (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_cinema_action/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="965" tvg-name="SKY SHOWCASE (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/Sky_Showcase.png",SKY SHOWCASE (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_cinema_best_of/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3771" catchup="flussonic" catchup-days="1" tvg-name="SKY CINEMA CLASSICS (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-cinema-nostalg.png",SKY CINEMA CLASSICS (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_cinema_classics/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3772" tvg-name="SKY CINEMA FAMILY (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-cinema-family.png",SKY CINEMA FAMILY (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_cinema_family/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="SKY CINEMA FUN (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-cinema-comedy.png",SKY CINEMA FUN (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_cinema_fun/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3774" catchup="flussonic" catchup-days="1" tvg-name="SKY CINEMA PREMIEREN (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-cin-prem-de.png",SKY CINEMA PREMIEREN (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_cinema_premieren/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4449" tvg-name="SKY CINEMA SPECIAL (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky_cinema_special.png",SKY CINEMA SPECIAL (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_cinema_special/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="HGTV HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/poznanie/hgtv.png",HGTV HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_cinema_thriller/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb4450" tvg-name="SKY COMEDY (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-comedy-uk.png",SKY COMEDY (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_comedy/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3775" catchup="flussonic" catchup-days="1" tvg-name="SKY CRIME (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky_crime_de.png",SKY CRIME (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_crime/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3776" tvg-name="SKY DOCUMENTARIES (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-docum-de.png",SKY DOCUMENTARIES (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_documentaries/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3777" tvg-name="SKY KRIMI (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-krimi-de.png",SKY KRIMI (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_krimi/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3778" tvg-name="SKY NATURE (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-nat-de.png",SKY NATURE (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_nature/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3779" tvg-name="SKY REPLAY (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-replay-de.png",SKY REPLAY (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_replay/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="SKY HITS (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sky-cin-hits-de.png",SKY HITS (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/sky_hits/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3733" tvg-name="n-tv HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/n-tv-hd-de.png",n-tv HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/n-tv_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3761" catchup="flussonic" catchup-days="1" tvg-name="sat.1 HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sat1.png",sat.1 HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/SAT_1_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3722" tvg-name="N24 (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/N24_docu.png",N24 (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/N24_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3681" tvg-name="EUROSPORT (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/eurosport1.png",EUROSPORT (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/EUROSPORT_1_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3682" tvg-name="EUROSPORT 2 (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/eurosport2.png",EUROSPORT 2 (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/EUROSPORT_2_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3791" tvg-name="SPORT1 (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sport1-de.png",SPORT1 (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/SPORT_1_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3812" tvg-name="Universal TV (DE)" group-title="Germany (DE)" tvg-logo=" ",Universal TV (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/UNIVERSAL_TV_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3702" tvg-name="JUKEBOX HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/jukebox-de.png",JUKEBOX HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/FOX_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3799" tvg-name="Syfy HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/syfy.png",Syfy HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/SYFY_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3813" catchup="flussonic" catchup-days="1" tvg-name="VOX HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/vox.png",VOX HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/VOX_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3817" tvg-name="TNT SERIE HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/tnt-serie-de.png",TNT SERIE HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/TNT_SERIE_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3816" tvg-name="TNT FILM HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/tnt-film-de.png",TNT FILM HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/TNT_FILM_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3638" tvg-name="AXN Black HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/axn.png",AXN Black HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/AXN_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3671" tvg-name="DISCOVERY HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/discovery-channel-pl.png",DISCOVERY HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/DISCOVERY_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3724" tvg-name="NAT GEO WILD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/nat-geo-wild.png",NAT GEO WILD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/NAT_GEO_WILD_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3723" tvg-name="NATIONAL GEOGRAPHIC (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/national-geographic.png",NATIONAL GEOGRAPHIC (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/NATIONAL_GEOGRAPHIC_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3802" tvg-name="HISTORY (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/history.png",HISTORY (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/HISTORY_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3729" tvg-name="NICKELODEON HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/nickelodeon_de.png",NICKELODEON HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/NICK_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="BOOMERANG (DE)" group-title="Germany (DE)" tvg-logo="no_ico",BOOMERANG (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/BOOMERANG_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3657" tvg-name="CARTOON NETWORK (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/cartoon-network.png",CARTOON NETWORK (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/CARTOON_NETWORK_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3728" tvg-name="NICK JR. (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/nick-jr.png",NICK JR. (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/DISNEY_JR_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3672" tvg-name="DISNEY HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/disney-de.png",DISNEY HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/DISNEY_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3667" catchup="flussonic" catchup-days="1" tvg-name="DAS ERSTE (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/das-erste.png",DAS ERSTE (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/DAS_ERSTE_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3634" tvg-name="ARTE (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/arte-hd.png",ARTE (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/ARTE_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3821" catchup="flussonic" catchup-days="1" tvg-name="ZDF HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/zdf.png",ZDF HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/ZDF_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3767" tvg-name="SIXX HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/sixx_hd.png",SIXX HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/SIXX_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3703" catchup="flussonic" catchup-days="1" tvg-name="KABEL EINS (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/kabel-1.png",KABEL EINS (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/KABEL_EINS_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3743" catchup="flussonic" catchup-days="1" tvg-name="PROSIEBEN HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/tv_pro_7.png",PROSIEBEN HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/PROSIEBEN_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3632" tvg-name="WELT HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/welt_hd_de.png",WELT HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/WELT_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="E! Entertainm. HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/warner-tv-serie.png",E! Entertainm. HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/E_ENTERT_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3797" tvg-name="Spiegel Geschichte HD (De)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/spiegel-gesch.png",Spiegel Geschichte HD (De)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/SPIEGEL_GESCHICHTE_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3754" tvg-name="ROMANCE TV (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/romance_tv.png",ROMANCE TV (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/ROMANCE_TV_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3707" tvg-name="KINOWELT (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/kinowelt.png",KINOWELT (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/KINOWELT_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3673" tvg-name="DMAX HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/tv_dmax.png",DMAX HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/DMAX_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3626" tvg-name="13th STREET (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/tv_13th_street.png",13th STREET (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/13TH_STREET_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3726" tvg-name="NDR HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/tv_ndr.png",NDR HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/NDR_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3699" tvg-name="HR HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/tv_hr.png",HR HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/HR_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3632" tvg-name="ANIXE HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/tv_anixe.png",ANIXE HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/ANIXE_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3736" tvg-name="ORF 2N (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/orf2.png",ORF 2N (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/ORF_2N_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3737" tvg-name="ORF 1 HD (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/orf1.png",ORF 1 HD (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/ORF_1_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3706" tvg-name="KIKA (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/tv_kika.png",KIKA (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/KIKA_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3744" catchup="flussonic" catchup-days="1" tvg-name="PROSIEBEN MAXX (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/prosieben-maxx.png",PROSIEBEN MAXX (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/PROSIEBEN_MAXX_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3628" tvg-name="3SAT (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/tv_3_sat.png",3SAT (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/3SAT_HD_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3818" tvg-name="WDR HD Aachen (DE)" group-title="Germany (DE)" tvg-logo="http://img.velestore.su/img/logos/DE/tv_wdr.png",WDR HD Aachen (DE)
+#EXTGRP:Germany (DE)
+http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/WDR_HD_AACHEN_DE/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb862" tvg-name="ATV HD AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/atv-armenia.png",ATV HD AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936907/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb1588" tvg-name="H1 AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/h1-am.png",H1 AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936901/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb1590" tvg-name="H2 AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/h2-am.png",H2 AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936902/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Shant HD AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/shant.png",Shant HD AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936903/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb835" tvg-name="Armenia TV AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/armenia-tv.png",Armenia TV AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936904/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Horizon TV AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/horizon-am.png",Horizon TV AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936905/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="New Armenia AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/new-armenia.png",New Armenia AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936906/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Shoghakat AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/shog.png",Shoghakat AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936907/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Yerkir Media AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/ymedia.png",Yerkir Media AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936908/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb1718" tvg-name="Kentron AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/kentron.png",Kentron AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936909/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Tsayg AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/tsayg.png",Tsayg AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936910/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Azatutyun TV AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/Azatutyun.png",Azatutyun TV AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936911/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Dar 21 AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/21tv.png",Dar 21 AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936912/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="5TV AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/5tv.png",5TV AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936913/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="5TV Plus AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/5tv.png",5TV Plus AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936914/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="H1 Lurer AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/h1-am.png",H1 Lurer AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936915/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="ABN AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/abn.png",ABN AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936916/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="ARTN AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/artn-am.png",ARTN AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936917/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Armenia Sat AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/armenia_tv_am.png",Armenia Sat AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936918/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Armenia Cinema AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/armenia_tv_am.png",Armenia Cinema AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936919/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Armenia Comedy AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/armenia_tv_am.png",Armenia Comedy AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936920/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb1483" tvg-name="Fast Sports AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/fastssports.png",Fast Sports AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936921/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Freenews AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/freenews.png",Freenews AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936922/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Armenia Hay Kino AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/armenia_tv_am.png",Armenia Hay Kino AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936923/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Armenia JanTV AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/armenia_tv_am.png",Armenia JanTV AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936924/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="PanAmerican AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/panamerican.png",PanAmerican AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936925/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb113" tvg-name="Shant Kids AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/shant-kids-hd.png",Shant Kids AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936926/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb114" tvg-name="Shant Music AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/shant-music-hd.png",Shant Music AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936927/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Armenia Tuntunik AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/armenia_tv_am.png",Armenia Tuntunik AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936928/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Armenia Premium AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/armenia_tv_am.png",Armenia Premium AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936929/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="USArmenia AM" group-title="Armenia (AM)" tvg-logo="http://img.velestore.su/img/logos/arm/usarmenia.png",USArmenia AM
+#EXTGRP:Armenia (AM)
+http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/08936930/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="ARB 24 AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/ARB_24.png",ARB 24 AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936908/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="ARB AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/ARB.png",ARB AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936909/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb878" tvg-name="AzTV AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/aztv.png",AzTV AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936910/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb1614" tvg-name="Ictimai TV AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/ictimai-tv.png",Ictimai TV AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936911/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb3409" tvg-name="Xezer AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/xezer.png",Xezer AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936912/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb1954" tvg-name="Medeniyyet AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/medeniyyet.png",Medeniyyet AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936913/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb865" tvg-name="ATV AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/atv-hd-tr.png",ATV AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936914/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb1142" tvg-name="CBC AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/cbc-az.png",CBC AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936915/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Al Zahra TV AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/alzahra.png",Al Zahra TV AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936916/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Aznews AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/aznews.png",Aznews AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936917/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Baku TV AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/bakutv.png",Baku TV AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936918/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb1143" tvg-name="CBC Sport AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/cbc-sport.png",CBC Sport AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936919/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Dunya TV AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/dunya-tv-az.png",Dunya TV AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936920/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Gunaz AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/gunaz.png",Gunaz AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936921/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb1620" tvg-name="Idman AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/idman.png",Idman AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936922/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Kepez TV AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/kepez.png",Kepez TV AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936923/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Konul AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/konul.png",Konul AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936924/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="MTV AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/mtv.png",MTV AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936926/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Topaz 2 AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/topaz2.png",Topaz 2 AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936927/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Space TV AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/spacetv.png",Space TV AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936928/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="Real TV AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/realtv.png",Real TV AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936929/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+#EXTINF:0 tvg-id="elb2231" tvg-name="AZ Star AZ" group-title="Azerbaijan (AZ)" tvg-logo="http://img.velestore.su/img/logos/azer/azstar.png",AZ Star AZ
+#EXTGRP:Azerbaijan (AZ)
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936930/video.m3u8?token=Qm9yb2RhfHxlR1F5TldSa2VtRXhZekU9
+
+
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 1 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e01.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 2 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e02.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 3 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e03.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 4 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e04.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 5 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e05.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 6 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e06.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 7 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e07.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! 8 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e08.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка!: История создания
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s01/mir.druzba.zvacka.e09.film.o.seriale.2020.webdl.1080p.getty/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 1 серия
+
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/01.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 2 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/02.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 3 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/03.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 4 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/04.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 5 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/05.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 6 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/06.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 7 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/07.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
+
+#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://forumupload.ru/uploads/0019/f6/b8/51/900133.jpg" group-title="МИР! ДРУЖБА! ЖВАЧКА!", Мир! Дружба! Жвачка! [ 2 сезон] 8 серия
+https://gavanaplay.me/content/stream/serials/mirdruzhbazhvachka/s02/08.mir.druzhba.zhvachka.s02.2021.webdl.1080p/hls/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 1 сезон 1 серия
+https://data08-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s01.01Episode11080pHD.v1a1.24.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 1 сезон 2 серия
+https://data11-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s01.02Episode21080pHD.v1a1.24.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 1 сезон 3 серия
+https://data04-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s01.03Episode31080pHD.v1a1.24.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 1 сезон 4 серия
+https://data11-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s01.04Episode41080pHD.v1a1.24.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 1 сезон 5 серия
+https://data04-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s01.05Episode51080pHD.v1a1.24.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 1 сезон 6 серия
+https://data02-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s01.06Episode61080pHD.v1a1.24.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 2 сезон 1 серия
+https://data01-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s0201Episode11080pHD.v1a1.24.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 2 сезон 2 серия
+https://data01-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s0202Episode21080pHD.v1a1.24.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 2 сезон 3 серия
+https://data05-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s0203Episode31080pHD.v1a1.24.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 2 сезон 4 серия
+https://data11-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s0204Episode41080pHD.v1a1.24.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 2 сезон 5 серия
+https://data02-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s0205Episode51080pHD.v1a1.24.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 2 сезон 6 серия
+https://data01-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s0206Episode61080pHD.v1a1.24.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 3 сезон 1 серия
+https://data02-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s0301Episode11080pHD.v1a1.24.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 3 сезон 2 серия
+https://data08-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s0302Episode21080pHD.v1a1.24.03.24.mp4
+
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 3 сезон 3 серия
+https://data08-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s0303Episode31080pHD.v1a1.24.03.24.mp4
+
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 3 сезон 4 серия
+https://data01-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s0304Episode41080pHD.v1a1.24.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 3 сезон 5 серия
+https://data01-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s0305Episode51080pHD.v1a1.24.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 3 сезон 6 серия
+https://data01-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s0306Episode61080pHD.v1a1.24.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 4 сезон 1 серия
+https://data11-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s04e01.BDRip.1080p.LostFilm.v1a1.23.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 4 сезон 2 серия
+https://data08-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s04e02.BDRip.1080p.LostFilm.v1a1.23.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 4 сезон 3 серия
+https://data02-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s04e03.BDRip.1080p.LostFilm.v1a1.23.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 4 сезон 4 серия
+https://data05-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s04e04.BDRip.1080p.LostFilm.v1a1.23.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 4 сезон 5 серия
+https://data04-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s04e05.BDRip.1080p.LostFilm.v1a1.23.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 4 сезон 6 серия
+https://data05-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.s04e06.BDRip.1080p.LostFilm.v1a1.23.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 5 сезон 1 серия
+https://data01-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_PeakyBlinders05x01BlackTuesday-LostFilm.v1a1.24.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 5 сезон 2 серия
+https://data01-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_PeakyBlinders05x02BlackCats-LostFilm.v1a1.24.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 5 сезон 3 серия
+https://data11-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_PeakyBlinders05x03Strategy-LostFilm.v1a1.24.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 5 сезон 4 серия
+https://data04-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_PeakyBlinders05x04TheLoop-LostFilm.v1a1.24.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 5 сезон 5 серия
+https://data11-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_PeakyBlinders05x05TheShock-LostFilm.v1a1.24.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 5 сезон 6 серия
+https://data01-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_PeakyBlinders05x06MrJones-LostFilm.v1a1.24.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 6 сезон 1 серия
+https://data11-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.S06E01.BDRip.1080p.RGzsRutracker.v1a1.23.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 6 сезон 2 серия
+https://data01-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.S06E02.BDRip.1080p.RGzsRutracker.v1a1.23.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 6 сезон 3 серия
+https://data02-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.S06E03.BDRip.1080p.RGzsRutracker.v1a1.23.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 6 сезон 4 серия
+https://data08-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.S06E04.BDRip.1080p.RGzsRutracker.v1a1.23.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 6 сезон 5 серия
+https://data11-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.S06E05.BDRip.1080p.RGzsRutracker.v1a1.23.03.24.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://avatars.mds.yandex.net/i?id=405e9e26e773e85ba9dea155b06cdc2d_sr-5428196-images-thumbs&n=13" group-title="Отсрые Козырьки", Острые Козырьки 6 сезон 6 серия
+https://data02-cdn.22cdn.org/fi2lm/00ba0d63583523fdc6481547a4e859d6/7f_Peaky.Blinders.S06E06.BDRip.1080p.RGzsRutracker.v1a1.23.03.24.mp4
+
+
+
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://pmgroup.kz/assets/gallery-002-Bev_4Brj.png" group-title="5 : 32", 5 : 32 1 сезон 1 серия
+https://o8.anwap.be/serials/oshls/bTxTxE3BW1Sq3wRMe9_m9g/1736662507/532_1_sezon_-_1_seriya_(anwap.org).m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://pmgroup.kz/assets/gallery-002-Bev_4Brj.png" group-title="5 : 32", 5 : 32 1 сезон 2 серия
+https://o8.anwap.be/serials/oshls/O74dv1jFyzYp-MRLx4sFFg/1736662517/532_1_sezon_-_2_seriya_(anwap.org).m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://pmgroup.kz/assets/gallery-002-Bev_4Brj.png" group-title="5 : 32", 5 : 32 1 сезон 3 серия
+https://o8.anwap.be/serials/oshls/NxGUVGP2exDsbDYqPXjz0A/1736662524/532_1_sezon_-_3_seriya_(anwap.org).m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://pmgroup.kz/assets/gallery-002-Bev_4Brj.png" group-title="5 : 32", 5 : 32 1 сезон 4 серия
+https://o8.anwap.be/serials/oshls/pphDY129hlwLPfgGDWCxIg/1736662530/532_1_sezon_-_4_seriya_(anwap.org).m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://pmgroup.kz/assets/gallery-002-Bev_4Brj.png" group-title="5 : 32", 5 : 32 1 сезон 5 серия
+https://o8.anwap.be/serials/oshls/mMkkou6scrA-bOOPk6bbzg/1736662537/532_1_sezon_-_5_seriya_(anwap.org).m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://pmgroup.kz/assets/gallery-002-Bev_4Brj.png" group-title="5 : 32", 5 : 32 1 сезон 6 серия
+https://o8.anwap.be/serials/oshls/wUAAbZtQ5QJ93oMp1UbWww/1736662543/532_1_sezon_-_6_seriya_(anwap.org).m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://pmgroup.kz/assets/gallery-002-Bev_4Brj.png" group-title="5 : 32", 5 : 32 1 сезон 7 серия
+https://o8.anwap.be/serials/oshls/6EZhznR6UAhYYbq-ZNuJiQ/1736662553/532_1_sezon_-_7_seriya_(anwap.org).m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://pmgroup.kz/assets/gallery-002-Bev_4Brj.png" group-title="5 : 32", 5 : 32 1 сезон 8 серия
+https://o8.anwap.be/serials/oshls/6oA3_dudoVkD97eTdk8mxw/1736662561/532_1_sezon_-_8_seriya_(anwap.org).m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://pmgroup.kz/assets/gallery-002-Bev_4Brj.png" group-title="5 : 32", 5 : 32 1 сезон 9 серия
+https://o8.anwap.be/serials/oshls/vELeUUew1dmIAI8whvXzNQ/1736662568/532_1_sezon_-_9_seriya_(anwap.org).m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://pmgroup.kz/assets/gallery-002-Bev_4Brj.png" group-title="5 : 32", 5 : 32 1 сезон 10 серия
+https://o8.anwap.be/serials/oshls/KKakMptr2sUzQ6aCAoKnpQ/1736662575/532_1_sezon_-_10_seriya_(anwap.org).m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://pmgroup.kz/assets/gallery-002-Bev_4Brj.png" group-title="5 : 32", 5 : 32 1 сезон 11 серия
+https://o8.anwap.be/serials/oshls/j2xIpEIETS7s7v8h6DKRHg/1736662583/532_1_sezon_-_11_seriya_(anwap.org).m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://pmgroup.kz/assets/gallery-002-Bev_4Brj.png" group-title="5 : 32", 5 : 32 1 сезон 12 серия
+https://o8.anwap.be/serials/oshls/XIrHF-88TTrt8tzbUADb6g/1736662591/532_1_sezon_-_12_seriya_(anwap.org).m3u8
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://pmgroup.kz/assets/gallery-002-Bev_4Brj.png" group-title="5 : 32", 5 : 32 1 сезон 13 серия
+https://o8.anwap.be/serials/oshls/DOwaVMAaxXQ2PhKoMzW3uQ/1736662597/532_1_sezon_-_13_seriya_(anwap.org).m3u8
+
+
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static43.tgcnt.ru/posts/_0/9f/9fd4bf8376f97b064b27cc8e54bbe916.jpg" group-title="Аутсорс", Аутсорс 1 сезон 1 серия
+https://v.mover.uz/ss0UAPRC_m.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static43.tgcnt.ru/posts/_0/9f/9fd4bf8376f97b064b27cc8e54bbe916.jpg" group-title="Аутсорс", Аутсорс 1 сезон 2 серия
+https://v.mover.uz/N9UBqrG4_m.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static43.tgcnt.ru/posts/_0/9f/9fd4bf8376f97b064b27cc8e54bbe916.jpg" group-title="Аутсорс", Аутсорс 1 сезон 3 серия
+https://v.mover.uz/zNv7q3h_m.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static43.tgcnt.ru/posts/_0/9f/9fd4bf8376f97b064b27cc8e54bbe916.jpg" group-title="Аутсорс", Аутсорс 1 сезон 4 серия
+https://v.mover.uz/Nh9FFnOt_m.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static43.tgcnt.ru/posts/_0/9f/9fd4bf8376f97b064b27cc8e54bbe916.jpg" group-title="Аутсорс", Аутсорс 1 сезон 5 серия
+https://v.mover.uz/RPUA9ol_m.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static43.tgcnt.ru/posts/_0/9f/9fd4bf8376f97b064b27cc8e54bbe916.jpg" group-title="Аутсорс", Аутсорс 1 сезон 6 серия
+https://v.mover.uz/FoFwL1hl_m.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static43.tgcnt.ru/posts/_0/9f/9fd4bf8376f97b064b27cc8e54bbe916.jpg" group-title="Аутсорс", Аутсорс 1 сезон 7 серия
+https://v.mover.uz/b4Nph8Uk_m.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static43.tgcnt.ru/posts/_0/9f/9fd4bf8376f97b064b27cc8e54bbe916.jpg" group-title="Аутсорс", Аутсорс 1 сезон 8 серия
+https://v.mover.uz/I9igVnJk_m.mp4
