@@ -540,74 +540,10 @@ http://cdn.admuspeh.my/8304/video.m3u8?token=aCHYL5BAkGBshJPt
 http://cdn.admuspeh.my/8666/video.m3u8?token=aCHYL5BAkGBshJPt
 #EXTINF:-1 tvg-id="ТБН" group-title="Познавательные"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A2%D0%91%D0%9D%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8200/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="14", ТБН
 http://cdn.admuspeh.my/8200/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="UDAR" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A3%D0%B4%D0%B0%D1%80%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8319/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", UDAR
-http://cdn.admuspeh.my/8319/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="MMA-TV HD" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/MMA-TV.com%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8380/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", MMA-TV HD
-http://cdn.admuspeh.my/8380/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Бокс ТВ" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%91%D0%BE%D0%BA%D1%81%20%D0%A2%D0%92%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8201/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Бокс ТВ
-http://cdn.admuspeh.my/8201/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Матч!" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%90%D0%A2%D0%A7!%20+0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8016/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Матч!
-http://cdn.admuspeh.my/8016/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Матч! HD" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%90%D0%A2%D0%A7!%20+0%20(%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4).png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8179/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Матч! HD
-http://cdn.admuspeh.my/8179/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Матч! Боец" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%91%D0%BE%D0%B5%D1%86%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8027/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Матч! Боец
-http://cdn.admuspeh.my/8027/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Матч! Арена" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%90%D1%80%D0%B5%D0%BD%D0%B0%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8018/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Матч! Арена
-http://cdn.admuspeh.my/8018/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Матч! Страна" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8019/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Матч! Страна
-http://cdn.admuspeh.my/8019/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Матч! Премьер" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%9F%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8023/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Матч! Премьер
-http://cdn.admuspeh.my/8023/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Матч! Планета" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0.png" catchup-days="0", Матч! Планета
-http://cdn.admuspeh.my/8549/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Матч! Игра" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%98%D0%B3%D1%80%D0%B0%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8024/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Матч! Игра
-http://cdn.admuspeh.my/8024/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Матч! Футбол 1" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%201%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8021/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Матч! Футбол 1
-http://cdn.admuspeh.my/8021/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Матч! Футбол 1 HD" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%201%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8236/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Матч! Футбол 1 HD
-http://cdn.admuspeh.my/8236/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Матч! Футбол 2" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%202%20FHD.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8022/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="14", Матч! Футбол 2
-http://cdn.admuspeh.my/8022/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Матч! Футбол 2 HD" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%202%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8237/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Матч! Футбол 2 HD
-http://cdn.admuspeh.my/8237/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Матч! Футбол 3" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%203%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8029/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Матч! Футбол 3
-http://cdn.admuspeh.my/8029/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Матч! Футбол 3 HD" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9C%D0%B0%D1%82%D1%87!%20%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%203%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8238/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Матч! Футбол 3 HD
-http://cdn.admuspeh.my/8238/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Футбол HD" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8147/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Футбол HD
-http://cdn.admuspeh.my/8147/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Футбольный HD" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20HD.png" catchup-days="0", Футбольный HD
-http://cdn.admuspeh.my/8368/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Хоккейный HD" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A5%D0%BE%D0%BA%D0%BA%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9%20HD.png" catchup-days="0", Хоккейный HD
-http://cdn.admuspeh.my/8367/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="KHL" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/KHL%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8025/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", KHL
-http://cdn.admuspeh.my/8025/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="KHL Prime HD" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/KHL%20Prime%20FHD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8297/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", KHL Prime HD
-http://cdn.admuspeh.my/8297/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="NBA TV" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/NBA%20TV%20HD%20US.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8061/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", NBA TV
-http://cdn.admuspeh.my/8061/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Eurosport 1" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/Eurosport%201%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8013/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Eurosport 1
-http://cdn.admuspeh.my/8013/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Eurosport 1 HD" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/Eurosport%20HD%20DE.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8178/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Eurosport 1 HD
-http://cdn.admuspeh.my/8178/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Eurosport 2" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/EUROSPORT%202%20HD%20SE.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8014/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Eurosport 2
-http://cdn.admuspeh.my/8014/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Eurosport 2 HD" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/EUROSPORT%202%20HD%20SE.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8163/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Eurosport 2 HD
-http://cdn.admuspeh.my/8163/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Sky Sports F1 HD UK" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/SKY%20SPORTS%20F1%20UK.png" catchup-days="0", Sky Sports F1 HD UK
-http://cdn.admuspeh.my/8688/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Extreme Sports" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/Extreme%20Sports%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8098/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Extreme Sports
-http://cdn.admuspeh.my/8098/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="ESPN" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/ESPN%201%20HD%20NL.png" catchup-days="0", ESPN
-http://cdn.admuspeh.my/8755/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="viju+ Sport HD" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/Viju+%20Sport%20HD%20orig.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8015/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", viju+ Sport HD
-http://cdn.admuspeh.my/8015/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Живи!" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%96%D0%98%D0%92%D0%98!%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8187/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Живи!
-http://cdn.admuspeh.my/8187/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Конный мир HD" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9A%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%9C%D0%B8%D1%80%20HD%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8326/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="14", Конный мир HD
-http://cdn.admuspeh.my/8326/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Setanta Sports 1 HD" group-title="Спорт"  tvg-logo="https://m3u.admuspeh.my/icon/Setanta%20Sports%201%20HD.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8565/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="7", Setanta Sports 1 HD
-http://cdn.admuspeh.my/8565/video.m3u8?token=aCHYL5BAkGBshJPt
+
+
+
+
 #EXTINF:-1 tvg-id="Mezzo" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/MEZZO%20RO.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8031/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="3", Mezzo
 http://cdn.admuspeh.my/8031/video.m3u8?token=aCHYL5BAkGBshJPt
 #EXTINF:-1 tvg-id="Ля минор" group-title="Музыка"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9B%D1%8F-%D0%BC%D0%B8%D0%BD%D0%BE%D1%80%20%D0%A2%D0%92%20orig.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8101/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="14", Ля минор
@@ -2414,10 +2350,11 @@ http://cdn.admuspeh.my/8866/video.m3u8?token=aCHYL5BAkGBshJPt
 http://cdn.admuspeh.my/8867/video.m3u8?token=aCHYL5BAkGBshJPt
 #EXTINF:-1 tvg-id="CineMan Cartoons 90 FHD" group-title="Детские"  tvg-logo="https://m3u.admuspeh.my/icon/Cartoons%2090.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8812/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="1", CineMan Cartoons 90 FHD
 http://cdn.admuspeh.my/8812/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="CineMan XXX FHD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/CineMan%20ExExEx.png" catchup-days="0", CineMan XXX FHD
-http://cdn.admuspeh.my/8868/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="CineMan XXX2 FHD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/CineMan%20ExExEx%20TWO.png" catchup-days="0", CineMan XXX2 FHD
-http://cdn.admuspeh.my/8869/video.m3u8?token=aCHYL5BAkGBshJPt
+
+
+
+
+
 #EXTINF:-1 tvg-id="CineMan OLD 4K" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/cineman-old4k.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8804/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="1", CineMan OLD 4K
 http://cdn.admuspeh.my/8804/video.m3u8?token=aCHYL5BAkGBshJPt
 #EXTINF:-1 tvg-id="CineMan CCCP 4K" group-title="4K"  tvg-logo="https://m3u.admuspeh.my/icon/cineman-sssr4k.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8795/video-${start}-${duration}.m3u8?token=aCHYL5BAkGBshJPt" timeshift="1", CineMan CCCP 4K
@@ -2775,128 +2712,8 @@ http://cdn.admuspeh.my/9077/video.m3u8?token=aCHYL5BAkGBshJPt
 http://cdn.admuspeh.my/9080/video.m3u8?token=aCHYL5BAkGBshJPt
 #EXTINF:-1 tvg-id="Kernel TV Счастливого нового года HD" group-title="Киноканалы"  tvg-logo="https://m3u.admuspeh.my/icon/kernel_happy_new_year.png" catchup-days="0", Kernel TV Счастливого нового года HD
 http://cdn.admuspeh.my/9084/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Шёлк" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A8%D1%91%D0%BB%D0%BA.png" catchup-days="0", Шёлк
-http://cdn.admuspeh.my/8129/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Brazzers TV" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Brazzers%20HD.png" catchup-days="0", Brazzers TV
-http://cdn.admuspeh.my/8131/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Brazzers TV Europe" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Brazzers%20TV%20Europe.png" catchup-days="0", Brazzers TV Europe
-http://cdn.admuspeh.my/8407/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Русская ночь" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F%20%D0%9D%D0%BE%D1%87%D1%8C.png" catchup-days="0", Русская ночь
-http://cdn.admuspeh.my/8191/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Playboy TV" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Playboy%20Plus.png" catchup-days="0", Playboy TV
-http://cdn.admuspeh.my/8193/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Private TV" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Private%20HD.png" catchup-days="0", Private TV
-http://cdn.admuspeh.my/8203/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Penthouse Gold HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Penthouse%20Gold%20HD.png" catchup-days="0", Penthouse Gold HD
-http://cdn.admuspeh.my/8342/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Penthouse Reality TV" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Penthouse%20Reality%20TV%20FHD.png" catchup-days="0", Penthouse Reality TV
-http://cdn.admuspeh.my/9248/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Extasy HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Extasy%20HD.png" catchup-days="0", Extasy HD
-http://cdn.admuspeh.my/9234/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Dorcel TV" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/DORCEL%20TV%20FHD.png" catchup-days="0", Dorcel TV
-http://cdn.admuspeh.my/9235/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="ОХ-АХ HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/%D0%9E%D0%A5-%D0%90%D0%A5%20HD.png" catchup-days="0", ОХ-АХ HD
-http://cdn.admuspeh.my/9250/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="XXL" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/XXL.png" catchup-days="0", XXL
-http://cdn.admuspeh.my/9249/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Redlight HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Redlight%20HD%20orig.png" catchup-days="0", Redlight HD
-http://cdn.admuspeh.my/9247/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="KinoXXX" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/KinoXXX.png" catchup-days="0", KinoXXX
-http://cdn.admuspeh.my/9240/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Babes TV HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Babes%20TV%20HD.png" catchup-days="0", Babes TV HD
-http://cdn.admuspeh.my/9252/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Шалун" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/shalun.png" catchup-days="0", Шалун
-http://cdn.admuspeh.my/8343/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Blue Hustler" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Blue%20Hustler.png" catchup-days="0", Blue Hustler
-http://cdn.admuspeh.my/8405/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Vivid Red" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Vivid%20Red%20HD.png" catchup-days="0", Vivid Red
-http://cdn.admuspeh.my/8374/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Vivid Red HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Vivid%20Red%20HD.png" catchup-days="0", Vivid Red HD
-http://cdn.admuspeh.my/8374/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="RED Lips HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Red%20Lips.png" catchup-days="0", RED Lips HD
-http://cdn.admuspeh.my/8030/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Barely Legal TV" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Barely%20Legal%20TV.png" catchup-days="0", Barely Legal TV
-http://cdn.admuspeh.my/8413/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Exxxotica" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/EXXXOTICA%20HD%20orig.png" catchup-days="0", Exxxotica
-http://cdn.admuspeh.my/8414/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Eroxxx HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Eroxxx%20HD.png" catchup-days="0", Eroxxx HD
-http://cdn.admuspeh.my/8415/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Hustler TV" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Hustler%20HD%20Europe.png" catchup-days="0", Hustler TV
-http://cdn.admuspeh.my/8128/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="FRENCHLOVER" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/FrenchLover.png" catchup-days="0", FRENCHLOVER
-http://cdn.admuspeh.my/8393/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="XY Mix" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/XY%20Mix%20HD.png" catchup-days="0", XY Mix
-http://cdn.admuspeh.my/9237/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="XY Max" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/XY%20Max%20HD.png" catchup-days="0", XY Max
-http://cdn.admuspeh.my/9251/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="XY Plus" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/XY%20Plus%201.png" catchup-days="0", XY Plus
-http://cdn.admuspeh.my/9254/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Fap TV 2 HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Fap%20TV%202.png" catchup-days="0", Fap TV 2 HD
-http://cdn.admuspeh.my/9242/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Fap TV 3" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Fap%20TV%203.png" catchup-days="0", Fap TV 3
-http://cdn.admuspeh.my/9243/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Fap TV 4 HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Fap%20TV%204.png" catchup-days="0", Fap TV 4 HD
-http://cdn.admuspeh.my/9244/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Fap TV Anal HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Fap%20TV%20Anal.png" catchup-days="0", Fap TV Anal HD
-http://cdn.admuspeh.my/8407/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Fap TV Parody HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Fap%20TV%20Parody.png" catchup-days="0", Fap TV Parody HD
-http://cdn.admuspeh.my/9177/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Fap TV Teens" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Fap%20TV%20Teens.png" catchup-days="0", Fap TV Teens
-http://cdn.admuspeh.my/9238/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Fap TV Lesbian HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Fap%20TV%20Lesbian.png" catchup-days="0", Fap TV Lesbian HD
-http://cdn.admuspeh.my/9239/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Fap TV Compilation HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Fap%20TV%20Compilation.png" catchup-days="0", Fap TV Compilation HD
-http://cdn.admuspeh.my/9241/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Fap TV BBW HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Fap%20TV%20BBW.png" catchup-days="0", Fap TV BBW HD
-http://cdn.admuspeh.my/9245/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV Milf HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Milf HD
-http://cdn.admuspeh.my/9255/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV Blowjob HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Blowjob HD
-http://cdn.admuspeh.my/9264/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV Big Dick HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Big Dick HD
-http://cdn.admuspeh.my/9256/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV Big Tits HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Big Tits HD
-http://cdn.admuspeh.my/9257/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV Fetish HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Fetish HD
-http://cdn.admuspeh.my/9258/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV Pornstar HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Pornstar HD
-http://cdn.admuspeh.my/9259/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV Big Ass HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Big Ass HD
-http://cdn.admuspeh.my/9260/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV Interracial HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Interracial HD
-http://cdn.admuspeh.my/9261/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV Latina HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Latina HD
-http://cdn.admuspeh.my/9262/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV POV HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV POV HD
-http://cdn.admuspeh.my/9263/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV Teen HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Teen HD
-http://cdn.admuspeh.my/9265/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV Hardcore HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Hardcore HD
-http://cdn.admuspeh.my/9266/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV Cuckold HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Cuckold HD
-http://cdn.admuspeh.my/9267/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV Threesome HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Threesome HD
-http://cdn.admuspeh.my/9268/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV Russian HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Russian HD
-http://cdn.admuspeh.my/9269/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV Lesbian HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Lesbian HD
-http://cdn.admuspeh.my/9270/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV Rough HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Rough HD
-http://cdn.admuspeh.my/9271/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV Gangbang HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Gangbang HD
-http://cdn.admuspeh.my/9272/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV Anal HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Anal HD
-http://cdn.admuspeh.my/9273/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV Compilation HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Compilation HD
-http://cdn.admuspeh.my/9274/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV Brunette HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Brunette HD
-http://cdn.admuspeh.my/9275/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV Blonde HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Blonde HD
-http://cdn.admuspeh.my/9276/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV Gay HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Gay HD
-http://cdn.admuspeh.my/9277/video.m3u8?token=aCHYL5BAkGBshJPt
-#EXTINF:-1 tvg-id="Adult TV Asian HD" group-title="XXX"  tvg-logo="https://m3u.admuspeh.my/icon/Adult%20TV%20(18+).png" catchup-days="0", Adult TV Asian HD
-http://cdn.admuspeh.my/9278/video.m3u8?token=aCHYL5BAkGBshJPt
+
+
 
 
 
