@@ -3,8 +3,7 @@
 https://cdn.promelord.ru:8080/api/public/dl/88DB8Uhm?inline=true
 
 #EXTINF:-1 group-title="ВНИМАНИЕ",Внимание
-#EXT-X-STREAM-INF:BANDWIDTH=1280000
-http://cdn.promelord.ru:5555/final.m3u8
+https://cdn.promelord.ru:8080/api/public/dl/ivs7CT8L?inline=true
 
 
 #EXTINF:-1 tvg-name="1.FM - A List 80s" group-title=" Радио ", 1.FM - A List 80s
