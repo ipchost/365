@@ -3,7 +3,7 @@
 https://cdn.promelord.ru:8080/api/public/dl/88DB8Uhm?inline=true
 
 #EXTINF:-1 group-title="ВНИМАНИЕ",Внимание
-https://cdn.promelord.ru:8080/api/public/dl/ph9AcqYM/stream.m3u8?inline=true
+http://cdn.promelord.ru:5555/final.m3u8
 
 
 #EXTINF:-1 tvg-name="1.FM - A List 80s" group-title=" Радио ", 1.FM - A List 80s
